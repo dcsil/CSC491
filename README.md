@@ -39,4 +39,8 @@ Communication, as we will discuss in the course, is vital to the success of any 
 | Internal Wikis | TODO |
 | Team Discussions | TODO |
 
+## Policies
 
+- [Plagiarism](/policies/plagiarism.md)
+- [Support and Accomodation](/policies/support_accomodation.md)
+- [Team Grades](/policies/team_grades.md)
