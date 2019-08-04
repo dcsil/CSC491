@@ -14,10 +14,11 @@
 | N/A | Thursday, November 7 2019 | University | NO CLASS - Reading Week |
 | 10 | Thursday, November 14 2019 | University | TBD |
 | 11 | Thursday, November 21 2019 | Remote | TBD |
-| 12 | Thursday, November 28 2019 | University | Last Class |
+| 12 | Thursday, November 28 2019 | University | Last Class - Final Demos |
 
 ## Assignment Schedule
 
 | Assignment | Date | Description |
 | -- | -- | -- |
 | [Assignment 1](/assignments/a1.md) | Thursday, September 19 2019 | This assignment will function as a foundation for the rest of this course. As such, it is assigned on day 1 with a due date 2 weeks later. This assignment is intended to give you a place for team discussions and kick start some basic ideas. |
+| Final Demos | Thursday, November 28 2019 | Demos of your research, prototypes, and work throughout the semester |
