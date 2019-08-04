@@ -13,11 +13,14 @@ Students will be given a theme in which to develop a startup. Students are expec
 - Produce a working MVP (minimum viable product)
 - Present their work in various mediums, including written, orally, visually, and through the internet.
 
+## Schedule
+
+Please refer to the [schedule page](schedule.md).
+
 ## What will lectures look like?
 
 Class time will be a mixture of project-focused workshops, lectures, and discussions. The class will be small and highly
 interactive. Students may hear from guest lecturers in the field.
-
 
 ## Requirements to take this course
 
