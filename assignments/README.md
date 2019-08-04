@@ -1,3 +1,6 @@
+Assignments, Deliverables, Distribution of Grades
+---
+
 There are a number of assignments that make up your final grade, the weights are listed below:
 
 | Assignment | Description | Weight | Submission Location |
