@@ -18,4 +18,6 @@
 
 ## Assignment Schedule
 
-TBA
+| Assignment | Date | Description |
+| -- | -- | -- |
+| [Assignment 1](/assignments/a1.md) | Thursday, September 19 2019 | This assignment will function as a foundation for the rest of this course. As such, it is assigned on day 1 with a due date 2 weeks later. This assignment is intended to give you a place for team discussions and kick start some basic ideas. |
