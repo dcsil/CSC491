@@ -12,8 +12,8 @@
 | 8 | Thursday, October 24 2019 | University | Work in Class |
 | 9 | Thursday, October 31 2019 | University | (A3 Prototype V1) Lecture TBD |
 | N/A | Thursday, November 7 2019 | University | NO CLASS - Reading Week |
-| 10 | Thursday, November 14 2019 | University | Work in Class to prepare for final demos |
-| 11 | Thursday, November 21 2019 | Remote | Lecture TBD |
+| 10 | Thursday, November 14 2019 | Remote | Lecture TBD | 
+| 11 | Thursday, November 21 2019 | University | Work in Class to prepare for final demos |
 | 12 | Thursday, November 28 2019 | University | Last Class - Final Demos of Prototype V2 |
 
 #### Summary
