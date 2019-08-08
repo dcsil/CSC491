@@ -35,3 +35,10 @@ interactive. Students may hear from guest lecturers from the field.
 There is a co-requisite to CSC491/2601, students must also be enrolled in CSC454/2526 or have taken CSC454/2526 before to take this course.
 
 There is also an application process on [the DCSIL website](https://www.dcsil.ca/student-courses).
+
+# I don't like something about this course
+
+That's great. There's always room for improvement.
+
+Please submit an issue on this repo, or preferably make a pull request changing or adding something you don't like.
+
