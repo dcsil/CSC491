@@ -38,11 +38,10 @@ There is also an application process on [the DCSIL website](https://www.dcsil.ca
 
 # I don't like something about this course
 
-That's great. There's always room for improvement.
+There's always room for improvement and I'm happy to take any feedback.
 
 Please submit an issue on this repo, or preferably make a pull request changing or adding something you don't like.
 
-That said, remember that your changes or concerns aren't guaranteed to be addressed how you want. The instructor has the final say.
+That said, remember that your changes or concerns aren't guaranteed to be addressed how you want. I (the instructor) have the final say.
 
-If you prefer to speak privately, please email the course instructor.
-
+If you prefer to speak privately, please email me.
