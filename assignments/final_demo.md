@@ -1,7 +1,7 @@
 Final Demo
 ---
 
-Your final *live* demo will be to the entire class. You should present a functional demo of the product you planned over the last few months. You will give a *live demo* of the product in class to the instructor & TA and take questions from everyone.
+Your final *live* demo will be to the entire class. You should present a functional demo of the product you built over the last few months. You will give a *live demo* of the product in class to the instructor & TA and take questions from everyone.
 
 The goals of the demo are:
 
@@ -66,12 +66,12 @@ It is suggested to use a folder and multiple files, just like this CSC491 repo, 
  
 | Area | Description| Weight |
 | --- | --- | --- |
-| Problem and Solution | Gives a concise explation of the problem and solution | 5.0 |
+| Problem and Solution | Gives a concise explanation of the problem and solution | 5.0 |
 | Progress | Has clearly progressed from Assignment 3 and addressed any feedback | 25.0 |
 | Vision | Shows a better understanding of the problem from A3, explains the vision of the product, does not leave questions unanswered`*` | 10.0 |
 | Software | Has working code that runs and delivers a demo. Does not need to use command line (unless that is the main product UI!), code, unit tests, or other mockups to show the main flow  | 30.0 |
 | Reflection | Thoughtfully reflects on the build plan and problems faced. Outlines plans into the future. | 15.0 |
-| Presentation | Engaging presentation, ensured only relevant parts were shown and does not sugar-coat | 15.0 |
+| Presentation | Engaging presentation, ensures only relevant parts are shown and does not sugar-coat | 15.0 |
 | | **Total** | 100.0 |
 
 `*` It is ok to say "I'm not sure, thank you for brining that up. I'll research it and get back to you" as long as it's not a large portion of the questions
