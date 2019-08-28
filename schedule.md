@@ -2,9 +2,9 @@
 
 | # | Date | Location | Description |
 | -- | -- | -- | -- |
-| 1 | Thursday, September 5 2019 | University | First day of class, Introduction & Product/Market Fit, Workshop |
+| 1 | Thursday, September 5 2019 | University | First day of class, Introduction & Product/Market Fit, Work in Class |
 | 2 | Thursday, September 12 2019 | University | Lecture TBD |
-| 3 | Thursday, September 19 2019 | University | (❗A1 Due) Work in Class |
+| 3 | Thursday, September 19 2019 | University | (❗A1 Due) Lecture TBD |
 | 4 | Thursday, September 26 2019 | University | (❗A2 Due) Work in Class |
 | 5 | Thursday, October 3 2019 | University | Lecture TBD |
 | 6 | Thursday, October 10 2019 | University | (❗A3 User Research Due) Lecture TBD + Work in Class |
@@ -21,10 +21,11 @@
 
 #### Summary
 
-- 6.5 Lectures (19.5 hours)
-- 3.5 Work in Class periods (10.5 hours)
+- 5.5 Lectures (16.5 hours)
+- 4.5 Work in Class periods (13.5 hours)
 - 1 Intro with small lecture + work in class (3 hours)
 - 1 Presentation (3 hours)
+- **Total**: 36 hours
 
 ## Assignment Schedule
 

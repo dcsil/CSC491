@@ -8,6 +8,7 @@ University of Toronto's Capstone Design Course through the [Department of Comput
    - [Requirements to take this course](#requirements-to-take-this-course)
 - [Schedule](schedule.md)
 - [Assignments, Deliverables, Distribution of Grades](/assignments)
+- [Presentations](/presentations)
 - [Resources and Readings](resources_readings.md)
 - Policies
    - [Plagiarism](/policies/plagiarism.md)
