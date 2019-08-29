@@ -7,6 +7,7 @@ end
 require 'cli/ui'
 require 'cli/kit'
 require 'yaml'
+require 'tempfile'
 
 CLI::UI::StdoutRouter.enable
 
@@ -22,9 +23,17 @@ def convert_file(file)
     "output",
     File.basename(file, ".md") + ".html"
   )
-  CLI::UI::Frame.divider("Conversion")
-  puts "#{file} => #{output}"
-  system("marp #{file} -o #{output}")
+
+  Tempfile.create(File.basename(file, ".md")) do |tmp_file|
+    puts "Converting ./img to ../img by saving to a tempfile"
+    tmp_file.write(File.read(file).gsub(%r{\(img}, "(../img")) # Change images to be ../img instead of img
+    tmp_file.write(File.read(file).gsub(%r{\./img}, "../img")) # Change images to be ../img instead of ./img
+    tmp_file.rewind
+
+    CLI::UI::Frame.divider("Conversion")
+    puts "#{file} => #{output}"
+    system("marp #{tmp_file.path} -o #{output}")
+  end
 end
 
 def sha_when_last_changed(file)
@@ -45,7 +54,7 @@ Dir.glob(presentations_glob) do |file|
   CLI::UI::Frame.open(file) do
     sha = sha_when_last_changed(file)
 
-    if tracking[file] == sha
+    if tracking[file] == sha && !ARGV.include?("--force")
       puts "#{file} unchanged, skipping"
       next
     end
