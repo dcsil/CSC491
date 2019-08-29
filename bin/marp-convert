@@ -25,14 +25,15 @@ def convert_file(file)
   )
 
   Tempfile.create(File.basename(file, ".md")) do |tmp_file|
-    puts "Converting ./img to ../img by saving to a tempfile"
     tmp_file.write(File.read(file).gsub(%r{\(img}, "(../img")) # Change images to be ../img instead of img
     tmp_file.write(File.read(file).gsub(%r{\./img}, "../img")) # Change images to be ../img instead of ./img
     tmp_file.rewind
 
     CLI::UI::Frame.divider("Conversion")
     puts "#{file} => #{output}"
-    system("marp #{tmp_file.path} -o #{output}")
+    CLI::UI::Spinner.spin("Running marp on file") do
+      CLI::Kit::System.system("marp #{tmp_file.path} -o #{output}")
+    end
   end
 end
 
