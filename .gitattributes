@@ -2,3 +2,6 @@
 *.md linguist-generated=false
 *.md linguist-documentation=false
 *.md linguist-detectable=true
+
+presentations/output/* linguist-vendored=true
+presentations/output/* linguist-detectable=false
