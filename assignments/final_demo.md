@@ -67,14 +67,17 @@ It is suggested to use a folder and multiple files, just like this CSC491 repo, 
 | Area | Description| Weight |
 | --- | --- | --- |
 | Problem and Solution | Gives a concise explanation of the problem and solution | 5.0 |
-| Progress | Has clearly progressed from Assignment 3 and addressed any feedback | 25.0 |
-| Vision | Shows a better understanding of the problem from A3, explains the vision of the product, does not leave questions unanswered`*` | 10.0 |
+| Progress | Has clearly progressed from Assignment 3 and addressed any feedback`*` | 25.0 |
+| Vision | Shows a better understanding of the problem from A3, explains the vision of the product, does not leave questions unanswered`**` | 10.0 |
 | Software | Has working code that runs and delivers a demo. Does not need to use command line (unless that is the main product UI!), code, unit tests, or other mockups to show the main flow  | 30.0 |
 | Reflection | Thoughtfully reflects on the build plan and problems faced. Outlines plans into the future. | 15.0 |
 | Presentation | Engaging presentation, ensures only relevant parts are shown and does not sugar-coat | 15.0 |
 | | **Total** | 100.0 |
 
-`*` It is ok to say "I'm not sure, thank you for brining that up. I'll research it and get back to you" as long as it's not a large portion of the questions
+`*` If a lot of progress has already been made from [Assignment 4](https://github.com/dcsil/CSC491/edit/master/assignments/a4.md) then
+the marking will take that into account; however, there should be some attempt to improve upon the MVP after some ad-hoc user feedback.
+
+`**` It is ok to say "I'm not sure, thank you for brining that up. I'll research it and get back to you" as long as it's not a large portion of the questions
 
 ## Rating Scale
 
