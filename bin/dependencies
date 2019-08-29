@@ -1,0 +1,66 @@
+#!/usr/bin/env ruby
+
+Dir.glob(File.expand_path("../vendor/*/lib", __FILE__)) do |path|
+  $LOAD_PATH.unshift(path) unless $LOAD_PATH.include?(path)
+end
+
+require 'cli/ui'
+require 'cli/kit'
+require 'yaml'
+require 'json'
+require 'net/http'
+require 'tempfile'
+
+CLI::UI::StdoutRouter.enable
+
+vendor_path = File.expand_path("../vendor/", __FILE__)
+sha_yml_path = File.join(vendor_path, "SHA.yml")
+sha_yml = YAML.load_file(sha_yml_path)
+
+def latest_sha(repo)
+  response = Net::HTTP.get_response(URI("https://api.github.com/repos/#{repo}/commits/master"))
+  JSON.parse(response.body)["sha"]
+end
+
+def download_latest(repo, target_dir)
+  Dir.mktmpdir do |dir|
+    output = "#{dir}/repo.zip"
+    success = true
+    CLI::UI::Spinner.spin("Downloading #{repo} repo") do |spinner|
+      success = CLI::Kit::System.system("curl https://github.com/#{repo}/archive/master.zip -Lo #{output}").success?
+
+      spinner.update_title("Unzipping repo to #{target_dir}") if success
+      success &= CLI::Kit::System.system("unzip #{output} -d #{dir}").success?
+
+
+      spinner.update_title("Removing old directory") if success
+      success &= CLI::Kit::System.system("rm", "-rf", "#{target_dir}/#{repo.split('/').last}-master").success?
+
+      from = "#{dir}/#{repo.split('/').last}-master"
+      spinner.update_title("Copying unzipped file to #{target_dir}/#{repo}") if success
+      success &= CLI::Kit::System.system("mv", "-f", from,  target_dir).success?
+    end
+    return success
+  end
+end
+
+sha_yml.each do |repo, attrs|
+  CLI::UI::Frame.open(repo) do
+    current_sha = attrs["sha"]
+    latest = latest_sha(repo)
+  
+    if current_sha == latest
+      puts CLI::UI.fmt "{{v}} All up to date"
+      next
+    end
+
+    if download_latest(repo, vendor_path)
+      sha_yml[repo]["sha"] = latest
+    else
+      false
+    end
+  end
+end
+
+puts "Writing sha.yml to disk"
+File.write(sha_yml_path, sha_yml.to_yaml)

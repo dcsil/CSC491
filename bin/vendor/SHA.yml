@@ -1,0 +1,5 @@
+---
+shopify/cli-ui:
+  sha: 1481be6c6efa5717730c68735372d759f9c29fbf
+shopify/cli-kit:
+  sha: 032f46a448f33f8e0bc70f415c8a502fca52fd78
