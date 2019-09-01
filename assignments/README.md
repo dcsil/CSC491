@@ -6,7 +6,7 @@ There are a number of assignments that make up your final grade, the weights are
 | Assignment | Description | Weight | Submission Location |
 | --- | --- | --- | --- |
 | [Assignment 1](a1.md) | Team Introduction, Team Setup, Problem + User Exploration | 10% | Repo |
-| [Assignment 2](a2.md) | Team Exporation - Diversity and Inclusion | 15% | Repo |
+| [Assignment 2](a2.md) | Team Exploration - Diversity and Inclusion | 15% | Repo |
 | [Assignment 3](a3.md) | User Validation & Roadmap | 25% | Writeup in Repo, Roadmap from A1 updated |
 | [Assignment 4](a4.md) | Software Demo | 25% | Demos the software to the instructor/TA |
 | [Final Demo](final_demo.md) | Final Demo of your Prototype | 25% | In-class presentation |
