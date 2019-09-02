@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-Dir.glob(File.expand_path("../vendor/*/lib", __FILE__)) do |path|
+Dir.glob(File.expand_path("../_vendor/*/lib", __FILE__)) do |path|
   $LOAD_PATH.unshift(path) unless $LOAD_PATH.include?(path)
 end
 

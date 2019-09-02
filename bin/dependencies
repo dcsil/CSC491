@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-Dir.glob(File.expand_path("../vendor/*/lib", __FILE__)) do |path|
+Dir.glob(File.expand_path("../_vendor/*/lib", __FILE__)) do |path|
   $LOAD_PATH.unshift(path) unless $LOAD_PATH.include?(path)
 end
 
@@ -13,7 +13,7 @@ require 'tempfile'
 
 CLI::UI::StdoutRouter.enable
 
-vendor_path = File.expand_path("../vendor/", __FILE__)
+vendor_path = File.expand_path("../_vendor/", __FILE__)
 sha_yml_path = File.join(vendor_path, "SHA.yml")
 sha_yml = YAML.load_file(sha_yml_path)
 
