@@ -14,6 +14,8 @@ There are a number of assignments that make up your final grade, the weights are
 
 Due dates can be seen on [the schedule](../schedule.md).
 
+There is a bonus assignmnent [that you can see here](./bonus.md).
+
 ### Participation
 
 While there is no explicit mark for participation, you are expected to be active in the Slack group, team chats, class discussions, and general day-to-day operations. If it is noticed that you are not participating at all, we'll have a talk to dicuss the issue. If you do not correct for these actions, you may be subject to up to a 10% penalty on your final grade.
