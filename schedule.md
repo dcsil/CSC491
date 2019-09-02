@@ -29,4 +29,4 @@
 
 ## Assignments
 
-Please see the [assignments section](/assignments/README.md).
+Please see the [assignments section](./assignments/README.md).
