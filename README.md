@@ -11,7 +11,7 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 - [Assignments, Deliverables, Distribution of Grades](./assignments)
 - [Presentations](./presentations)
 - [Resources and Readings](./resources_readings.md)
-- Policies
+- [Policies](./policies)
    - [Plagiarism](./policies/plagiarism.md)
    - [Support and Accomodation](./policies/support_accomodation.md)
    - [Team Grades](./policies/team_grades.md)
