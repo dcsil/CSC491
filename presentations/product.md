@@ -8,13 +8,13 @@ marp: true
 
 ---
 
-### I asked a question on Twitter...
+# I asked a question on Twitter...
 
 ![height:300px legend:Tweet asking what is important to teach](./img/product/tweet_1.png)
 
 ---
 
-### And I got some interesting responses...
+# And I got some interesting responses...
 
 ![height:500px legend:Tobi Lütke's response about product market fit](./img/product/tweet_2.png)
 
@@ -56,7 +56,7 @@ While product can encompass a lot more, we're going to talk about the basics: A 
 
 ---
 
-# Vision
+# 1. Vision
 
 ![height:300px legend:Image of the North Star](./img/product/north_star.jpeg)
 
@@ -72,13 +72,84 @@ The North Star has guided travelers for centuries. It is a reference point for w
 
 # 1. Vision
 
-## Core "mantra" of your company's product
+- Core "mantra" of your company's product
+- A "North Star" to help guide your decisions
+- Tells us where to steer the ship and gives us directions
+- Can also be called a "purpose" or "mission"
 
-## A "North Star" to help guide your decisions
+---
 
-## Tells us where to steer the ship and gives us directions
+# 1. Vision
 
-TODO: Examples of north star metrics, good and bad
+## Examples of North Stars
+
+### AirBnB
+
+- **Purpose**: Airbnb and its community wants to create a world where Anyone can Belong Anywhere
+- **Metric**: Number of Nights booked
+
+---
+
+# 1. Vision
+
+## Examples of North Stars
+
+### Medium
+
+- **Purpose**: Ideas and perspectives you won’t find anywhere else
+- **Metric**: Total time spent reading
+
+---
+
+# 1. Vision
+
+## Examples of North Stars
+
+### Quora
+
+- **Purpose**: Quora’s mission is to share and grow the world’s knowledge
+- **Metric**: Number of questions answered
+
+---
+
+# 1. Vision
+
+## Examples of North Stars
+
+### Intercom
+
+- **Purpose**: The world’s first customer messaging platform for business growth
+- **Metric**: Number of customer interactions
+
+---
+
+# 1. Vision
+
+## Examples of North Stars
+
+### Facebook
+
+- **Purpose**: ~~To make the world more open and connected~~ Give people the power to build community and bring the world closer together
+- **Metric**: Monthly active users
+
+---
+
+# 1. Vision
+
+## Examples of North Stars
+
+### Shopify
+
+- **Purpose**: Make commerce better for everyone
+- **Metric**: Number of Merchants / Gross merchandise volume
+
+---
+
+# 1. Vision
+
+These examples all show a _purpose_, a _drive_ to exist.
+
+Their purpose isn't just to "make money". That can't really be your purpose unless you're a bank. It can be a goal, but not your main driver.
 
 ---
 
@@ -150,6 +221,7 @@ TODO
 
 ## Articles
 
+- [How AirBnB found its purpose on Medium](https://medium.com/@douglas.atkin/how-airbnb-found-its-purpose-and-why-its-a-good-one-b5c987c0c216)
 - [North Star Metrics answer by Carolyn Rose Kick on Quora](https://www.quora.com/What-is-North-Star-metric-for-startups)
 - [North Star Metric Article on Forbes](https://www.forbes.com/sites/groupthink/2017/04/11/why-our-startup-needed-a-north-star-metric-and-how-we-found-it/#23e344344e40)
 - [Product or Sales Article on Acquire.io](https://acquire.io/blog/startups-product-or-sales/)
