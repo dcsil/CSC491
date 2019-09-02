@@ -5,7 +5,7 @@ While class attendance is mandatory, we will not be taking attendance.
 This is a senior computer science class with a highly competitive application process.
 As such, you are trusted to make the best choice for yourself and your team.
 
-However, as stated in the [team grade policy](/policies/team_grade.md), team members all receive the same grade unless
+However, as stated in the [team grade policy](./team_grades.md), team members all receive the same grade unless
 there is an obvious discrepency in the output of work, then as per policy we will be forced to give you a different grade.
 Attendance may be taken into account.
 
