@@ -2,6 +2,8 @@
 marp: true
 ---
 
+# THIS IS A WIP
+
 ![height:300px legend:White hand under soap dispenser](./img/diversity/white_hand.jpg)
 
 This is a soap dispenser. It dispenses soap without touching the dispenser.

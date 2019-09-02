@@ -12,7 +12,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [Final Demo](./final_demo.md) | Final Demo of your Prototype | 25% | In-class presentation |
 | | **Total** | 100% | |
 
-Due dates can be seen on [the schedule](,,/schedule.md).
+Due dates can be seen on [the schedule](../schedule.md).
 
 ### Participation
 
