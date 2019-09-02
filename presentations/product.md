@@ -211,9 +211,90 @@ Your team is highly valuable and getting the right people is important. We'll ta
 
 ---
 
+# 2. Product Market Fit
+
+One thing to note, that's fairly important, is that you can't determine product market fit once and then assume it remains true.
+
+You need to *always* be validating your product market fit. In the later stages of your company, this will be through product management, UX, Marketing, analytics, data, and other areas.
+
+---
+
 # 3. Product Management
 
-TODO
+Once you have a vision, you've determined product market fit, and you're building your product... how do you make sure you stay true to the product's vision? How do you determine if a feature is valid and useful? Provides value?
+
+The answer is product management.
+
+---
+
+# 3. Product Management
+
+## What is product management?
+
+Product Management is a craft, just like development, design, user research, writing, and the many other crafts you'll need throughout the lifetime of your company.
+
+---
+
+# 3. Product Management
+
+## What is product management?
+
+The product manager (PM for short) is typically responsible for the strategy of a feature, roadmaps, and feature definition for that product or product line.
+
+---
+
+# 3. Product Management
+
+## What is product management?
+
+They are typically found in the same sort of organizational structure as other crafts within the company. This is one such example and may vary by company. We will use this example in this lecture.
+
+![center height:300 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
+
+---
+
+# 3. Product Management
+
+## Product VPs / Chief Product Officers
+
+![center height:200 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
+
+People at the top of the product organizations are responsible for the vision of the entire company. Companies may have many projects, but they must align on a core vision and somehow fit together.
+
+_Keep Note:_ The CEO and Founders often remain heavily involved in this role. In many cases this role remains the CEO's job, and the head of product deals with the product organization management alongside being a right-hand to the CEO for product decisions.
+
+---
+
+# 3. Product Management
+
+## Product Directors
+
+![center height:200 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
+
+These people report into the product top leadership. They are usually responsible for a department or large section of a product. They work with the VP to ensure that their section stays aligned with the company's vision. They also work with their Product Managers (PMs) to ensure alignment down to the project/feature level.
+
+---
+
+# 3. Product Management
+
+## Product Managers
+
+![center height:200 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
+
+The product manager (PM for short) is typically responsible for the strategy of a feature, roadmaps, and feature definition for that product or product line.
+
+A PM is responsible for a concise section of the entire product. They work with their director to ensure it aligns with the product vision for the department.
+
+---
+
+# 3. Product Management
+
+![center height:200 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
+
+Despite the hierarchy, these people all must remain aligned and often discuss and influence direction.
+
+This type of organization _does not mean_ that engineering, design, etc cannot take part in product planning. These people are all invested in the product too. The Product Management's role is to simply ensure the plans of the company remain aligned with the vision.
+
 
 ---
 
@@ -228,6 +309,10 @@ TODO
 - [What is Product Vision? on Aha.io](https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision)
 - [Why startups fail on Forbes](https://fortune.com/2014/09/25/why-startups-fail-according-to-their-founders/)
 - [Odds of becoming a Unicorn are about 1%, and more insights on CBInsights](https://www.cbinsights.com/research/venture-capital-funnel-2/)
+
+---
+
+# Resources
 
 ## Books
 

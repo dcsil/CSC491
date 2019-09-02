@@ -27,6 +27,15 @@ def convert_file(file)
   Tempfile.create(File.basename(file, ".md")) do |tmp_file|
     file_content = File.read(file).gsub(%r{\(img}, "(../img") # Change images to be ../img instead of img
     file_content = file_content.gsub(%r{\./img}, "../img") # Change images to be ../img instead of ./img
+    file_content += <<~EOF
+    <style>
+      img[alt~='center'] {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    </style>
+    EOF
     tmp_file.write(file_content)
     tmp_file.rewind
 
