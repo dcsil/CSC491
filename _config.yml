@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: CSC491 | University of Toronto's Capstone Design Course
+description: |
+  Students will write a software application that implements the business ideas developed in CSC454/2526 (Business of Software).
+  This course will expose students to the core technologies, ideas, and processes in developing a startup.
+show_downloads: false
