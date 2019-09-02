@@ -46,7 +46,7 @@ There aren't any _required_ materials persay, but it is highly recommended to br
 
 There's always room for improvement and I'm happy to take any feedback.
 
-Please submit an issue on this repo, or preferably make a pull request changing or adding something you don't like.
+Please [submit an issue](https://github.com/dcsil/CSC491/issues/new) on this repo, or preferably make a pull request changing or adding something you don't like.
 
 That said, remember that your changes or concerns aren't guaranteed to be addressed how you want. I (the instructor) have the final say.
 
