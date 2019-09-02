@@ -3,22 +3,22 @@ Presentations
 
 These are the presentations for this course. The table below corresponds to the one in the [schedule](../schedule.md).
 
-| Lecture # | Lecture Description | Link |
-| -- | -- | -- |
-| 1 | Introduction & Product/Market Fit | [Raw](./product.md) || [Rendered](./output/product.html) |
-| 2 | Diversity/Inclusion | [Raw](./diversity.md) || [Rendered](./output/diversity.html) |
-| 2 | People Management | TODO |
-| 2 | Ethics/Accessibility | TODO |
-| 3 | - | - |
-| 4 | - | - |
-| 5 | Lecture TBD | TODO |
-| 6 | Lecture TBD | TODO |
-| 7 | Lecture TBD | TODO |
-| 8 | - | - |
-| 9 | - | - |
-| 10 | Lecture TBD | TODO |
-| 11 | - | - |
-| 12 | - | - |
+| Lecture # | Lecture Description | Link to Source | Link to Rendered |
+| -- | -- | -- | -- |
+| 1 | Introduction & Product/Market Fit | [Raw](./product.md) | [Rendered](./output/product.html) |
+| 2 | Diversity/Inclusion | [Raw](./diversity.md) | [Rendered](./output/diversity.html) |
+| 2 | People Management | TODO | TODO |
+| 2 | Ethics/Accessibility | TODO | TODO |
+| 3 | - | - | - |
+| 4 | - | - | - |
+| 5 | Lecture TBD | TODO | TODO |
+| 6 | Lecture TBD | TODO | TODO |
+| 7 | Lecture TBD | TODO | TODO |
+| 8 | - | - | - |
+| 9 | - | - | - |
+| 10 | Lecture TBD | TODO | TODO |
+| 11 | - | - | - |
+| 12 | - | - | - |
 
 ### Attendance
 
