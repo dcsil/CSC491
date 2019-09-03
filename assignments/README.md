@@ -7,14 +7,17 @@ There are a number of assignments that make up your final grade, the weights are
 | --- | --- | --- | --- |
 | [Assignment 1](./a1.md) | Team Introduction, Team Setup | 5% | Repo |
 | [Assignment 2](./a2.md) | Team Exploration - Diversity and Inclusion | 15% | Repo |
-| [Assignment 3](./a3.md) | Problem + User Exploration | 10% | Repo |
-| [Assignment 4](./a4.md) | User Validation & Roadmap | 25% | Writeup in Repo, Roadmap from A1 updated |
+| [Assignment 3](./a3.md) | Problem + User Exploration | 15% | Repo |
+| [Assignment 4](./a4.md) | User Validation & Roadmap | 20% | Writeup in Repo, Roadmap from A1 updated |
 | [Assignment 5](./a5.md) | Software Demo | 20% | Demos the software to the instructor/TA |
 | [Final Demo](./final_demo.md) | Final Demo of your Prototype | 25% | In-class presentation |
 | [Bonus](./bonus.md) | Bonus Assignment | +5% | Dev.to + Email |
 | | **Total** | 100% (+5%) | |
 
-Due dates can be seen on [the schedule](../schedule.md).
+### Important Notes
+
+- Due dates can be seen on [the schedule](../schedule.md).
+- Each assignment builds off of one another. If you don't do one, you won't be able to complete the next assignment as it's rubric and requirements build off the ones prior to it.
 
 ### Participation
 
