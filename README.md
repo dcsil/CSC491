@@ -23,7 +23,7 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 Students will write a software application that implements the business ideas developed in
 CSC454/2526 (Business of Software). This course will expose students to the core technologies, ideas, and processes in developing a startup.
 
-Students will be given a theme in which to develop a startup. Students are expected to:
+Students will be given a theme, in the corequisite course (CSC454), in which to develop a startup. Students are expected to:
 - Define their own scope of problem within the theme
 - Develop a cohesive plan
 - Produce a working MVP (minimum viable product)
