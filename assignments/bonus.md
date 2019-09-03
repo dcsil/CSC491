@@ -22,6 +22,7 @@ Your bonus assignment, worth 5% extra, is to write a blog post on dev.to on a to
 - It cannot be a discussion topic (you're welcome to write one of those too, but I want to encourage technical writing)
 - Must use decent grammar and writing (I recommend using the free version of [Grammarly](https://www.grammarly.com/))
   - If your submission is determined to need grammar updates, I will give you a chance to update it
+- Must be submitted before the start of exams which you can [find on the university's website](https://fas.calendar.utoronto.ca/sessional-dates)
 
 ## Submission
 
