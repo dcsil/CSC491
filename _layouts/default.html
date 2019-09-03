@@ -21,7 +21,8 @@
 
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}/blob/{{site.github.source.branch}}/{{page.path}}" class="btn">View on GitHub</a>
-        <a href="{{ site.github.repository_url }}/edit/{{site.github.source.branch}}/{{page.path}}" class="btn">Suggest changes on GitHub</a></span>
+        <a href="{{ site.github.repository_url }}/edit/{{site.github.source.branch}}/{{page.path}}" class="btn">Edit this Page</a></span>
+        <a href="{{ site.github.repository_url }}/issues/new" class="btn">Raise a concern or issue</a></span>
       {% endif %}
 
       {% if site.show_downloads %}
