@@ -10,11 +10,10 @@ There are a number of assignments that make up your final grade, the weights are
 | [Assignment 3](./a3.md) | User Validation & Roadmap | 25% | Writeup in Repo, Roadmap from A1 updated |
 | [Assignment 4](./a4.md) | Software Demo | 25% | Demos the software to the instructor/TA |
 | [Final Demo](./final_demo.md) | Final Demo of your Prototype | 25% | In-class presentation |
-| | **Total** | 100% | |
+| [Bonus](./bonus.md) | Bonus Assignment | +5% | Dev.to + Email |
+| | **Total** | 100% (+5%) | |
 
 Due dates can be seen on [the schedule](../schedule.md).
-
-There is a bonus assignmnent [that you can see here](./bonus.md).
 
 ### Participation
 
