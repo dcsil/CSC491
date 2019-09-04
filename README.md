@@ -7,6 +7,7 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 - [Course Overview](#course-overview)
    - [Requirements to take this course](#requirements-to-take-this-course)
    - [Required Materials](#required-materials)
+- [Who is the lecturer?](#lecturer)
 - [Schedule](./schedule.md)
 - [Assignments, Deliverables, Distribution of Grades](./assignments)
 - [Presentations](./presentations)
@@ -42,7 +43,16 @@ There is also an application process on [the DCSIL website](https://www.dcsil.ca
 
 There aren't any _required_ materials persay, but it is highly recommended to bring a laptop to class with a fully functioning developer environment for your project. While not all classes will be workshops, it is recommended to bring your laptop during each class for other uses such as research.
 
-# I don't like something about this course
+## Lecturer
+
+Hello! My name is Julian Nadeau. You can reach me at julian.nadeau[at]utoronto.ca.
+
+I am a Senior Software Developer at GitHub during the day. I've also worked in the startup space quite a lot having experienced explosive growth in various roles at Shopify from 2013 to the beginning of this year, including their IPO.
+I've run a not-for-profit startup as well, called Code For Kids, that helped teach kids how to code.
+
+You can view my personal website at [https://jnadeau.ca](https://jnadeau.ca) and my [LinkedIn Profile here](https://www.linkedin.com/in/juliannadeau/).
+
+## I don't like something about this course
 
 There's always room for improvement and I'm happy to take any feedback.
 
