@@ -295,6 +295,64 @@ Despite the hierarchy, these people all must remain aligned and often discuss an
 
 This type of organization _does not mean_ that engineering, design, etc cannot take part in product planning. These people are all invested in the product too. The Product Management's role is to simply ensure the plans of the company remain aligned with the vision.
 
+---
+
+# Product Roadmaps
+
+Most people tend to default to a product roadmap that is based solely ontime.
+
+![center height:400 legend:Time based roadmap courtesy, image inspired by https://twitter.com/simplybastow/status/1168531686033960961](./img/product/roadmap_timeline.png)
+
+_This section is inspired by [this Twitter thread](https://twitter.com/simplybastow/status/1168531672335343616) from [Janna Bastow](https://twitter.com/simplybastow) (CEO of [ProdPad](https://twitter.com/ProdPad)), including the images_
+
+---
+
+# Product Roadmaps
+
+Time-based roadmaps make sense at first, but as time goes on you have no idea what is actually going to happen. Now you're making stuff up and putting arbitrary limits.
+
+![center height:400 legend:Time based roadmap courtesy, image inspired by https://twitter.com/simplybastow/status/1168531686033960961](./img/product/roadmap_timeline.png)
+
+---
+
+# Product Roadmaps
+
+- You don't actually know how long things will take until they're closer in the horizon
+- External factors and stakeholders can cause a disruption in your schedule
+- You assume that every feature will work 100% the first time, this is not usually the case
+- It's a ton of assumptions!
+
+---
+
+# Product Roadmaps
+
+## So what now?
+
+---
+
+# Product Roadmaps
+
+You're welcome to use a timebased roadmap on a short term (few weeks to 6 weeks), but for the rest:
+
+1. Just like your company's vision, you need a vision for a product / feature. Find one.
+2. In terms of outcome, make sure that vision aligns with your company's north star.
+3. Use "time horizons"
+
+![center height:200 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://twitter.com/simplybastow/status/1168531737766432768](./img/product/time_horizons.jpg)
+
+_Image borrowed from https://twitter.com/simplybastow/status/1168531737766432768, they maintain copyright of the image_
+
+---
+
+# Product Roadmaps
+
+This allows you to have a "current", "medium", and "long term" vision.
+
+Of course, sometimes you need timelines for business reports and other areas. Accommodate as required.
+
+![center height:250 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://twitter.com/simplybastow/status/1168531737766432768](./img/product/time_horizons.jpg)
+
+_Image borrowed from https://twitter.com/simplybastow/status/1168531737766432768, they maintain copyright of the image_
 
 ---
 
@@ -317,3 +375,7 @@ This type of organization _does not mean_ that engineering, design, etc cannot t
 ## Books
 
 - [Shape Up, a Product/Project Management Guide by Basecamp](https://basecamp.com/shapeup)
+
+## Twitter
+
+- [Tweet by Janna Bastow](https://twitter.com/simplybastow/status/1168531672335343616)
