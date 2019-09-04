@@ -3,8 +3,8 @@
 | # | Date | Location | Description |
 | -- | -- | -- | -- |
 | 1 | Thursday, September 5 2019 | University | First day of class, Introduction & Product/Market Fit, Work in Class |
-| 2 | Thursday, September 12 2019 | University | (❗A1 Due) Lecture TBD |
-| 3 | Thursday, September 19 2019 | University | (❗A2 Due) Lecture TBD |
+| 2 | Thursday, September 12 2019 | University | Lecture TBD |
+| 3 | Thursday, September 19 2019 | University | (❗A1 Due + A2 Due) Lecture TBD |
 | 4 | Thursday, September 26 2019 | University | (❗A3 Due) Work in Class |
 | 5 | Thursday, October 3 2019 | University | Lecture TBD |
 | 6 | Thursday, October 10 2019 | University | (❗A4 User Research Due) Lecture TBD + Work in Class |
