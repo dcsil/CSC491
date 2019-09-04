@@ -301,9 +301,9 @@ This type of organization _does not mean_ that engineering, design, etc cannot t
 
 Most people tend to default to a product roadmap that is based solely ontime.
 
-![center height:400 legend:Time based roadmap courtesy, image inspired by https://twitter.com/simplybastow/status/1168531686033960961](./img/product/roadmap_timeline.png)
+![center height:400 legend:Time based roadmap courtesy, image inspired by https://www.mindtheproduct.com/2018/03/growing-up-lean/](./img/product/roadmap_timeline.png)
 
-_This section is inspired by [this Twitter thread](https://twitter.com/simplybastow/status/1168531672335343616) from [Janna Bastow](https://twitter.com/simplybastow) (CEO of [ProdPad](https://twitter.com/ProdPad)), including the images_
+_Section inspired by [this Twitter thread](https://twitter.com/simplybastow/status/1168531672335343616) & [this article](https://www.mindtheproduct.com/2018/03/growing-up-lean/) from [Janna Bastow](https://twitter.com/simplybastow) (CEO of [ProdPad](https://twitter.com/ProdPad)), including the images_
 
 ---
 
@@ -311,7 +311,7 @@ _This section is inspired by [this Twitter thread](https://twitter.com/simplybas
 
 Time-based roadmaps make sense at first, but as time goes on you have no idea what is actually going to happen. Now you're making stuff up and putting arbitrary limits.
 
-![center height:400 legend:Time based roadmap courtesy, image inspired by https://twitter.com/simplybastow/status/1168531686033960961](./img/product/roadmap_timeline.png)
+![center height:400 legend:Time based roadmap courtesy, image inspired by https://www.mindtheproduct.com/2018/03/growing-up-lean/](./img/product/roadmap_timeline.png)
 
 ---
 
@@ -338,9 +338,9 @@ You're welcome to use a timebased roadmap on a short term (few weeks to 6 weeks)
 2. In terms of outcome, make sure that vision aligns with your company's north star.
 3. Use "time horizons"
 
-![center height:200 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://twitter.com/simplybastow/status/1168531737766432768](./img/product/time_horizons.jpg)
+![center height:200 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://www.mindtheproduct.com/2018/03/growing-up-lean/](./img/product/time_horizons.jpg)
 
-_Image borrowed from https://twitter.com/simplybastow/status/1168531737766432768, they maintain copyright of the image_
+_Image borrowed from https://www.mindtheproduct.com/2018/03/growing-up-lean/, they maintain copyright of the image_
 
 ---
 
@@ -350,9 +350,9 @@ This allows you to have a "current", "medium", and "long term" vision.
 
 Of course, sometimes you need timelines for business reports and other areas. Accommodate as required.
 
-![center height:250 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://twitter.com/simplybastow/status/1168531737766432768](./img/product/time_horizons.jpg)
+![center height:250 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://www.mindtheproduct.com/2018/03/growing-up-lean/](./img/product/time_horizons.jpg)
 
-_Image borrowed from https://twitter.com/simplybastow/status/1168531737766432768, they maintain copyright of the image_
+_Image borrowed from https://www.mindtheproduct.com/2018/03/growing-up-lean/, they maintain copyright of the image_
 
 ---
 
@@ -367,6 +367,7 @@ _Image borrowed from https://twitter.com/simplybastow/status/1168531737766432768
 - [What is Product Vision? on Aha.io](https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision)
 - [Why startups fail on Forbes](https://fortune.com/2014/09/25/why-startups-fail-according-to-their-founders/)
 - [Odds of becoming a Unicorn are about 1%, and more insights on CBInsights](https://www.cbinsights.com/research/venture-capital-funnel-2/)
+- [Growing up Lean](https://www.mindtheproduct.com/2018/03/growing-up-lean/)
 
 ---
 
