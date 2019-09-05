@@ -1,4 +1,4 @@
-# CSC491
+# CSC491/2600
 
 University of Toronto's Capstone Design Course through the [Department of Computer Science Innovation Lab (DCSIL)](https://www.dcsil.ca/student-courses).
 
