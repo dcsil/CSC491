@@ -13,11 +13,14 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 - [Presentations](./presentations)
 - [Resources and Readings](./resources_readings.md)
 - [Policies](./policies)
+   - [Attendance](./policies/attendance.md)
+   - [Communication](./policies/communications.md)
+   - [Late Policy](./policies/late_policy.md)
+   - [Midterms & Exams](./policies/midterms_and_exams.md)
    - [Plagiarism](./policies/plagiarism.md)
    - [Support and Accomodation](./policies/support_accomodation.md)
    - [Team Grades](./policies/team_grades.md)
-   - [Attendance](./policies/attendance.md)
-   - [Communication](./policies/communications.md)
+
 
 ## Course Overview
 
@@ -51,6 +54,10 @@ I am a Senior Software Developer at GitHub during the day. I've also worked in t
 I've run a not-for-profit startup as well, called Code For Kids, that helped teach kids how to code.
 
 You can view my personal website at [https://jnadeau.ca](https://jnadeau.ca) and my [LinkedIn Profile here](https://www.linkedin.com/in/juliannadeau/).
+
+### Office Hours
+
+Office hours are by appointment. Please email me at julian.nadeau[at]utoronto.ca or talk to me in person.
 
 ## I don't like something about this course
 
