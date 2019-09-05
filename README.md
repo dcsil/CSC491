@@ -46,6 +46,10 @@ There is also an application process on [the DCSIL website](https://www.dcsil.ca
 
 There aren't any _required_ materials persay, but it is highly recommended to bring a laptop to class with a fully functioning developer environment for your project. While not all classes will be workshops, it is recommended to bring your laptop during each class for other uses such as research.
 
+You will also need a [GitHub account](https://github.com/join).
+
+It is recommended to download, install, and set up [Zoom](https://zoom.us/) as this may be used at points through the term.
+
 ## Lecturer
 
 Hello! My name is Julian Nadeau. You can reach me at julian.nadeau[at]utoronto.ca.
