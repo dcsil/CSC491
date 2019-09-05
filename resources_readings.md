@@ -14,4 +14,4 @@ I encourage you to make a PR to add materials you think are useful here too!
 | What? | Author | Category | Where? | Cost |
 | -- | -- | -- | -- | -- |
 | Shape Up |  Ryan Singer (Basecamp) | Product | https://basecamp.com/shapeup | Free |
-| The Lean Startup | Ryan Ries | Product | http://theleanstartup.com/ | $15 - 30 |
+| The Lean Startup | Eric Ries | Product | http://theleanstartup.com/ | $15 - 30 |
