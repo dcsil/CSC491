@@ -7,6 +7,8 @@ The same concept can apply to most mediums, so this page will include various re
 
 I recommend skimming most resources to start, referring back to them later if you find a topic you want to learn more about.
 
+I encourage you to make a PR to add materials you think are useful here too!
+
 ## Readings
 
 | What? | Author | Category | Where? | Cost |
