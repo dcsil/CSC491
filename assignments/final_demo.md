@@ -64,6 +64,7 @@ These requirements makes sure it is easy to onboard new developers and quoting a
 
 - There is a test suite
   - There is some decent amount of [coverage](https://en.wikipedia.org/wiki/Code_coverage). We're not going to be specifying a percent coverage, other to say that anything under 50% coverage likely means you aren't testing enough and [100% means your tests are probably not very good](https://itnext.io/the-myth-of-100-code-coverage-c7d4c789700d)
+  - I'm only counting tests for app code here, but I _do_ recommend trying to test other scripts in your app where possible
 - You've set up some sort of linter for whatever language you are using, if possible
 - There is a CI system setup
  - [GitHub's CI](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/) can be used
