@@ -63,12 +63,12 @@ This is a course designed to make a startup. When you're running a startup, you 
 These requirements makes sure it is easy to onboard new developers and quoting a local founder "gives you free invisible hands" (with regards to CI and linting).
 
 - There is a test suite
-  - There is some decent amount of [coverage](https://en.wikipedia.org/wiki/Code_coverage). We're not going to be specifying a percent coverage, other to say that anything under 50% coverage likely means you aren't testing enough and [100% means your tests are probably not very good](https://itnext.io/the-myth-of-100-code-coverage-c7d4c789700d)
-  - I'm only counting tests for app code here, but I _do_ recommend trying to test other scripts in your app where possible
+   - There is some decent amount of [coverage](https://en.wikipedia.org/wiki/Code_coverage). We're not going to be specifying a percent coverage, other to say that anything under 50% coverage likely means you aren't testing enough and [100% means your tests are probably not very good](https://itnext.io/the-myth-of-100-code-coverage-c7d4c789700d)
+   - I'm only counting tests for app code here, but I _do_ recommend trying to test other scripts in your app where possible
 - You've set up some sort of linter for whatever language you are using, if possible
 - There is a CI system setup
- - [GitHub's CI](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/) can be used
- - [GitHub Student Pack](https://education.github.com/pack) also includes access to [Travis CI](https://travis-ci.com/)
+   - [GitHub's CI](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/) can be used
+   - [GitHub Student Pack](https://education.github.com/pack) also includes access to [Travis CI](https://travis-ci.com/)
 - There is a single script I can call to set up the entire project. This is often `script/bootstrap`.
   - Explain this in a getting started guide / README
   - This should install dependencies if needed like Postgres, MySQL, Redis, etc
