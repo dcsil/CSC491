@@ -28,6 +28,7 @@ def convert_file(file)
     file_content = File.read(file).gsub(%r{\(img}, "(../img") # Change images to be ../img instead of img
     file_content = file_content.gsub(%r{\./img}, "../img") # Change images to be ../img instead of ./img
     file_content += <<~EOF
+
     <style>
       img[alt~='center'] {
         display: block;
