@@ -7,8 +7,8 @@ These are the presentations for this course. The table below corresponds to the 
 | -- | -- | -- | -- |
 | 1 | Introduction & Product/Market Fit | [Raw](./product.md) | [Rendered](./output/product.html) |
 | 2 | Diversity/Inclusion | [Raw](./diversity.md) | [Rendered](./output/diversity.html) |
-| 2 | People Management | TODO | TODO |
-| 2 | Ethics/Accessibility | TODO | TODO |
+| 2 | Ethics/Accessibility | [Raw](./ethics.md) | [Rendered](./output/ethics.html) |
+| ? | People Management | TODO | TODO |
 | 3 | - | - | - |
 | 4 | - | - | - |
 | 5 | Lecture TBD | TODO | TODO |
