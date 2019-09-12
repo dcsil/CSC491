@@ -82,12 +82,12 @@ Discuss.
 
 # Some areas to consider
 
-- Environmental impact
-- Social impact
-- Health
-- Treatment of animals
-- Fair trade
-- Privacy
+1) Environmental impact
+1) Social impact
+1) Health
+1) Treatment of animals
+1) Fair trade
+1) Privacy
 
 ---
 
@@ -121,7 +121,18 @@ This will change your company's values and ethics in turn.
 
 ---
 
-TODO: Integrate https://techcrunch.com/2010/03/20/integrating-ethics-into-the-core-of-your-startups-why-and-how/ some more
+> Once you start compromising your values for short-term gains, there is no turning back.
+
+---
+
+1)  Create a culture of openness, welcome criticism
+2)  Lead by example
+3)  Learn from peers, role models, and those around you
+4)  Recognize your own fallibility as a leader, know your limits
+5)  Remember that institutional character is fragile, easily lost, and hard - if not impossible - to fix once broken
+
+- CEO Institute of Yale School of Management, Jeff Sonnenfeld
+(https://techcrunch.com/2010/03/20/integrating-ethics-into-the-core-of-your-startups-why-and-how/)
 
 ---
 
