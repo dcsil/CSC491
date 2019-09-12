@@ -71,10 +71,11 @@ It wasn't until **2011** that companies started testing with female-sized crash 
 Other examples of potential problems include:
 
 - AI being trained on men
-    - AI robots using for operations in hospitals couldn't respond to a woman's voice
+    - AI robots used for operations in hospitals couldn't respond to a woman's voice
     - Hello Barbie! barbie doll couldn't respond to a child's voice
 - Google's Image labelling AI labelled black people as gorillas
 - Apple Health Kit failed to include a feature for ~50% of the population until iOS 9... period tracking
+    - They finally added it to Apple Watch a few days ago
 
 ---
 
