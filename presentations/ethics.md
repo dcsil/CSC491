@@ -83,11 +83,11 @@ Discuss.
 # Some areas to consider
 
 1) Environmental impact
-1) Social impact
-1) Health
-1) Treatment of animals
-1) Fair trade
-1) Privacy
+2) Social impact
+3) Health
+4) Treatment of animals
+5) Fair trade
+6) Privacy
 
 ---
 
