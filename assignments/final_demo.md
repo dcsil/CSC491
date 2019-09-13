@@ -53,6 +53,80 @@ The release does not need to include pull requests or commits from every member.
 
 It is suggested to use a folder and multiple files, just like this CSC491 repo, to contain this assignment.
 
+
+# What is "Real Working Software" for the final demo?
+
+This is a course designed to make a startup. When you're running a startup, you need all the help you can get. This means your software should be adequately automated. We will be looking for the following when determining if your software is "real" and "working".
+
+## Dev Ops
+
+These requirements makes sure it is easy to onboard new developers and quoting a local founder "gives you free invisible hands" (with regards to CI and linting).
+
+- There is a test suite
+   - There is some decent amount of [coverage](https://en.wikipedia.org/wiki/Code_coverage). We're not going to be specifying a percent coverage, other to say that anything under 50% coverage likely means you aren't testing enough and [100% means your tests are probably not very good](https://itnext.io/the-myth-of-100-code-coverage-c7d4c789700d)
+   - I'm only counting tests for app code here, but I _do_ recommend trying to test other scripts in your app where possible
+- You've set up some sort of linter for whatever language you are using, if possible
+- There is a CI system setup
+   - [GitHub's CI](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/) can be used
+   - [GitHub Student Pack](https://education.github.com/pack) also includes access to [Travis CI](https://travis-ci.com/)
+- There is a single script I can call to set up the entire project. This is often `script/bootstrap`.
+  - Explain this in a getting started guide / README
+  - This should install dependencies if needed like Postgres, MySQL, Redis, etc
+  - This should install any languages required
+  - This should install any packages like Rubygems, Node Packages, etc
+  - Docker and Docker Compose is a good option here
+
+## The Application
+
+- The application runs
+- The application does not throw exceptions on any standard path
+  - Note, we recognize some non-standard paths in the code may cause some problems, but do your best to guard against exceptions
+- The application has some sort of design system in place
+- The application has clearly progressed from A5, including new features, functionality, and less bugs
+
+## Production
+
+- It is deployed somewhere that can be access from outside your laptop (if required).
+  - [Heroku](https://www.heroku.com) is a simple and quick way to accomplish this. It is included in your [GitHub Student Pack](https://education.github.com/pack)
+  - [DigitalOcean](https://digitalocean.com), [Amazon AWS](https://aws.amazon.com/), and [Microsoft Azure](https://azure.microsoft.com/en-us/) are also included in your student pack.
+- There is some sort of logging service set up
+  - [LogDNA](https://logdna.com/) is included in your [GitHub Student Pack](https://education.github.com/pack)
+- Exception tracking is set up
+  - [Sentry](https://sentry.io/) is included in your student pack
+
+## The Repo
+  
+- The README has been kept up to date
+   - The README has been split up into a `docs` folder if it gets too big
+
+### The YAML file
+
+For all tools, please include a file labelled `service.yml` using the following **sample** file:
+
+```yml
+tools:
+  exceptions: https://...
+  logging: https://...
+
+services:
+  production: https://... (link to the dashboard, not the running app)
+  staging: ...
+
+docs:
+  getting_started: https://...
+  
+commands:
+  bootstrap: script/bootstrap
+  database:
+    create: bin/rails db:create
+    migrate: bin/rails db:migrate
+  server: bin/rails server
+```
+
+Fill it out as necessary, include at minimum a `tools`, `services`, `docs`, and `commands` section. In those sections, include, at minimum, the requirements listed above. Be creative and keep track of your app details here.
+
+This will help keep things in one consolidated location and will be used to help grade.
+
 # Questions or Concerns?
 
 - I don't like part of this assignment
