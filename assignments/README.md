@@ -16,7 +16,7 @@ There are a number of assignments that make up your final grade, the weights are
 
 ### Important Notes
 
-- Due dates can be seen on [the schedule](../schedule.md).
+- Due dates can be seen on [the schedule](../other_pages/schedule.md).
 - Each assignment builds off of one another. If you don't do one, you won't be able to complete the next assignment as it's rubric and requirements build off the ones prior to it.
 
 ### Participation

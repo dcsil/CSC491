@@ -10,10 +10,10 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 - [Who is the lecturer?](#lecturer)
    - [Office Hours](#office-hours)
 - [Time and Location](#time-and-location)
-- [Schedule](./schedule.md)
+- [Schedule](./other_pages/schedule.md)
 - [Assignments, Deliverables, Distribution of Grades](./assignments)
 - [Presentations](./presentations)
-- [Resources and Readings](./resources_readings.md)
+- [Resources and Readings](./other_pages/resources_readings.md)
 - [Policies](./policies)
    - [Attendance](./policies/attendance.md)
    - [Communication](./policies/communications.md)
@@ -69,7 +69,9 @@ Office hours are by appointment. Please email me at julian.nadeau[at]utoronto.ca
 
 Class is on Thursdays from 6-9.
 
-Class takes place on the [2nd floor of the Gerstein Science Information Centre, 9 King's College Circle.](https://gerstein.library.utoronto.ca/spaces/dept-computer-science-innovation-lab-dcsil)  
+Class takes place on the [2nd floor of the Gerstein Science Information Centre, 9 King's College Circle.](https://gerstein.library.utoronto.ca/spaces/dept-computer-science-innovation-lab-dcsil)
+
+Here is a [map](./other_pages/map.md) to help you.
 
 ## I don't like something about this course
 

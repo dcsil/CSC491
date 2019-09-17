@@ -1,7 +1,7 @@
 Presentations
 ---
 
-These are the presentations for this course. The table below corresponds to the one in the [schedule](../schedule.md).
+These are the presentations for this course. The table below corresponds to the one in the [schedule](../other_pages/schedule.md).
 
 | Lecture # | Lecture Description | Link to Source | Link to Rendered |
 | -- | -- | -- | -- |
