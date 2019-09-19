@@ -42,7 +42,7 @@
           {% if forloop.last %}
             {% if page.title %}{{page.title}}{% else %}{{ category }}{% endif %}
           {% else %}
-            <a href="{{ route | absolute_url }}">{{ category | capitalize }}</a>  /
+            <a href="{{ route | absolute_url }}">{{ category | replace: "_", " " | capitalize }}</a>  /
           {% endif %}
         {% endfor %}
       </span>
