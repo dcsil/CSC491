@@ -8,9 +8,10 @@ These are the presentations for this course. The table below corresponds to the 
 | 1 | Introduction & Product/Market Fit | [Raw](./product.md) | [Rendered](./output/product.html) |
 | 2 | Diversity/Inclusion | [Raw](./diversity.md) | [Rendered](./output/diversity.html) |
 | 2 | Ethics/Accessibility | [Raw](./ethics.md) | [Rendered](./output/ethics.html) |
-| ? | People Management | TODO | TODO |
+| 3 | Technology, Tooling, and Best Practices | [Raw](./best_tech_practices.md) | [Rendered](./output/best_tech_practices.html) |
 | 3 | - | - | - |
 | 4 | - | - | - |
+| ? | People Management | TODO | TODO |
 | 5 | Lecture TBD | TODO | TODO |
 | 6 | Lecture TBD | TODO | TODO |
 | 7 | Lecture TBD | TODO | TODO |
