@@ -15,3 +15,4 @@ I encourage you to make a PR to add materials you think are useful here too!
 | -- | -- | -- | -- | -- |
 | Shape Up |  Ryan Singer (Basecamp) | Product | https://basecamp.com/shapeup | Free |
 | The Lean Startup | Eric Ries | Product | http://theleanstartup.com/ | $15 - 30 |
+| The Indie Hackers Podcast | Courtland Allen | Product | https://www.indiehackers.com/podcast or wherever you normally listen to podcasts | Free |
