@@ -6,9 +6,9 @@
 | 2 | Thursday, September 12 2019 | University | Diversity & Ethics |
 | 3 | Thursday, September 19 2019 | University | (❗A1 Due) Lecture TBD |
 | 4 | Thursday, September 26 2019 | University | (❗A2 Due) Work in Class |
-| 5 | Thursday, October 3 2019 | University | (❗A3 Due) Work in Class w/ TA `**` |
-| 6 | Thursday, October 10 2019 | University | (❗A4 User Research Due) Lecture TBD |
-| 7 | Thursday, October 17 2019 | University | Lecture TBD |
+| 5 | Thursday, October 3 2019 | University | Work in Class w/ TA `**` |
+| 6 | Thursday, October 10 2019 | University | (❗A3 Due) Lecture TBD |
+| 7 | Thursday, October 17 2019 | University | (❗A4 User Research Due) Lecture TBD |
 | 8 | Thursday, October 24 2019 | University | Work in Class |
 | 9 | Thursday, October 31 2019 | University | ❗A5 Prototype V1 Demos + Work in Class |
 | N/A | Thursday, November 7 2019 | University | NO CLASS - Reading Week |
