@@ -7,19 +7,10 @@ These are the presentations for this course. The table below corresponds to the 
 | -- | -- | -- | -- |
 | 1 | Introduction & Product/Market Fit | [Raw](./product.md) | [Rendered](./output/product.html) |
 | 2 | Diversity/Inclusion | [Raw](./diversity.md) | [Rendered](./output/diversity.html) |
-| 2 | Ethics/Accessibility | [Raw](./ethics.md) | [Rendered](./output/ethics.html) |
-| 3 | Technology, Tooling, and Best Practices | [Raw](./best_practices_tech.md) | [Rendered](./output/best_practices_tech.html) |
-| 3 | - | - | - |
-| 4 | - | - | - |
+| 3 | Ethics/Accessibility | [Raw](./ethics.md) | [Rendered](./output/ethics.html) |
+| 4 | Technology, Tooling, and Best Practices | [Raw](./best_practices_tech.md) | [Rendered](./output/best_practices_tech.html) |
+| 5 | Production Systems | [Raw](./production.md) | [Rendered](./output/production.html) |
 | ? | People Management | TODO | TODO |
-| 5 | Lecture TBD | TODO | TODO |
-| 6 | Lecture TBD | TODO | TODO |
-| 7 | Lecture TBD | TODO | TODO |
-| 8 | - | - | - |
-| 9 | - | - | - |
-| 10 | Lecture TBD | TODO | TODO |
-| 11 | - | - | - |
-| 12 | - | - | - |
 
 ### Attendance
 
