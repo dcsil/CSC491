@@ -13,8 +13,8 @@ marp: true
 - What is SRE? Production Engineering? Operations?
    - What is the difference?
 - infrastructure and hosting
+- hosting
 - oncall schedules
-- operational excellence
 
 ---
 
@@ -256,6 +256,82 @@ Sometimes when your company gets big enough, it starts to drive the full feature
 Both GitHub and Shopify employ core contributors to Ruby and Rails teams. This allows them to remove painful parts that reduce productivity of their own engineers, but also give it back to the world through open source.
 
 A recent example can be seen in Rails 6. GitHub has a multi-database configuration, Rails did not support this. GitHub's engineer, Eileen, worked tirelessly with her team to integrate this functionality in the Rails framework. Now everyone gets to use this feature for free and GitHub doesnt have to maintain something that only they use. 
+
+---
+
+# Hosting
+
+---
+
+# Hosting
+
+A few main ways to host apps:
+
+- Cloud Provider
+- Own datacentres
+- Full Service providers
+
+---
+
+## Cloud Providers
+
+- Examples include AWS, Azure, Google Cloud, Digitalocean 
+- Provide servers that they manage, sometimes managed services like databases
+- Somewhat expensive
+- Some work involved
+
+---
+
+## Own datacentres
+
+- You buy your hardware
+- Rent or buy datacentre space
+- Install and run it yourself
+- Requires operations and "hands on" people
+- Less expensive
+- Most amount of work
+
+---
+
+## Full sevice providers
+
+- Examples include Heroku, and most cloud providers
+- Provide the entire stack to host your app
+  - You choose which add-ons to use (like databases, redis, etc)
+- Most expensive
+- Least amount of work
+
+---
+
+# Oncall Schedules
+
+---
+
+# Oncall Schedules
+
+- An industry standard is to use Pagerduty
+- Basically a fancy notification service that takes alerts from your systems and alerts/wakes up an engineer to fix a problem
+
+---
+
+# Oncall Schedules
+
+**Examples:**
+
+- A database is not responding in time, causing exceptions
+  - Page an engineer on the databases team
+- An app is not responding
+  - Page an engineer working on that app
+
+---
+
+# Oncall Schedules
+
+Oncall schedules can be for infrastructure OR for software.
+
+---
+
+![legend:Example Pagerduty schedule height:600px](./img/production/pagerduty.png)
 
 ---
 
