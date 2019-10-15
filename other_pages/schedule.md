@@ -8,8 +8,8 @@
 | 4 | Thursday, September 26 2019 | University | (❗A2 Due) Work in Class |
 | 5 | Thursday, October 3 2019 | University | Work in Class w/ TA `**` |
 | 6 | Thursday, October 10 2019 | University | (❗A3 Due) Lecture TBD |
-| 7 | Thursday, October 17 2019 | University | (❗A4 User Research Due) Lecture TBD |
-| 8 | Thursday, October 24 2019 | University | Work in Class |
+| 7 | Thursday, October 17 2019 | University | (❗A4 User Research Due) Work in Class |
+| 8 | Thursday, October 24 2019 | University | Lecture TBD |
 | 9 | Thursday, October 31 2019 | University | ❗A5 Prototype V1 Demos + Work in Class |
 | N/A | Thursday, November 7 2019 | University | NO CLASS - Reading Week |
 | 10 | Thursday, November 14 2019 | University | Lecture TBD | 
