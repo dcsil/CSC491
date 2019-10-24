@@ -8,19 +8,21 @@ marp: true
 
 ---
 
-**Everything is a story. Storytelling has been with humanity since the dawn of humanity.**
+**Everything is a story. Storytelling has been with humanity since we first started communicating.**
 
 ---
 
 ![legend:Cave drawings height:500px](./img/story/cave.png)
 
-In the dawn of humanity, we saw stories told through cave drawings where we often saw great hunts.
+In the beginning, we saw stories told through cave drawings where we often saw great hunts and depictions of food.
 
 ---
 
 ![legend:Hieroglyphics height:500px](./img/story/hieroglyphs.jpg)
 
-We continued to see these practices through ancient Egyptian hieroglyphics. This practice has remain unchanged. We are all storytellers, whether you realize it or not.
+We continued to see these practices through ancient Egyptian hieroglyphs with stories of pharaohs and gods were seen.
+
+This practice of storytelling has remain unchanged. We are all storytellers, whether you realize it or not.
 
 ---
 
@@ -30,9 +32,9 @@ We continued to see these practices through ancient Egyptian hieroglyphics. This
 
 # What is a Story?
 
-The author Randall Jarrell, describes a story as being a chain of events that begins at one place and ends at another “without any essential interruption.”
+The poet laureate Randall Jarrell, describes a story as being a chain of events that begins at one place and ends at another “without any essential interruption.”
 
-Mark Twain agreed. His first rule of writing was “that a tale shall accomplish something and arrive somewhere.”
+Mark Twain, a famour author, agreed. His first rule of writing was “that a tale shall accomplish something and arrive somewhere.”
 
 ---
 
