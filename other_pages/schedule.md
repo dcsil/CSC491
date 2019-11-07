@@ -4,13 +4,13 @@
 | -- | -- | -- | -- |
 | 1 | Thursday, September 5 2019 | University | First day of class, Introduction & Product/Market Fit, Work in Class |
 | 2 | Thursday, September 12 2019 | University | Diversity & Ethics |
-| 3 | Thursday, September 19 2019 | University | (❗A1 Due) Lecture TBD |
+| 3 | Thursday, September 19 2019 | University | (❗A1 Due) Technology, Tooling, and Best Practices |
 | 4 | Thursday, September 26 2019 | University | (❗A2 Due) Work in Class |
 | 5 | Thursday, October 3 2019 | University | Work in Class w/ TA `**` |
-| 6 | Thursday, October 10 2019 | University | (❗A3 Due) Lecture TBD |
+| 6 | Thursday, October 10 2019 | University | (❗A3 Due) SRE, Prod Eng, and Operations |
 | 7 | Thursday, October 17 2019 | University | (❗A4 User Research Due) Work in Class |
-| 8 | Thursday, October 24 2019 | University | Lecture TBD |
-| 9 | Thursday, October 31 2019 | University | ❗A5 Prototype V1 Demos + Work in Class |
+| 8 | Thursday, October 24 2019 | University | Story Telling |
+| 9 | Thursday, October 31 2019 | University | ❗A5 Prototype V1 Demos |
 | N/A | Thursday, November 7 2019 | University | NO CLASS - Reading Week |
 | 10 | Thursday, November 14 2019 | University | Lecture TBD | 
 | 11 | Thursday, November 21 2019 | University | Work in Class to prepare for final demos |
