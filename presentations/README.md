@@ -10,7 +10,7 @@ These are the presentations for this course. The table below corresponds to the 
 | 3 | Ethics/Accessibility | [Raw](./ethics.md) | [Rendered](./output/ethics.html) |
 | 4 | Technology, Tooling, and Best Practices | [Raw](./best_practices_tech.md) | [Rendered](./output/best_practices_tech.html) |
 | 5 | Production Systems | [Raw](./production.md) | [Rendered](./output/production.html) |
-| ? | People Management | TODO | TODO |
+| 6 | Storytelling | [Raw](./storytelling.md) | [Rendered](./output/storytelling.html) |
 
 ### Attendance
 
