@@ -37,12 +37,14 @@ Explain your choices in your product. For example, if you aim to target medical 
 - [ ] Set up Continuous Integration (2.5 of 5 marks)
 
 <details>
+
   I recommend [GitHub Actions CI](https://help.github.com/en/actions/automating-your-workflow-with-github-actions).
 
   #### Examples
 
   - [Javascript example for GitHub Actions CI](https://github.com/integrations/jira/pull/295)
   - [Ruby example for GitHub Actions CI](https://github.com/dcsil/team_app/blob/master/.github/workflows/ruby.yml)
+
 </details>
 
 - [ ] Development Setup Script (2.5 of 5 marks)
@@ -51,6 +53,7 @@ Explain your choices in your product. For example, if you aim to target medical 
   - [ ] This should install any packages like Rubygems, Node Packages, etc
 
 <details>
+
   Write a script named `script/bootstrap`, it should setup much of your system for you.
 
   It is fine if the script targets one operating system (mac, linux, or windows).
@@ -65,6 +68,7 @@ Explain your choices in your product. For example, if you aim to target medical 
   - [Javascript and Node](https://github.com/integrations/jira/blob/master/script/bootstrap)
     - this uses `brew bundle`, which comes from https://brew.sh/
     - `brew bundle` installed everything from the [`Brewfile`](https://github.com/integrations/jira/blob/master/Brewfile)
+
 </details>
 
 ### Production (7 of 30 marks)
@@ -72,49 +76,78 @@ Explain your choices in your product. For example, if you aim to target medical 
 - [ ] Deployed to a production environment (5 of 7 marks)
 
 <details>
+
   You can deploy to Heroku really easily with Ruby, Javascript, Python, Go, PHP, and other languages.
     - You only need the hobby dyno
     - I would recommend Postgres as there is a free hobby database you can use
     - This is not good to host your machine learning experiments
     - It is included in your [GitHub Student Pack](https://education.github.com/pack)
 
-  - [DigitalOcean](https://digitalocean.com), [Amazon AWS](https://aws.amazon.com/), and [Microsoft Azure](https://azure.microsoft.com/en-us/) are other options and also included 
+  - [DigitalOcean](https://digitalocean.com), [Amazon AWS](https://aws.amazon.com/), and [Microsoft Azure](https://azure.microsoft.com/en-us/) are other options and also included
+
 </details>
 
 - [ ] Logging setup on Production (1 of 7 marks)
 
 <details>
+
   - [LogDNA](https://logdna.com/) is included in your [GitHub Student Pack](https://education.github.com/pack)
   - There is also a Heroku add-on to make this really easy
   
   Logging services help you debug your application and know what's going on.
   Be careful not to send passwords, tokens, and other secure information here. Some places, like GitHub, even remove [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data) from the logs.
+
 </details>
 
 
 - [ ] Exception tracking setup on Production (1 of 7 marks)
 
 <details>
+
   - [Sentry](https://sentry.io/) is included in your student pack
   - There is also a Heroku add-on to make this really easy
   
   While logging services help you debug, they can't keep track of all the information you need when an exception or bug occurs.
   For that, you need exception tracking. This will capture information like the stack trace of the exception, the error class and name, and other metadata to help you pinpoint the issue.
   Be careful not to send passwords, tokens, and other secure information here. Some places, like GitHub, even remove [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data) from the metadata.
+
 </details>
+
+---
+
+_NOTE:_ if your application does not require deployment (is a mobile app, desktop app, offline, etc) then the marks in this section will be split up to other sections as follows: 
+
+<details>
+
+### Development (8 of 30 marks)
+
+- [ ] Development Setup Script (4 of 8 marks)
+- [ ] Set up Continuous Integration (4 of 8 marks)
+
+### Documentation (7 of 30 marks)
+
+- [ ] Documentation or Up to date README (5 of 7 marks)
+- [ ] Top Level (to the code) YAML file (2 of 7 marks)
+
+</details>
+
+---
 
 ### Documentation (3 of 30 marks)
 
 - [ ] Documentation or Up to date README (2 of 3 marks)
 
 <details>
+
   This should include major documentation like architecture diagrams you've made, decisions should be recorded, and any other relevant docs about the app (debugging, development setup, etc).
+
 </details>
 
 - [ ] Top Level (to the code) YAML file (1 of 3 marks)
 
 <details>
-<pre>
+
+```yaml 
 tools:
   exceptions: https://...
   logging: https://...
@@ -132,11 +165,12 @@ commands:
     create: bin/rails db:create
     migrate: bin/rails db:migrate
   server: bin/rails server
-</pre>
+```
 
 This should serve as an example. These kinds of files can help you debug, record links to docs, services, tools, and more.
 
 While this is less useful with one app, in an organization with many apps this can be crucial to remembering and finding information.
+
 </details>
 
 ## Reflection (15 marks)
