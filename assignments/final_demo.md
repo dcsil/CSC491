@@ -23,6 +23,8 @@ The goals of the demo are:
 
 # Initial Requirements
 
+Here is a checklist to help you with the following: [Final Demo Checklist](./final_demo_checklist.md)
+
 The demo should include the following:
 
 - Description of the problem you are trying to solve and your solution

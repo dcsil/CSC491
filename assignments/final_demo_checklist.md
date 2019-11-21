@@ -37,6 +37,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 - [ ] Set up Continuous Integration (2.5 of 5 marks)
 
 <details markdown="1">
+  <div class="details-box">
 
   I recommend [GitHub Actions CI](https://help.github.com/en/actions/automating-your-workflow-with-github-actions).
 
@@ -45,6 +46,7 @@ Explain your choices in your product. For example, if you aim to target medical 
   - [Javascript example for GitHub Actions CI](https://github.com/integrations/jira/pull/295)
   - [Ruby example for GitHub Actions CI](https://github.com/dcsil/team_app/blob/master/.github/workflows/ruby.yml)
 
+  </div>
 </details>
 
 - [ ] Development Setup Script (2.5 of 5 marks)
@@ -53,6 +55,7 @@ Explain your choices in your product. For example, if you aim to target medical 
   - [ ] This should install any packages like Rubygems, Node Packages, etc
 
 <details markdown="1">
+  <div class="details-box">
 
   Write a script named `script/bootstrap`, it should setup much of your system for you.
 
@@ -68,6 +71,7 @@ Explain your choices in your product. For example, if you aim to target medical 
     - this uses `brew bundle`, which comes from https://brew.sh/
     - `brew bundle` installed everything from the [`Brewfile`](https://github.com/integrations/jira/blob/master/Brewfile)
 
+  </div>
 </details>
 
 ### Production (7 of 30 marks)
@@ -75,6 +79,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 - [ ] Deployed to a production environment (5 of 7 marks)
 
 <details markdown="1">
+  <div class="details-box">
 
   You can deploy to Heroku really easily with Ruby, Javascript, Python, Go, PHP, and other languages.
     - You only need the hobby dyno
@@ -84,11 +89,13 @@ Explain your choices in your product. For example, if you aim to target medical 
 
   - [DigitalOcean](https://digitalocean.com), [Amazon AWS](https://aws.amazon.com/), and [Microsoft Azure](https://azure.microsoft.com/en-us/) are other options and also included
 
+  </div>
 </details>
 
 - [ ] Logging setup on Production (1 of 7 marks)
 
 <details markdown="1">
+  <div class="details-box">
 
   - [LogDNA](https://logdna.com/) is included in your [GitHub Student Pack](https://education.github.com/pack)
   - There is also a Heroku add-on to make this really easy
@@ -96,12 +103,14 @@ Explain your choices in your product. For example, if you aim to target medical 
   Logging services help you debug your application and know what's going on.
   Be careful not to send passwords, tokens, and other secure information here. Some places, like GitHub, even remove [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data) from the logs.
 
+  </div>
 </details>
 
 
 - [ ] Exception tracking setup on Production (1 of 7 marks)
 
 <details markdown="1">
+  <div class="details-box">
 
   - [Sentry](https://sentry.io/) is included in your student pack
   - There is also a Heroku add-on to make this really easy
@@ -110,6 +119,7 @@ Explain your choices in your product. For example, if you aim to target medical 
   For that, you need exception tracking. This will capture information like the stack trace of the exception, the error class and name, and other metadata to help you pinpoint the issue.
   Be careful not to send passwords, tokens, and other secure information here. Some places, like GitHub, even remove [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data) from the metadata.
 
+  </div>
 </details>
 
 ---
@@ -117,6 +127,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 _NOTE:_ if your application does not require deployment (is a mobile app, desktop app, offline, etc) then the marks in this section will be split up to other sections as follows: 
 
 <details markdown="1">
+  <div class="details-box">
 
 <h4>Development (8 of 30 marks)</h4>
 
@@ -128,6 +139,7 @@ _NOTE:_ if your application does not require deployment (is a mobile app, deskto
 - [ ] Documentation or Up to date README (5 of 7 marks)
 - [ ] Top Level (to the code) YAML file (2 of 7 marks)
 
+  </div>
 </details>
 
 ---
@@ -137,14 +149,17 @@ _NOTE:_ if your application does not require deployment (is a mobile app, deskto
 - [ ] Documentation or Up to date README (2 of 3 marks)
 
 <details markdown="1">
+  <div class="details-box">
 
   This should include major documentation like architecture diagrams you've made, decisions should be recorded, and any other relevant docs about the app (debugging, development setup, etc).
 
+  </div>
 </details>
 
 - [ ] Top Level (to the code) YAML file (1 of 3 marks)
 
 <details markdown="1">
+  <div class="details-box">
 
 ```yaml 
 tools:
@@ -170,6 +185,7 @@ This should serve as an example. These kinds of files can help you debug, record
 
 While this is less useful with one app, in an organization with many apps this can be crucial to remembering and finding information.
 
+  </div>
 </details>
 
 ## Reflection (15 marks)
