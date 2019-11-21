@@ -40,7 +40,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
   I recommend [GitHub Actions CI](https://help.github.com/en/actions/automating-your-workflow-with-github-actions).
 
-  #### Examples
+  <h4>Examples:</h4>
 
   - [Javascript example for GitHub Actions CI](https://github.com/integrations/jira/pull/295)
   - [Ruby example for GitHub Actions CI](https://github.com/dcsil/team_app/blob/master/.github/workflows/ruby.yml)
@@ -60,10 +60,9 @@ Explain your choices in your product. For example, if you aim to target medical 
   
   Make note of this script in the README of your app. If you have a getting started guide, this can be in there but you should make sure that that guide is mentioned in the README.
   
-  
   Docker and Docker Compose is a good option here
 
-  #### Examples:
+  <h4>Examples:</h4>
 
   - [Javascript and Node](https://github.com/integrations/jira/blob/master/script/bootstrap)
     - this uses `brew bundle`, which comes from https://brew.sh/
@@ -119,12 +118,12 @@ _NOTE:_ if your application does not require deployment (is a mobile app, deskto
 
 <details markdown="1">
 
-### Development (8 of 30 marks)
+<h4>Development (8 of 30 marks)</h4>
 
 - [ ] Development Setup Script (4 of 8 marks)
 - [ ] Set up Continuous Integration (4 of 8 marks)
 
-### Documentation (7 of 30 marks)
+<h4>Documentation (7 of 30 marks)</h4>
 
 - [ ] Documentation or Up to date README (5 of 7 marks)
 - [ ] Top Level (to the code) YAML file (2 of 7 marks)
