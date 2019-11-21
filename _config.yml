@@ -4,3 +4,6 @@ description: |
   Students will write a software application that implements the business ideas developed in CSC454/2527 (Business of Software).
   This course will expose students to the core technologies, ideas, and processes in developing a startup.
 show_downloads: false
+markdown: kramdown
+kramdown:
+  parse_block_html: true
