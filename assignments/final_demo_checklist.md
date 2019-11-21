@@ -36,7 +36,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
 - [ ] Set up Continuous Integration (2.5 of 5 marks)
 
-<details>
+<details markdown="1">
 
   I recommend [GitHub Actions CI](https://help.github.com/en/actions/automating-your-workflow-with-github-actions).
 
@@ -52,7 +52,7 @@ Explain your choices in your product. For example, if you aim to target medical 
   - [ ] This should install any languages required
   - [ ] This should install any packages like Rubygems, Node Packages, etc
 
-<details>
+<details markdown="1">
 
   Write a script named `script/bootstrap`, it should setup much of your system for you.
 
@@ -75,7 +75,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
 - [ ] Deployed to a production environment (5 of 7 marks)
 
-<details>
+<details markdown="1">
 
   You can deploy to Heroku really easily with Ruby, Javascript, Python, Go, PHP, and other languages.
     - You only need the hobby dyno
@@ -89,7 +89,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
 - [ ] Logging setup on Production (1 of 7 marks)
 
-<details>
+<details markdown="1">
 
   - [LogDNA](https://logdna.com/) is included in your [GitHub Student Pack](https://education.github.com/pack)
   - There is also a Heroku add-on to make this really easy
@@ -102,7 +102,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
 - [ ] Exception tracking setup on Production (1 of 7 marks)
 
-<details>
+<details markdown="1">
 
   - [Sentry](https://sentry.io/) is included in your student pack
   - There is also a Heroku add-on to make this really easy
@@ -117,7 +117,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
 _NOTE:_ if your application does not require deployment (is a mobile app, desktop app, offline, etc) then the marks in this section will be split up to other sections as follows: 
 
-<details>
+<details markdown="1">
 
 ### Development (8 of 30 marks)
 
@@ -137,7 +137,7 @@ _NOTE:_ if your application does not require deployment (is a mobile app, deskto
 
 - [ ] Documentation or Up to date README (2 of 3 marks)
 
-<details>
+<details markdown="1">
 
   This should include major documentation like architecture diagrams you've made, decisions should be recorded, and any other relevant docs about the app (debugging, development setup, etc).
 
@@ -145,7 +145,7 @@ _NOTE:_ if your application does not require deployment (is a mobile app, deskto
 
 - [ ] Top Level (to the code) YAML file (1 of 3 marks)
 
-<details>
+<details markdown="1">
 
 ```yaml 
 tools:
