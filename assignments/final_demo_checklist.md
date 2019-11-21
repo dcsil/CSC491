@@ -1,3 +1,11 @@
+<style>
+  details {
+    margin-top: -15px;
+    margin-left: 42px;
+    margin-bottom: 15px;
+  }
+</style>
+
 ## High Level
 
 - 25% of your grade
@@ -124,7 +132,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
 ---
 
-_NOTE:_ if your application does not require deployment (is a mobile app, desktop app, offline, etc) then the marks in this section will be split up to other sections as follows: 
+- _NOTE:_ if your application does not require deployment (is a mobile app, desktop app, offline, etc) then the marks in this section will be split up to other sections as follows: 
 
 <details markdown="1">
   <div class="details-box">
