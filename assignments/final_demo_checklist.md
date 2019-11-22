@@ -137,15 +137,16 @@ Explain your choices in your product. For example, if you aim to target medical 
 <details markdown="1">
   <div class="details-box">
 
-<h4>Development (8 of 30 marks)</h4>
+  <h4>Development (8 of 30 marks)</h4>
 
-- [ ] Development Setup Script (4 of 8 marks)
-- [ ] Set up Continuous Integration (4 of 8 marks)
+  - [ ] Development Setup Script (4 of 8 marks)
+  - [ ] Set up Continuous Integration (4 of 8 marks)
 
-<h4>Documentation (7 of 30 marks)</h4>
+  <h4>Documentation (7 of 30 marks)</h4>
 
-- [ ] Documentation or Up to date README (5 of 7 marks)
-- [ ] Top Level (to the code) YAML file (2 of 7 marks)
+  - [ ] Documentation or Up to date README (5 of 7 marks)
+  - [ ] Top Level (to the code) YAML file (2 of 7 marks)
+
   </div>
 </details>
 
@@ -163,7 +164,7 @@ Explain your choices in your product. For example, if you aim to target medical 
   </div>
 </details>
 
-- [ ] Top Level (to the code) YAML file (1 of 3 marks)
+- [ ] Top Level (to the code) YAML file named `service.yml` (1 of 3 marks)
 
 <details markdown="1">
   <div class="details-box">
