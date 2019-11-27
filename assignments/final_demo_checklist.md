@@ -11,6 +11,10 @@
 - 25% of your grade
   - a 15 minute presentation makes up some of your grade
   - An analysis of your software makes up some of your grade here
+- For any service that is required that you cannot give me access to (e.g. logging, exceptions, etc) please do the following:
+  - indicate where it's integrated in your app (e.g. the package you installed, the configuration, capture STDOUT, etc) if any
+  - also include a screenshot of the service working with your app
+  - include a 1-2 sentence description of what in the screenshot
 
 ## Problem and Solution (5 marks)
 
