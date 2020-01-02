@@ -2,10 +2,6 @@
 
 University of Toronto's Capstone Design Course through the [Department of Computer Science Innovation Lab (DCSIL)](https://www.dcsil.ca/student-courses).
 
-This term the course is powered by a cutting-edge Machine Learning Platform called [Dessa](https://dessa.com). We will be using [Dessa's Atlas](https://atlas.dessa.com) to power our startups.
-
-![Dessa Logo](./other_pages/dessa.png)
-
 ## Table of Contents
 
 - [Course Overview](#course-overview)
