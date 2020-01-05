@@ -12,7 +12,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [Assignment 5](./a5.md) | UX Research w/Prototype, Roadmap Updates | 10% | Demos the software to the instructor/TA |
 | [Assignment 6](./a6.md) | Software | 20% | Repos |
 | [Final Demo](./final_demo.md) | Final Demo of your Prototype | 10% | In-class presentation |
-| [Bonus](./bonus.md) | Bonus Assignment | +5% | Dev.to + Email |
+| [Bonus](./bonus.md) | Bonus Assignment(s) | up to +5% | Varies |
 | | **Total** | 100% (+5%) | |
 
 ### Important Notes
