@@ -19,7 +19,7 @@ Features should first be cleared with the instructor to ensure that the feature 
 
 ## Submission
 
-Create an PR on https://github.com/dcsil/team_app. The app README has a setup guide. 
+Create an PR on [the DCSIL Team App Repo](https://github.com/dcsil/team_app). The app README has a setup guide. 
 
 ## Rubric
  
