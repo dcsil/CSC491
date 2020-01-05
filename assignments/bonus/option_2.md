@@ -21,7 +21,7 @@ My user ID (for Julian Nadeau) is 49. You may use that profile if you wish to de
 
 ## Submission
 
-Create an issue on https://github.com/dcsil/team_app. Note: always look for a security policy before posting so you don't accidentally divulge a vulnerability before it can be fixed. 
+Create an issue on [the DCSIL Team App Repo](https://github.com/dcsil/team_app). Note: always look for a security policy before posting so you don't accidentally divulge a vulnerability before it can be fixed. 
 
 ## Rubric
  
