@@ -4,8 +4,9 @@ I believe in the value of good writing and sharing knowledge.
 
 [dev.to](https://dev.to/) is a platform on which developers share knowledge, have discussions, and debate tons of development-related topics. There are also career topics and other related startup-related topics.
 
-This option is to write a blog post on dev.to on a topic with which you have expertise. This bonus can only be completed at most twice per term for a total of 2.5% for each post.
+This option is to write a blog post on dev.to on a topic with which you have expertise.
 
+You can write as many posts as you want, but can only obtain up to 5% among all bonus assignments.
 
 - [Requirements](#requirements)
 - [Submission](#submission)
