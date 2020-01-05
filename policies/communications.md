@@ -6,6 +6,7 @@ Communication, as we will discuss in the course, is vital to the success of any 
 
 | Medium | When to use |
 | --- | --- |
+| DCSIL Team App | Creating teams. Assignment feedback, surveys, etc for CSC491/2600 |
 | Slack | General discussions and questions. The instructor for CSC491/2600 (Julian Nadeau) also prefers this communication method. |
 | Email | Private matters. The instructor for CSC454/2527 (Mario Grech) also prefers this communication method. |
 | Quercus | CSC454/4527 uses Quercus |
