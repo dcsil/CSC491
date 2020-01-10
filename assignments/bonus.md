@@ -13,12 +13,12 @@ Click into the options for more details.
 
 ## Questions or Concerns?
 
-- I don't like part of this assignment
- - File an issue on this repo
-- I need to clarify something about this assignment
- - File an issue on this repo
-- I need to clarify a question or ask something in private
- - Email the course instructor or email the professor via the email on the homepage / README
+* I don't like part of this assignment
+  * File an issue on this repo
+* I need to clarify something about this assignment
+  * File an issue on this repo
+* I need to clarify a question or ask something in private
+  * Email the course instructor or email the professor via the email on the homepage / README
 
 ## Rating Scale
 
