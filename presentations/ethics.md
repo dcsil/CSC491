@@ -99,7 +99,7 @@ There are a few factors that will affect your values and ethics:
 
 The law will force your hand and give you a standard to start from. This may included provisions around privacy, environmental impacts, and more.
 
-Remember, the Holocaust was legal though... the law isn't where we end.
+Remember, slavery was legal though... the law isn't where we end.
 
 ---
 

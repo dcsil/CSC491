@@ -75,7 +75,7 @@ Other examples of potential problems include:
     - Hello Barbie! barbie doll couldn't respond to a child's voice
 - Google's Image labelling AI labelled black people as gorillas
 - Apple Health Kit failed to include a feature for ~50% of the population until iOS 9... period tracking
-    - They finally added it to Apple Watch a few days ago
+    - They finally added it to Apple Watch in 2019
 
 ---
 
