@@ -1,0 +1,321 @@
+<h1 id="site-reliability-engineering-operations-and-production-engineering">Site Reliability Engineering, Operations, and Production Engineering</h1>
+
+<h2 id="csc491-university-of-toronto">CSC491, University of Toronto</h2>
+
+<hr />
+
+<h1 id="we-will-talk-about">We will talk about:</h1>
+
+<ul>
+  <li>What is SRE? Production Engineering? Operations?
+    <ul>
+      <li>What is the difference?</li>
+    </ul>
+  </li>
+  <li>infrastructure and hosting</li>
+</ul>
+
+<hr />
+
+<h1 id="site-reliability-engineering-sre">Site Reliability Engineering (SRE)</h1>
+
+<hr />
+
+<h1 id="what-is-site-reliability-engineering-sre">What is Site Reliability Engineering (SRE)?</h1>
+
+<blockquote>
+  <p>SRE is what you get when you treat operations as if it’s a software problem.</p>
+</blockquote>
+
+<p>This is a phrase that was coined by Google: https://landing.google.com/sre/</p>
+
+<hr />
+
+<h1 id="what-is-site-reliability-engineering-sre-1">What is Site Reliability Engineering (SRE)?</h1>
+
+<blockquote>
+  <p>“Site Reliability Engineering seeks to balance the risk of unavailability with the goals of rapid innovation and efficient service operations, so that users’ overall happiness—with features, service, and performance—is optimized.”</p>
+</blockquote>
+
+<blockquote>
+  <ul>
+    <li>Marc Alvidrez, Site Reliability Engineer, Mountain View</li>
+  </ul>
+</blockquote>
+
+<hr />
+
+<h1 id="what-is-site-reliability-engineering-sre-2">What is Site Reliability Engineering (SRE)?</h1>
+
+<blockquote>
+  <p>“Here’s what you do when someone breaks something or finds something very difficult to debug: You say thank you. Thank you for finding this edge case. Thank you for highlighting this overcomplicated part of our system. Thank you for pointing out this gap in our docs. And then you go make it so nobody can break it the same way again.”</p>
+</blockquote>
+
+<blockquote>
+  <p>Tanya Reilly, Google SRE 2005 - 2018</p>
+</blockquote>
+
+<hr />
+
+<h1 id="what-is-site-reliability-engineering-sre-3">What is Site Reliability Engineering (SRE)?</h1>
+
+<ul>
+  <li>Fundamentally, SRE is a practice in which the running of your systems is managed via configuration software.</li>
+  <li>In the last lecture on technologies, we quickly touched on “orchestration” software. Typically one of these will be in use</li>
+  <li>SRE outlines some core tenets as well, such as:
+    <ul>
+      <li>a blameless culture</li>
+      <li>psychological safety to move and work around in production</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h1 id="production-engineering">Production Engineering</h1>
+
+<hr />
+
+<h1 id="what-is-production-engineering">What is Production Engineering?</h1>
+
+<blockquote>
+  <p>Production engineering is a combination of manufacturing technology, engineering sciences with management science. A production engineer typically has a wide knowledge of engineering practices and is aware of the management challenges related to production.</p>
+</blockquote>
+
+<ul>
+  <li>originally a classic engineering term (mechanical, civil, etc) with regards to factories</li>
+  <li>the goal is to accomplish the production process in the smoothest, most-judicious and most-economic way</li>
+</ul>
+
+<hr />
+
+<h1 id="what-is-production-engineering-1">What is Production Engineering?</h1>
+
+<ul>
+  <li><strong>Scale and integrate resources.</strong> Usually required to consider physical, human and financial resources at high efficiency and low cost, yet considering the possibility of continuous further improvement</li>
+  <li><strong>Make proper use of math and statistics</strong> to model production systems during decision making process</li>
+  <li><strong>Design, implement and refine products, services, processes and systems</strong> taking in consideration that constraints and particularities of the related communities</li>
+</ul>
+
+<hr />
+
+<h1 id="what-is-production-engineering-2">What is Production Engineering?</h1>
+
+<ul>
+  <li><strong>Predict and analyze the demand</strong> Select among scientific and technological appropriate knowledge in order to design, redesign or improve product/service functionality</li>
+  <li><strong>Incorporate concepts and quality techniques</strong> along all the productive system. Deploy organizational standards for control proceedings and auditing</li>
+  <li><strong>Stay up-to-date with technological developments</strong>, enabling them to enterprises and society</li>
+</ul>
+
+<hr />
+
+<h1 id="what-is-production-engineering-3">What is Production Engineering?</h1>
+
+<ul>
+  <li><strong>Understand the relation between production systems and the environment</strong>. This relates to the use of scarce resources, production rejects and sustainability</li>
+  <li><strong>Manage and optimize flow</strong> (information and production flow)</li>
+</ul>
+
+<hr />
+
+<h1 id="operations">Operations</h1>
+
+<hr />
+
+<h1 id="what-is-operations">What is Operations?</h1>
+
+<p>This is a more traditional model of running hardware and servers.</p>
+
+<p>In this model, you have a person or a team who are in charge of running servers on which to host software. Often they will be the ones handling deploys as well.</p>
+
+<hr />
+
+<h1 id="what-is-operations-1">What is Operations?</h1>
+
+<p>This generally scales poorly as you must employ an increasing number of operations people to manage an increasing load, instead of automating it with software</p>
+
+<hr />
+
+<h1 id="my-opinion-of-operations">My Opinion of Operations</h1>
+
+<p>Personally, I’m not a fan of operations-style management of production systems. It doesn’t scale very well and it requires people to do things that servers are better, and less error-prone, at - click and type configuration.</p>
+
+<p>This may be easier at the beginnging though. Hiring a contractor or part time person who’s job it is to keep the servers running is much easier. When you have few servers this is a very isolatable role from the rest of your product team and lets you focus on your product.</p>
+
+<hr />
+
+<h1 id="production-engineering-vs-sre">Production Engineering vs. SRE</h1>
+
+<hr />
+
+<h1 id="production-engineering-vs-sre-1">Production Engineering vs. SRE</h1>
+
+<p>Honestly, the systems are very similar. There are shared concepts and each system has pros and cons.</p>
+
+<hr />
+
+<h1 id="production-engineering-vs-sre-2">Production Engineering vs. SRE</h1>
+
+<p>I’m going to use an example from a Quora answer from a lead recruiter at Facebook. I’ll supplement it with my experience as a Production Engineer at Shopify.</p>
+
+<p>The link to the Quora answer can be found <a href="https://www.quora.com/How-does-being-a-production-engineer-at-Facebook-compare-to-being-a-site-reliability-engineer-at-Google">here</a></p>
+
+<hr />
+
+<h2 id="the-fundamental-differences">The fundamental differences</h2>
+
+<ul>
+  <li>At Google, SRE’s are supporting SWE’s (software engineer) in a “throw it over the fence” model.
+    <ul>
+      <li>This means that software engineers build the software and someone else runs it</li>
+    </ul>
+  </li>
+  <li>Production Engineering at Facebook is more of an embedded model
+    <ul>
+      <li>This means that production engineers are embedded on the teams or work alongside the teams to help them run their own services</li>
+    </ul>
+  </li>
+  <li>Shopify had a little bit of both: Some things were run more like an SRE team (databases, caching, core servers) and some things were more a production engineering focus (developers and SREs worked together) like smaller app servers</li>
+</ul>
+
+<hr />
+
+<h2 id="the-fundamental-differences-1">The fundamental differences</h2>
+
+<p>Both are driven by engineering decisions, not hardware-related ones. A good example of this is a system that Facebook built to automate 300 sysadmins work to find, test, and restart servers in production autonomously.</p>
+
+<p>Software is good at detecting repeatable patterns, performing tedious tasks, and completing these 24/7.</p>
+
+<hr />
+
+<h2 id="tooling-and-automation">Tooling and Automation</h2>
+
+<p>SRE and Production Engineering both require heavy amounts of automatic and autonomously functioning tooling and detection.
+You’ll find that both areas tend to invest heavily in orchestration software (Packer, Chef, Kubernetes, etc), monitoring and alerting (observability), and all things tooling/automation.</p>
+
+<p>When you can save everyone a second a day, but have 1000 developers… you’ve actually saved 17 minutes. Or about 68 hours (1.5 weeks!) of developer time.</p>
+
+<hr />
+
+<h1 id="teams-and-focuses">Teams and Focuses</h1>
+
+<hr />
+
+<h1 id="teams-and-focuses-1">Teams and Focuses</h1>
+
+<p>This section will focus on teams and skillsets I’ve experienced while working at Shopify, consulting, and working with various companies.</p>
+
+<hr />
+
+<h2 id="teams">Teams</h2>
+
+<ul>
+  <li>Datastores
+    <ul>
+      <li>Databases</li>
+      <li>Caching</li>
+      <li>Queueing</li>
+    </ul>
+  </li>
+  <li>Networking
+    <ul>
+      <li>“The Edge” (where a request leaves <the internet=""> and enters your infrastructure)</the></li>
+      <li>Emails</li>
+      <li>Internal Intranet</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="teams-cont">Teams cont.</h2>
+
+<ul>
+  <li>Cloud (AWS, Google Cloud, Azure)</li>
+  <li>Continuous Integration + Deployment</li>
+  <li>Developer Tooling</li>
+  <li>Regulated Systems (PCI Compliance, SOX compliance, etc)</li>
+  <li>Observability (Logging and Monitoring)</li>
+  <li>Language and Platform</li>
+</ul>
+
+<hr />
+
+<h2 id="datastores">Datastores</h2>
+
+<ul>
+  <li><strong>Databases</strong>: Typically handles MySQL, Postgres, etc.</li>
+  <li><strong>Caching</strong>: Typically handles Redis, Memcached, and other Cache systems.</li>
+  <li><strong>Queueing</strong>: Typically handles Redis (as a queue), RabbitMQ, and other queue systems.</li>
+  <li>For each of these systems, the respective team will manage scaling it, making it easily available where it needs to be, and ensuring that apps don’t abuse limits.</li>
+</ul>
+
+<hr />
+
+<h2 id="networking">Networking</h2>
+
+<ul>
+  <li><strong>“The Edge”</strong>: Where a request leaves <the internet=""> and enters your infrastructure. This will typically include load balancers, BGP routers and announcements, Points of Presence for TLS termination</the></li>
+  <li><strong>Emails</strong>: Handling email equipment, scaling that for the organization and ensuring IP address you use will not be listed as spam</li>
+  <li><strong>Internal Intranet</strong>: Handles internal network routing between systems. Handles databases connecting to app servers, cache and queues connecting, etc. Often includes manual operations-like work unless you’re in a cloud. Can use BGP for this.</li>
+</ul>
+
+<hr />
+
+<h2 id="cloud-aws-google-cloud-azure">Cloud (AWS, Google Cloud, Azure)</h2>
+
+<p>Manage integration with services on the cloud, often using orchestration software.</p>
+
+<hr />
+
+<h2 id="continuous-integration--deployment">Continuous Integration + Deployment</h2>
+
+<p>Manages scaling CI systems for testing infrastructure, decreasing time spend on test runs, and manages quick/easy deployment to production</p>
+
+<hr />
+
+<h2 id="developer-tooling">Developer Tooling</h2>
+
+<ul>
+  <li>Manages creating and developing tooling to get a software project up and running on a computer for development.
+    <ul>
+      <li>Includes installing languages, datastores, project dependencies etc locally.</li>
+    </ul>
+  </li>
+  <li>Often uses some form of orchestration software</li>
+  <li>Has to be able to handle a system in any state as developers may change settings at random</li>
+</ul>
+
+<hr />
+
+<h2 id="regulated-systems-pci-compliance-sox-compliance-etc">Regulated Systems (PCI Compliance, SOX compliance, etc)</h2>
+
+<p>I’ve seen regulated systems (e.g. PCI compliance for Credit Card Processing) be managed by separate teams. This is to reduce the number of people that have access to sensitive systems.</p>
+
+<hr />
+
+<h2 id="observability-logging-and-monitoring">Observability (Logging and Monitoring)</h2>
+
+<p>Logging and Monitoring may not seem like a big problem to solve, but each request to a system will often send out dozens of different telemetry metrics and dozens of logs. This means that those systems need to handle a large load.</p>
+
+<p>This team ensures that logging and monitoring can keep up with data thrown at it and ensures it can respond quickly to people who need to use that data.</p>
+
+<hr />
+
+<h2 id="language-and-platform">Language and Platform</h2>
+
+<p>Sometimes when your company gets big enough, it starts to drive the full feature development of a framework or language.</p>
+
+<p>Both GitHub and Shopify employ core contributors to Ruby and Rails teams. This allows them to remove painful parts that reduce productivity of their own engineers, but also give it back to the world through open source.</p>
+
+<p>A recent example can be seen in Rails 6. GitHub has a multi-database configuration, Rails did not support this. GitHub’s engineer, Eileen, worked tirelessly with her team to integrate this functionality in the Rails framework. Now everyone gets to use this feature for free and GitHub doesnt have to maintain something that only they use.</p>
+
+<hr />
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><a href="https://www.quora.com/How-does-being-a-production-engineer-at-Facebook-compare-to-being-a-site-reliability-engineer-at-Google">How does being a production engineer at Facebook compare to being a site reliability engineer at Google? by Sief Khafagi</a></li>
+  <li><a href="https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre">How to get started with Site Reliability Engineering by Nikki McDonald</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Production_engineering">Production engineering Wikipedia Page</a></li>
+</ul>
