@@ -1,4 +1,70 @@
-<h1 id="best-practices-technology-and-tooling">Best Practices, Technology, and Tooling</h1>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Best Practices, Technology, and Tooling | CSC491/2600 University of Toronto’s Capstone Design Course</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Best Practices, Technology, and Tooling" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Students will write a software application that implements the business ideas developed in CSC454/2527 (Business of Software). This course will expose students to the core technologies, ideas, and processes in developing a startup." />
+<meta property="og:description" content="Students will write a software application that implements the business ideas developed in CSC454/2527 (Business of Software). This course will expose students to the core technologies, ideas, and processes in developing a startup." />
+<link rel="canonical" href="http://localhost:4000/presentations/best_practices_tech.html" />
+<meta property="og:url" content="http://localhost:4000/presentations/best_practices_tech.html" />
+<meta property="og:site_name" content="CSC491/2600 University of Toronto’s Capstone Design Course" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/presentations/best_practices_tech.html","headline":"Best Practices, Technology, and Tooling","description":"Students will write a software application that implements the business ideas developed in CSC454/2527 (Business of Software). This course will expose students to the core technologies, ideas, and processes in developing a startup.","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=c519ed2e0eb67bb82481dbc391f821edf8b54ac3">
+    <style>
+      details[open] > div.details-box {
+        border: 1px solid #ccc;
+        padding: 20px;
+      }
+    </style>
+    <link rel="shortcut icon" type="image/png" href="https://avatars3.githubusercontent.com/u/53465050?s=200&v=4"/>
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Best Practices, Technology, and Tooling</h1>
+      
+        <br />
+      
+
+      
+        <a href="https://github.com/dcsil/csc491/blob/gh-pages/presentations/best_practices_tech.md" class="btn">View on GitHub</a>
+        <a href="https://github.com/dcsil/csc491/edit/gh-pages/presentations/best_practices_tech.md" class="btn">Edit this Page</a></span>
+        <a href="https://github.com/dcsil/csc491/issues/new" class="btn">Raise a concern or issue</a></span>
+      
+
+      
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      <span>
+      	
+        
+
+        <a href="http://localhost:4000/">Home</a> /
+        
+          
+          
+            <a href="http://localhost:4000/presentations">Presentations</a>  /
+          
+        
+          
+          
+            Best Practices, Technology, and Tooling
+          
+        
+      </span>
+      
+      <h1 id="best-practices-technology-and-tooling">Best Practices, Technology, and Tooling</h1>
 
 <h2 id="csc491-university-of-toronto">CSC491, University of Toronto</h2>
 
@@ -129,7 +195,7 @@
 
 <p>The use of automated image diffing software to determine if an image changed. Usually used by generating a screenshot of your rendered software.</p>
 
-<p><img src="./img/tech_best_practices/screenshot_test.png" alt="legend:Visual Regression test showing a change in the UI. Borrowed from https://learn.visualregressiontesting.com height:400px" /></p>
+<p><img src="/presentations/img/tech_best_practices/screenshot_test.png" alt="legend:Visual Regression test showing a change in the UI. Borrowed from https://learn.visualregressiontesting.com height:400px" /></p>
 
 <hr />
 
@@ -197,7 +263,7 @@
 
 <p>Test how much load a system can take on various paths. E.g. can I send 1 million requests per minute? per second? to <action></action></p>
 
-<p><img src="./img/tech_best_practices/locust_io.png" alt="legend:UI of Locust.io an OSS load testing framework. Borrowed from https://locust.io/ height:400px" /></p>
+<p><img src="/presentations/img/tech_best_practices/locust_io.png" alt="legend:UI of Locust.io an OSS load testing framework. Borrowed from https://locust.io/ height:400px" /></p>
 
 <hr />
 
@@ -251,7 +317,7 @@ app/models/student.rb:24:42: C: Layout/ExtraSpacing: Unnecessary spacing detecte
 <h1 id="linting-1">Linting</h1>
 
 <ul>
-  <li>Saves time on the boring stuff (who wants to debate how many spaces to put after a <code class="highlighter-rouge">{</code>?)</li>
+  <li>Saves time on the boring stuff (who wants to debate how many spaces to put after a <code class="language-plaintext highlighter-rouge">{</code>?)</li>
   <li>Consistent Code. Code is your UI. This makes your devs faster because the code is easier to read</li>
   <li>Can catch bugs</li>
 </ul>
@@ -283,7 +349,7 @@ app/models/student.rb:24:42: C: Layout/ExtraSpacing: Unnecessary spacing detecte
   <li>Catch security issues</li>
 </ul>
 
-<p><img src="./img/tech_best_practices/semantic.png" alt="legend:Example of Semmle, a semantic analysis tool, in action height:400px" /></p>
+<p><img src="/presentations/img/tech_best_practices/semantic.png" alt="legend:Example of Semmle, a semantic analysis tool, in action height:400px" /></p>
 
 <hr />
 
@@ -349,7 +415,7 @@ app/models/student.rb:24:42: C: Layout/ExtraSpacing: Unnecessary spacing detecte
   <li>We can sometimes need a test flakiness* detection system</li>
 </ul>
 
-<p><code class="highlighter-rouge">*</code> test flakiness occurs when a test, that should pass, fails some of the time for unrelated reasons. This could be due to performance issues of the system, time based issues, or something else unknown.</p>
+<p><code class="language-plaintext highlighter-rouge">*</code> test flakiness occurs when a test, that should pass, fails some of the time for unrelated reasons. This could be due to performance issues of the system, time based issues, or something else unknown.</p>
 
 <hr />
 
@@ -388,13 +454,13 @@ app/models/student.rb:24:42: C: Layout/ExtraSpacing: Unnecessary spacing detecte
 
 <h1 id="continuous-deployment-cd-1">Continuous Deployment (CD)</h1>
 
-<p><img src="./img/tech_best_practices/shipit.webp" alt="legend:Shipit, a Shopify application, that is used to coordinate deploys" /></p>
+<p><img src="/presentations/img/tech_best_practices/shipit.webp" alt="legend:Shipit, a Shopify application, that is used to coordinate deploys" /></p>
 
 <hr />
 
 <h1 id="continuous-deployment-cd-2">Continuous Deployment (CD)</h1>
 
-<p><img src="./img/tech_best_practices/shipit2.webp" alt="legend:Shipit, a Shopify application, that is used to coordinate deploys height:400" /></p>
+<p><img src="/presentations/img/tech_best_practices/shipit2.webp" alt="legend:Shipit, a Shopify application, that is used to coordinate deploys height:400" /></p>
 
 <hr />
 
@@ -473,7 +539,7 @@ app/models/student.rb:24:42: C: Layout/ExtraSpacing: Unnecessary spacing detecte
 
 <p>GitHub Report showing top languages over time:</p>
 
-<p><img src="./img/tech_best_practices/top_languages.png" alt="legend:GitHub Report showing top 10 lanugages over time height:500" /></p>
+<p><img src="/presentations/img/tech_best_practices/top_languages.png" alt="legend:GitHub Report showing top 10 lanugages over time height:500" /></p>
 
 <hr />
 
@@ -481,7 +547,7 @@ app/models/student.rb:24:42: C: Layout/ExtraSpacing: Unnecessary spacing detecte
 
 <p>GitHub Report showing fastest growing languages:</p>
 
-<p><img src="./img/tech_best_practices/fastest_growing_languages.png" alt="legend:GitHub Report showing fastest growing languages height:500" /></p>
+<p><img src="/presentations/img/tech_best_practices/fastest_growing_languages.png" alt="legend:GitHub Report showing fastest growing languages height:500" /></p>
 
 <hr />
 
@@ -529,7 +595,7 @@ app/models/student.rb:24:42: C: Layout/ExtraSpacing: Unnecessary spacing detecte
 
 <p>Packer example:</p>
 
-<p><img src="./img/tech_best_practices/packer.png" alt="legend:Packer configuration height:400" /></p>
+<p><img src="/presentations/img/tech_best_practices/packer.png" alt="legend:Packer configuration height:400" /></p>
 
 <hr />
 
@@ -586,3 +652,13 @@ app/models/student.rb:24:42: C: Layout/ExtraSpacing: Unnecessary spacing detecte
   <li><a href="https://octoverse.github.com/">GitHub report on top languages</a></li>
   <li><a href="https://www.notion.so/jnadeau/Developer-Productivity-37a01aed957a44b8ad20cb2a297d6c01">Developer Productivity</a></li>
 </ul>
+
+
+      <footer class="site-footer">
+        
+          <span class="site-footer-owner"><a href="https://github.com/dcsil/csc491">csc491</a> is maintained by <a href="https://github.com/dcsil">dcsil</a>.</span>
+        
+      </footer>
+    </main>
+  </body>
+</html>
