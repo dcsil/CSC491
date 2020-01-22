@@ -68,12 +68,13 @@ If you're lucky, you'll end up with a full department dedicated to these areas
   - Python
   - Javascript
   - PHP
-  - Java
+  - Scala
+  - R
   - C
   - C++
   - Rust
   - Golang
-  - R
+  - Java
 
 ---
 
@@ -98,6 +99,23 @@ GitHub Report showing top languages over time:
 GitHub Report showing fastest growing languages:
 
 ![legend:GitHub Report showing fastest growing languages height:500](./img/tech_best_practices/fastest_growing_languages.png)
+
+---
+
+# Languages
+
+- Examples include:
+  - Ruby : Ruby on Rails, System Scripts
+  - Python : Django, Machine Learning
+  - Javascript : Node, React, Vue, Angular, .....
+  - PHP : Laravel
+  - Scala : Machine Learning and Data Analysis
+  - R : Machine Learning and Data Analysis
+  - C : Interacting with system components
+  - C++ : Games, Interacting with system components
+  - Rust : Multi-threading, quick processing
+  - Golang : Multi-threading, quick processing
+  - Java : Embedded frameworks
 
 ---
 
