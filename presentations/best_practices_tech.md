@@ -32,6 +32,8 @@ There are so many opinions on this topic that none of them are right. This lectu
 
 # High Level Agenda
 
+- Languages & Frameworks
+  - Ruby, Python, Javascript, PHP, Java, C, C++, Rust, Golang, R, etc
 - Testing
   - The different types of tests
   - When to reach for what
@@ -46,9 +48,6 @@ There are so many opinions on this topic that none of them are right. This lectu
   - Continuous Integration and Deployment (CI/CD, Circle, Travis, GitHub Actions)
   - Databases (MySQL, Postgres, etc)
   - Caching (Redis, Memcache, etc)
-  - Languages (Ruby, Python, Javascript, PHP, Java, C, C++, Rust, Golang, R, etc)
-  - Instructure (Docker, Kubernetes, Metal)
-  - Orchestration (Packer, Chef, Puppet, etc)
 - Local Developer Environments
   - Developer Productivity
 
@@ -59,6 +58,46 @@ There are so many opinions on this topic that none of them are right. This lectu
 Each of the following topics evolve with your company. What you need now does not match what you need in the future. This is a constantly changing area.
 
 If you're lucky, you'll end up with a full department dedicated to these areas
+
+---
+
+# Languages
+
+- Examples include:
+  - Ruby
+  - Python
+  - Javascript
+  - PHP
+  - Java
+  - C
+  - C++
+  - Rust
+  - Golang
+  - R
+
+---
+
+# How to pick a Programming Language
+
+1) What are they good at? Web? System? FED? OS?
+2) Is the community and the community tooling good?
+3) Can you hire for it? aka is it a top language
+
+---
+
+# Top Languages
+
+GitHub Report showing top languages over time:
+
+![legend:GitHub Report showing top 10 lanugages over time height:500](./img/tech_best_practices/top_languages.png)
+
+---
+
+# Fastest Growing Languages
+
+GitHub Report showing fastest growing languages:
+
+![legend:GitHub Report showing fastest growing languages height:500](./img/tech_best_practices/fastest_growing_languages.png)
 
 ---
 
@@ -381,90 +420,6 @@ The basic parts of a CI system are:
 - Depends on your use case.
    - Example: Redis is good for smaller datasets and can use 1 core
    - Example: Memcached is better on a larger dataset, worse per-core performance, but can use multiple cores
-
----
-
-# Languages
-
-- Examples include:
-  - Ruby
-  - Python
-  - Javascript
-  - PHP
-  - Java
-  - C
-  - C++
-  - Rust
-  - Golang
-  - R
-
----
-
-# How to pick a Programming Language
-
-1) What are they good at? Web? System? FED? OS?
-2) Is the community and the community tooling good?
-3) Can you hire for it? aka is it a top language
-
----
-
-# Top Languages
-
-GitHub Report showing top languages over time:
-
-![legend:GitHub Report showing top 10 lanugages over time height:500](./img/tech_best_practices/top_languages.png)
-
----
-
-# Fastest Growing Languages
-
-GitHub Report showing fastest growing languages:
-
-![legend:GitHub Report showing fastest growing languages height:500](./img/tech_best_practices/fastest_growing_languages.png)
-
-
----
-
-# Instructure
-
-### How do we host our apps?
-
----
-
-# Infrastructure
-
-- Web apps are typically hosted using Docker, Kubernetes, or on "Bare Metal"
-- ML and AI are typically hosted on a platform like [Dessa's Atlas](https://www.atlas.dessa.com/) or your own data warehouses
-- Other services like datastores are often hosted like web apps using orchestration software
-
----
-
-# Infratrucutre
-
-Personal Opinion:
-
-- Bare metal is usually most performant, but it is harder to manage
-- Docker is nice as it makes an easily reproducible environment
-- Kubernetes is often overkill until you have enough servers for it to matter
-- A platform like Heroku is great to start because you don't have to worry about this stuff at all 
-
-
----
-
-# Orchestration
-
-Examples include Packer, Chef, and Puppet
-
-- Manage many systems as code, idempotent changes, version control config
-- Easy to run and manage many things at once
-
----
-
-# Orchestration
-
-Packer example:
-
-![legend:Packer configuration height:400](./img/tech_best_practices/packer.png)
 
 ---
 
