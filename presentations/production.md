@@ -49,7 +49,6 @@ This is a phrase that was coined by Google: https://landing.google.com/sre/
 # What is Site Reliability Engineering (SRE)?
 
 - Fundamentally, SRE is a practice in which the running of your systems is managed via configuration software.
-- In the last lecture on technologies, we quickly touched on "orchestration" software. Typically one of these will be in use
 - SRE outlines some core tenets as well, such as:
   - a blameless culture
   - psychological safety to move and work around in production
@@ -112,9 +111,9 @@ This generally scales poorly as you must employ an increasing number of operatio
 
 # My Opinion of Operations
 
-Personally, I'm not a fan of operations-style management of production systems. It doesn't scale very well and it requires people to do things that servers are better, and less error-prone, at - click and type configuration.
+I'm not a fan of operations-style management of production systems. It doesn't scale very well and it requires people to do things that servers are better, and less error-prone, at - click and type configuration.
 
-This may be easier at the beginnging though. Hiring a contractor or part time person who's job it is to keep the servers running is much easier. When you have few servers this is a very isolatable role from the rest of your product team and lets you focus on your product.
+This may be easier at the beginning though. Hiring a contractor or part-time person whose job it is to keep the servers running is much easier. When you have few servers this is a very isolatable role from the rest of your product team and lets you focus on your product.
 
 ---
 
@@ -293,7 +292,7 @@ A few main ways to host apps:
 
 ---
 
-## Full sevice providers
+## Full service providers
 
 - Examples include Heroku, and most cloud providers
 - Provide the entire stack to host your app
@@ -310,7 +309,7 @@ A few main ways to host apps:
 # Oncall Schedules
 
 - An industry standard is to use Pagerduty
-- Basically a fancy notification service that takes alerts from your systems and alerts/wakes up an engineer to fix a problem
+- A fancy notification service that takes alerts from your systems and alerts/wakes up an engineer to fix a problem
 
 ---
 
