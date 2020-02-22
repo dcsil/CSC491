@@ -1,8 +1,8 @@
 # Introduction
 
-Code coverage is required for all applications. The minimum "accepted" code coverage is 65%, but remember that 100% code coverage is a myth.
-
-In the following language guides, replace `<URL>` and `<TOKEN>` with the URL/TOKEN you get from repo page on the DCSIL Team App.
+* Code coverage is required for all applications. The minimum "accepted" code coverage is 65%, but remember that 100% code coverage is a myth.
+* In the following language guides, replace `<URL>` and `<TOKEN>` with the URL/TOKEN you get from repo page on the DCSIL Team App.
+* This guide assumes you have the [`jq` package](https://stedolan.github.io/jq/) installed
 
 # Languages
 
@@ -17,12 +17,31 @@ The JSON Formatter will put a summary in `coverage/coverage-summary.json`, we ne
 
 ```sh
 npm test
-curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Node" -d @coverage/coverage-summary.json <URL>
+resp=$(curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Node" -d @coverage/coverage-summary.json <URL>)
+echo $resp
+exit $(cat $resp | jq 'if .success == false then 1 elif .meets_requirements == false then 1 else 0 end')
 ```
 
 ### Python
 
-**TODO**
+We will use https://github.com/nedbat/coveragepy. More detailed guides can be found here: https://coverage.readthedocs.io/en/coverage-5.0.3/#quick-start. a Django template plugin can be found [here](https://pypi.org/project/django-coverage-plugin/).
+
+1. Add `coverage`  to your `pipenv`, `requirements.txt`, or whatever other system you're using (or use `pip install coverage --upgrade`)
+2. Change the command to invoke coverage:
+   - Unittest: `python -m unittest ...` changes to `coverage run -m unittest ...`.
+   - Pytest: `pytest ...` becomes `coverage run -m pytest ...`
+   - Nosetest: `nosetests ...` becomes `coverage run -m nose ...`
+3. Run `coverage report && coverage json`
+4. When you run your tests, upload the results.
+
+The JSON Formatter will put a summary in `coverage.json`, we need to POST that file to the DCSIL Team App.
+
+```sh
+bin/rails test
+resp=$(curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Ruby" -d @coverage.json <URL>)
+echo $resp
+exit $(cat $resp | jq 'if .success == false then 1 elif .meets_requirements == false then 1 else 0 end')
+```
 
 ### Ruby
 
@@ -51,5 +70,7 @@ The JSON Formatter will put a summary in `coverage/coverage.json`, we need to PO
 
 ```sh
 bin/rails test
-curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Ruby" -d @coverage/coverage.json <URL>
+resp=$(curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Ruby" -d @coverage/coverage.json <URL>)
+echo $resp
+exit $(cat $resp | jq 'if .success == false then 1 elif .meets_requirements == false then 1 else 0 end')
 ```
