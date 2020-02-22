@@ -25,6 +25,7 @@ jobs:
           github_changelog_generator -u dcsil -p csc491 -t $GITHUB_TOKEN
       - name: Commit files
         run: |
+          git checkout -B master origin/master
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add --all .
