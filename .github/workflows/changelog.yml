@@ -1,10 +1,9 @@
-name: CI
+name: changelog
 
 on:
   push:
     branches:
       - master
-      - changelog2
   release:
     types:
       - published
