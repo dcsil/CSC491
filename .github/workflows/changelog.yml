@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: 'master'
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.18.0
         with:
@@ -27,7 +29,6 @@ jobs:
         env:
           REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
         run: |
-          git checkout -B master origin/master
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git remote set-url origin https://jules2689:$REPO_ACCESS_TOKEN@github.com/dcsil/csc491.git
