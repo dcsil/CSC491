@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-      - changelog
+      - changelog2
   release:
     types:
       - published
@@ -33,8 +33,16 @@ jobs:
           git config --local user.name "GitHub Action"
           git add --all .
           git commit -m "Update CHANGELOG"
-      - name: Push changes to CHANGELOG
-        uses: ad-m/github-push-action@fe38f0a751bf9149f0270cc1fe20bf9156854365
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Add report file
+          title: 'Update CHANGELOG'
+          body: |
+            Automated update of changelog on release
+          labels: changelog
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
           
