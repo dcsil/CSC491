@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/dcsil/csc491/tree/HEAD)
+## [v2.4](https://github.com/dcsil/csc491/tree/v2.4) (2020-02-22)
 
-[Full Changelog](https://github.com/dcsil/csc491/compare/v2.3...HEAD)
+[Full Changelog](https://github.com/dcsil/csc491/compare/v2.3...v2.4)
 
 **Merged pull requests:**
 
+- Update CHANGELOG [\#34](https://github.com/dcsil/CSC491/pull/34) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Update changelog.yml [\#24](https://github.com/dcsil/CSC491/pull/24) ([jules2689](https://github.com/jules2689))
 - Update changelog.yml [\#22](https://github.com/dcsil/CSC491/pull/22) ([jules2689](https://github.com/jules2689))
 - Create changelog.yml [\#20](https://github.com/dcsil/CSC491/pull/20) ([jules2689](https://github.com/jules2689))
