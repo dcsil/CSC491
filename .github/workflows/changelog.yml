@@ -26,13 +26,15 @@ jobs:
           gem install github_changelog_generator
           github_changelog_generator -u dcsil -p csc491 -t $GITHUB_TOKEN
       - name: Commit files
-        env:
-          REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git remote set-url origin https://jules2689:$REPO_ACCESS_TOKEN@github.com/dcsil/csc491.git
           git add --all .
           git commit -m "Update CHANGELOG"
-          git push origin master
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        env:
+          GITHUB_ACTOR: "jules2689" 
+        with:
+          github_token: ${{ secrets.REPO_ACCESS_TOKEN }}
           
