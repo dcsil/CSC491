@@ -41,8 +41,9 @@ jobs:
           title: 'Update CHANGELOG'
           body: |
             Automated update of changelog on release
-          labels: changelog
-      - name: Check outputs
-        run: |
-          echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
+          labels: automerge
+      - name: Automerge generated PR
+        uses: "pascalgn/automerge-action@ccae530ae13b6af67a7a2009c266fe925844e658"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           
