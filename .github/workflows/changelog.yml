@@ -24,24 +24,14 @@ jobs:
           gem install github_changelog_generator
           github_changelog_generator -u dcsil -p csc491 -t $GITHUB_TOKEN
       - name: Commit files
+        env:
+          REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
         run: |
           git checkout -B master origin/master
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git remote set-url origin https://jules2689:$REPO_ACCESS_TOKEN@github.com/dcsil/csc491.git
           git add --all .
           git commit -m "Update CHANGELOG"
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Add report file
-          title: 'Update CHANGELOG'
-          body: |
-            Automated update of changelog on release
-          labels: automerge
-      - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v1
-        with:
-          token: ${{ secrets.REPO_ACCESS_TOKEN }}
-          event-type: changelog
+          git push origin master
           
