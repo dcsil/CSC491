@@ -1,7 +1,6 @@
 name: Changelog automerge
 on:
   repository_dispatch
-  status: {}
 jobs:
   automerge:
     runs-on: ubuntu-latest
