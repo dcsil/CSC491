@@ -1,5 +1,7 @@
 name: automerge
 on:
+  repository_dispatch:
+    types: [changelog]
   pull_request:
     types:
       - labeled

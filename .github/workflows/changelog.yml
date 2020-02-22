@@ -41,4 +41,9 @@ jobs:
           body: |
             Automated update of changelog on release
           labels: automerge
+      - name: Repository Dispatch
+          uses: peter-evans/repository-dispatch@v1
+          with:
+            token: ${{ secrets.REPO_ACCESS_TOKEN }}
+            event-type: changelog
           
