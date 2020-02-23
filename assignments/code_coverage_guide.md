@@ -1,8 +1,9 @@
 # Introduction
 
 * Code coverage is required for all applications. The minimum "accepted" code coverage is 65%, but remember that 100% code coverage is a myth.
-* In the following language guides, replace `<URL>` and `<TOKEN>` with the URL/TOKEN you get from repo page on the DCSIL Team App.
+* In the following language guides, replace `<URL>` and `<TOKEN>` with the URL/TOKEN you get from repo page on the DCSIL Team App on a repo's page. You can see your repos at https://dcsil-team-app.herokuapp.com/my_team/repos
 * This guide assumes you have the [`jq` package](https://stedolan.github.io/jq/) installed
+* The API docs for the code coverage functionality can be found at https://dcsil-team-app.herokuapp.com/docs/api/code_coverage
 
 # Languages
 
@@ -17,7 +18,7 @@ The JSON Formatter will put a summary in `coverage/coverage-summary.json`, we ne
 
 ```sh
 npm test
-resp=$(curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Node" -d @coverage/coverage-summary.json <URL>)
+resp=$(curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Javascript" -d @coverage/coverage-summary.json <URL>)
 echo $resp
 exit $(cat $resp | jq 'if .success == false then 1 elif .meets_requirements == false then 1 else 0 end')
 ```
@@ -38,7 +39,7 @@ The JSON Formatter will put a summary in `coverage.json`, we need to POST that f
 
 ```sh
 bin/rails test
-resp=$(curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Ruby" -d @coverage.json <URL>)
+resp=$(curl -X POST -H "Content-Type: application/json" -H "Authorization: token <TOKEN>" -H "X-App-Type: Python" -d @coverage.json <URL>)
 echo $resp
 exit $(cat $resp | jq 'if .success == false then 1 elif .meets_requirements == false then 1 else 0 end')
 ```
