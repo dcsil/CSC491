@@ -7,7 +7,8 @@ The goals of the demo are:
 
 - present to everyone the problem you are solving
 - give everyone a sense of the progress you've made
-- demonstrate your progress on what you've built so far
+  - demonstrate your progress on what you've built so far
+  - make a special effort to describe how your architecture and product plans changed over the term
 - show you're making progress towards your MVP
 - show *real working software*
 - some content can be mockups to give extra context, the focus should be on the software
@@ -23,26 +24,19 @@ The goals of the demo are:
 
 # Initial Requirements
 
-Here is a checklist to help you with the following: [Final Demo Checklist](./final_demo_checklist.md)
-
 The demo should include the following:
 
 - Description of the problem you are trying to solve and your solution
 - Live demo of the main flows you think are relevant to the solution
 - Describe your build plan. Did you stay on schedule? If not, why? (This is fine as long as it's not _months_ behind schedule)
+  - Include your architecture diagram, how did this change?
+  - How did your product plans change over time?
 - Pain points and unexpected problems
 
 ### It is okay if...
 
 - some features are partially implemented
 - there are minor bugs
-
-### How is this different from A3?
-
-- You should be further along
-- There should be less bugs
-- You shouldn't have much that is unimplemented in your main flows
-- You shouldn't have to show us much from the command line, unit tests, etc (some may still be ok!)
 
 # Submission
 
@@ -60,23 +54,9 @@ It is suggested to use a folder and multiple files, just like this CSC491 repo, 
 
 This is a course designed to make a startup. When you're running a startup, you need all the help you can get. This means your software should be adequately automated. We will be looking for the following when determining if your software is "real" and "working".
 
-## Dev Ops
-
-These requirements makes sure it is easy to onboard new developers and quoting a local founder "gives you free invisible hands" (with regards to CI and linting).
-
-- There is a test suite
-   - There is some decent amount of [coverage](https://en.wikipedia.org/wiki/Code_coverage). We're not going to be specifying a percent coverage, other to say that anything under 50% coverage likely means you aren't testing enough and [100% means your tests are probably not very good](https://itnext.io/the-myth-of-100-code-coverage-c7d4c789700d)
-   - I'm only counting tests for app code here, but I _do_ recommend trying to test other scripts in your app where possible
-- You've set up some sort of linter for whatever language you are using, if possible
-- There is a CI system setup
-   - [GitHub's CI](https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/) can be used
-   - [GitHub Student Pack](https://education.github.com/pack) also includes access to [Travis CI](https://travis-ci.com/)
-- There is a single script I can call to set up the entire project. This is often `script/bootstrap`.
-  - Explain this in a getting started guide / README
-  - This should install dependencies if needed like Postgres, MySQL, Redis, etc
-  - This should install any languages required
-  - This should install any packages like Rubygems, Node Packages, etc
-  - Docker and Docker Compose is a good option here
+- All requirements from A4 and A6 are complete (CI, testing, code coverage, development bootstrap script, etc.)
+- All repo's READMEs have been kept up to date
+  - The READMEs have been split up into a `docs` folder if it gets too big
 
 ## The Application
 
@@ -84,51 +64,7 @@ These requirements makes sure it is easy to onboard new developers and quoting a
 - The application does not throw exceptions on any standard path
   - Note, we recognize some non-standard paths in the code may cause some problems, but do your best to guard against exceptions
 - The application has some sort of design system in place
-- The application has clearly progressed from A5, including new features, functionality, and less bugs
-
-## Production
-
-- It is deployed somewhere that can be access from outside your laptop (if required).
-  - [Heroku](https://www.heroku.com) is a simple and quick way to accomplish this. It is included in your [GitHub Student Pack](https://education.github.com/pack)
-  - [DigitalOcean](https://digitalocean.com), [Amazon AWS](https://aws.amazon.com/), and [Microsoft Azure](https://azure.microsoft.com/en-us/) are also included in your student pack.
-- There is some sort of logging service set up
-  - [LogDNA](https://logdna.com/) is included in your [GitHub Student Pack](https://education.github.com/pack)
-- Exception tracking is set up
-  - [Sentry](https://sentry.io/) is included in your student pack
-
-## The Repo
-  
-- The README has been kept up to date
-   - The README has been split up into a `docs` folder if it gets too big
-
-### The YAML file
-
-For all tools, please include a file labelled `service.yml` using the following **sample** file:
-
-```yml
-tools:
-  exceptions: https://...
-  logging: https://...
-  ci: https://...
-
-services:
-  production: https://... (link to the dashboard, not the running app)
-  staging: ...
-
-docs:
-  getting_started: https://...
-  
-commands:
-  bootstrap: script/bootstrap
-  database:
-    create: bin/rails db:create
-    migrate: bin/rails db:migrate
-  server: bin/rails server
-```
-
-Fill it out as necessary, include at minimum a `tools`, `services`, `docs`, and `commands` section. In those sections, include, at minimum, the requirements listed above. Be creative and keep track of your app details here.
-
-This will help keep things in one consolidated location and will be used to help grade.
+- The application has progressed over the term and main features/functionality are complete and are relatively bug-free
 
 # Questions or Concerns?
 
@@ -144,17 +80,14 @@ This will help keep things in one consolidated location and will be used to help
 | Area | Description| Weight |
 | --- | --- | --- |
 | Problem and Solution | Gives a concise explanation of the problem and solution | 5.0 |
-| Progress | Has clearly progressed from Assignment 3 and addressed any feedback`*` | 25.0 |
-| Vision | Shows a better understanding of the problem from A3, explains the vision of the product, does not leave questions unanswered`**` | 10.0 |
-| Software | Has working code that runs and delivers a demo. Does not need to use command line (unless that is the main product UI!), code, unit tests, or other mockups to show the main flow  | 30.0 |
-| Reflection | Thoughtfully reflects on the build plan and problems faced. Outlines plans into the future. | 15.0 |
-| Presentation | Engaging presentation, ensures only relevant parts are shown and does not sugar-coat | 15.0 |
+| Product Vision | Explains the vision of the product, tells us about the future of the product, does not leave questions unanswered`**` | 15.0 |
+| Demo | The demonstration covers the main flows of the application. The flows seem to address the problem and be a solution | 25.0 |
+| Software | Has working code that runs and delivers a demo. Does not need to use command line (unless that is the main product UI!), code, unit tests, or other mockups to show the main flow  | 25.0 |
+| Reflection | Thoughtfully reflects on the build plan, architecture diagram, product, and problems faced. Describes how these changed over the term. Outlines plans into the future. | 15.0 |
+| Presentation | Engaging presentation, ensures only relevant parts are shown and does not sugar-coat. Tells a good story | 15.0 |
 | | **Total** | 100.0 |
 
-`*` If a lot of progress has already been made from [Assignment 4](https://github.com/dcsil/CSC491/edit/master/assignments/a4.md) then
-the marking will take that into account; however, there should be some attempt to improve upon the MVP after some ad-hoc user feedback.
-
-`**` It is ok to say "I'm not sure, thank you for brining that up. I'll research it and get back to you" as long as it's not a large portion of the questions
+`**` It is ok to say "I'm not sure, thank you for bringing that up. I'll research it and get back to you" as long as it's not a large portion of the questions
 
 ## Rating Scale
 
