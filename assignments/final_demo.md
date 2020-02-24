@@ -9,7 +9,6 @@ The goals of the demo are:
 - give everyone a sense of the progress you've made
   - demonstrate your progress on what you've built so far
   - make a special effort to describe how your architecture and product plans changed over the term
-- show you're making progress towards your MVP
 - show *real working software*
 - some content can be mockups to give extra context, the focus should be on the software
 
@@ -82,7 +81,7 @@ This is a course designed to make a startup. When you're running a startup, you 
 | Problem and Solution | Gives a concise explanation of the problem and solution | 5.0 |
 | Product Vision | Explains the vision of the product, tells us about the future of the product, does not leave questions unanswered`**` | 15.0 |
 | Demo | The demonstration covers the main flows of the application. The flows seem to address the problem and be a solution | 25.0 |
-| Software | Has working code that runs and delivers a demo. Does not need to use command line (unless that is the main product UI!), code, unit tests, or other mockups to show the main flow  | 25.0 |
+| Software | Has working code that runs and delivers a demo. Does not need to use command line (unless that is the main product UI!), code, unit tests, or other mockups to show the main flow. Mockups can be used to show non-main-path or future plans.  | 25.0 |
 | Reflection | Thoughtfully reflects on the build plan, architecture diagram, product, and problems faced. Describes how these changed over the term. Outlines plans into the future. | 15.0 |
 | Presentation | Engaging presentation, ensures only relevant parts are shown and does not sugar-coat. Tells a good story | 15.0 |
 | | **Total** | 100.0 |
