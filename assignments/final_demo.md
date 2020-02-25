@@ -78,12 +78,12 @@ This is a course designed to make a startup. When you're running a startup, you 
  
 | Area | Description| Weight |
 | --- | --- | --- |
-| Problem and Solution | Gives a concise explanation of the problem and solution | 5.0 |
+| Problem and Solution | Gives a concise explanation of the problem and solution. | 5.0 |
 | Product Vision | Explains the vision of the product, tells us about the future of the product, does not leave questions unanswered`**` | 15.0 |
-| Demo | The demonstration covers the main flows of the application. The flows seem to address the problem and be a solution | 25.0 |
+| Demo | The demonstration covers the main flows of the application. The flows seem to address the problem and be a solution. | 25.0 |
 | Software | Has working code that runs and delivers a demo. Does not need to use command line (unless that is the main product UI!), code, unit tests, or other mockups to show the main flow. Mockups can be used to show non-main-path or future plans.  | 25.0 |
 | Reflection | Thoughtfully reflects on the build plan, architecture diagram, product, and problems faced. Describes how these changed over the term. Outlines plans into the future. | 15.0 |
-| Presentation | Engaging presentation, ensures only relevant parts are shown and does not sugar-coat. Tells a good story | 15.0 |
+| Presentation | Engaging presentation, ensures only relevant parts are shown and does not sugar-coat. Tells a good story. | 15.0 |
 | | **Total** | 100.0 |
 
 `**` It is ok to say "I'm not sure, thank you for bringing that up. I'll research it and get back to you" as long as it's not a large portion of the questions
