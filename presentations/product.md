@@ -239,51 +239,17 @@ Product Management is a craft, just like development, design, user research, wri
 
 ## What is product management?
 
-The product manager (PM for short) is typically responsible for the strategy of a feature, roadmaps, and feature definition for that product or product line.
+The product manager (PM for short) is typically responsible for the initial and ongoing strategy of a feature, feature roadmaps, and ongoing feature definition for that product or product line.
 
 ---
 
 # 3. Product Management
-
-## What is product management?
-
-They are typically found in the same sort of organizational structure as other crafts within the company. This is one such example and may vary by company. We will use this example in this lecture.
-
-![center height:300 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
-
----
-
-# 3. Product Management
-
-## Product VPs / Chief Product Officers
 
 ![center height:200 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
 
 People at the top of the product organizations are responsible for the vision of the entire company. Companies may have many projects, but they must align on a core vision and somehow fit together.
 
-_Keep Note:_ The CEO and Founders often remain heavily involved in this role. In many cases this role remains the CEO's job, and the head of product deals with the product organization management alongside being a right-hand to the CEO for product decisions.
-
----
-
-# 3. Product Management
-
-## Product Directors
-
-![center height:200 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
-
-These people report into the product top leadership. They are usually responsible for a department or large section of a product. They work with the VP to ensure that their section stays aligned with the company's vision. They also work with their Product Managers (PMs) to ensure alignment down to the project/feature level.
-
----
-
-# 3. Product Management
-
-## Product Managers
-
-![center height:200 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
-
-The product manager (PM for short) is typically responsible for the strategy of a feature, roadmaps, and feature definition for that product or product line.
-
-A PM is responsible for a concise section of the entire product. They work with their director to ensure it aligns with the product vision for the department.
+As you get further down the management chart, people are in charge of the product vision of smaller pieces with a product manager being in charge of a team's vision. 
 
 ---
 
@@ -293,13 +259,27 @@ A PM is responsible for a concise section of the entire product. They work with 
 
 Despite the hierarchy, these people all must remain aligned and often discuss and influence direction.
 
+---
+
+# 3. Product Management
+
+![center height:200 legend:Product Management org showing 2 directors reporting to a VP, with 4 Product managers under each](./img/product/product_management_org.png)
+
 This type of organization _does not mean_ that engineering, design, etc cannot take part in product planning. These people are all invested in the product too. The Product Management's role is to simply ensure the plans of the company remain aligned with the vision.
 
 ---
 
 # Product Roadmaps
 
-Most people tend to default to a product roadmap that is based solely ontime.
+You've been working on these throughout the term for our assignments, what have you learned?
+
+What works? What doesn't?
+
+---
+
+# Product Roadmaps
+
+Most people tend to default to a product roadmap that is based solely on time.
 
 ![center height:400 legend:Time based roadmap courtesy, image inspired by https://www.mindtheproduct.com/2018/03/growing-up-lean/](./img/product/roadmap_timeline.png)
 
@@ -338,19 +318,11 @@ You're welcome to use a timebased roadmap on a short term (few weeks to 6 weeks)
 2. In terms of outcome, make sure that vision aligns with your company's north star.
 3. Use "time horizons"
 
-![center height:200 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://www.mindtheproduct.com/2018/03/growing-up-lean/](./img/product/time_horizons.jpg)
-
-_Image borrowed from https://www.mindtheproduct.com/2018/03/growing-up-lean/, they maintain copyright of the image_
-
 ---
 
 # Product Roadmaps
 
-This allows you to have a "current", "medium", and "long term" vision.
-
-Of course, sometimes you need timelines for business reports and other areas. Accommodate as required.
-
-![center height:250 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://www.mindtheproduct.com/2018/03/growing-up-lean/](./img/product/time_horizons.jpg)
+![center height:500 legend:Time horizons roadmap (short, medium, long term, no dates) courtesy of https://www.mindtheproduct.com/2018/03/growing-up-lean/](./img/product/time_horizons.jpg)
 
 _Image borrowed from https://www.mindtheproduct.com/2018/03/growing-up-lean/, they maintain copyright of the image_
 
