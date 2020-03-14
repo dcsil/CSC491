@@ -11,10 +11,10 @@
 | 7 | Thursday, February 20 2020 | University | (❗A4 Due) NO CLASS - Reading Week |
 | 8 | Thursday, February 27 2020 | University | (❗A5 Due) Product & Data Analysis (TBD?) |
 | 9 | Thursday, March 5 2020 | University | Work in Class |
-| N/A | Thursday, March 12 2020 | University | Security Talk & Workshop from Guest Speaker |
-| 10 | Thursday, March 19 2020 | University | UX & UI (TBD?), Work in Class |
-| 11 | Thursday, March 26 2020 | University | Work in Class to prepare for final demos |
-| 12 | Thursday, April 2 2020 | University | ❗Final Demos and A6 - Software Due (Last Class) |
+| N/A | Thursday, March 12 2020 | Online (Zoom) | Security Talk & Workshop from Guest Speaker |
+| 10 | Thursday, March 19 2020 | Online (Zoom) | UX & UI (TBD?), Work in Class |
+| 11 | Thursday, March 26 2020 | Online (Zoom) | Lecture TBD / Work in Class |
+| 12 | Thursday, April 2 2020 | Online (Zoom) | ❗Final Demos and A6 - Software Due (Last Class) |
 | N/A | Friday, April 3 2020 | N/A | Bonus Assignment Due |
 
 `**` The TA will manage this class while the lecturer is away
