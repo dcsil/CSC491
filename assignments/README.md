@@ -10,8 +10,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [Assignment 3](./a3.md) | Tech Choices, Architecture Diagram, Roadmap | 20% | Repo |
 | [Assignment 4](./a4.md) | Dev Env, Test Infrastructure, & Production Setup | 20% | Repo |
 | [Assignment 5](./a5.md) | UX Research w/Prototype, Roadmap Updates | 10% | Repo |
-| [Assignment 6](./a6.md) | Software | 20% | Repos |
-| [Final Demo](./final_demo.md) | Final Demo of your Prototype | 10% | In-class presentation |
+| [Assignment 6](./a6.md) | Software | 30% | Repos |
 | [Bonus](./bonus.md) | Bonus Assignment(s) | up to +5% | Varies |
 | | **Total** | 100% (+5%) | |
 
