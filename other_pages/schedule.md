@@ -14,8 +14,9 @@
 | N/A | Thursday, March 12 2020 | Online (Zoom) | Security Talk & Workshop from Guest Speaker |
 | 10 | Thursday, March 19 2020 | Online (Zoom) | UX & UI (TBD?), Work in Class |
 | 11 | Thursday, March 26 2020 | Online (Zoom) | Lecture TBD / Work in Class |
-| 12 | Thursday, April 2 2020 | Online (Zoom) | ❗Final Demos and A6 - Software Due (Last Class) |
+| 12 | Thursday, April 2 2020 | Online (Zoom) | Informal Demos of your Software |
 | N/A | Friday, April 3 2020 | N/A | Bonus Assignment Due |
+| N/A | Monday, April 20 2020 | N/A | ❗A6 Due - Software Due (Last Class) |
 
 `**` The TA will manage this class while the lecturer is away
 ❗denotes an assignment or demo is due
