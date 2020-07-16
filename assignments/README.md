@@ -5,12 +5,12 @@ There are a number of assignments that make up your final grade, the weights are
 
 | Assignment | Description | Weight | Submission Location |
 | --- | --- | --- | --- |
-| [Assignment 1](./a1.md) | Team Introduction, Team Setup | 5% | Repo |
-| [Assignment 2](./a2.md) | Team Exploration - Diversity and Inclusion | 15% | Repo |
-| [Assignment 3](./a3.md) | Tech Choices, Architecture Diagram, Roadmap | 20% | Repo |
-| [Assignment 4](./a4.md) | Dev Env, Test Infrastructure, & Production Setup | 20% | Repo |
+| [Assignment 1](./a1.md) | Team Introduction, Team Setup | 10% | Repo |
+| [Assignment 2](./a2.md) | Team Exploration - Diversity and Inclusion | 10% | Repo |
+| [Assignment 3](./a3.md) | Tech Choices, Architecture Diagram, Roadmap | 10% | Repo |
+| [Assignment 4](./a4.md) | Dev Env, Test Infrastructure, & Production Setup | 15% | Repo |
 | [Assignment 5](./a5.md) | UX Research w/Prototype, Roadmap Updates | 10% | Repo |
-| [Assignment 6](./a6.md) | Software | 30% | Repos |
+| [Assignment 6](./a6.md) | Software | 45% | Repos |
 | [Bonus](./bonus.md) | Bonus Assignment(s) | up to +5% | Varies |
 | | **Total** | 100% (+5%) | |
 
