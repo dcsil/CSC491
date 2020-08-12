@@ -14,9 +14,8 @@
 | N/A | Thursday, November 12 2020 | Online (Zoom) | NO CLASS - Reading Week |
 | 10 | Thursday, November 19 2020 | Online (Zoom) | UX & UI (TBD?), Work in Class |
 | 11 | Thursday, November 26 2020 | Online (Zoom) | Lecture TBD / Work in Class |
-| 12 | Thursday, December 3 2020 | Online (Zoom) | Informal Demos of your Software |
-| N/A | Friday, April 3 2020 | N/A | Bonus Assignment Due |
-| N/A | Monday, April 20 2020 | N/A | ❗A6 Due - Software Due (Last Class) |
+| 12 | Thursday, December 3 2020 | Online (Zoom) | ❗A6 Due - Software Due - Informal Demos of your Software |
+| N/A | Friday, December 4 2020 | N/A | Bonus Assignment Due |
 
 **Notes**
 - _Lectures subject to change._
