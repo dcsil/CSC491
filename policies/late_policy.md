@@ -16,7 +16,7 @@ Assignments will be accepted up to 1 week past the due date at -5% per day.
 | 7 | -35% |
 | 8+ | -100% |
 
-Accomodations may be made in cases of extenuating circumstances.
+Accomodations can be made by talking to the instructor. They are not guaranteed, however, but we do like to model a startup :)
 
 ### Compounding assignments
 
