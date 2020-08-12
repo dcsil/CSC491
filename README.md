@@ -44,13 +44,13 @@ There is a co-requisite to CSC491/2600, students must also be enrolled in CSC454
 
 There is also an application process on [the DCSIL website](https://www.dcsil.ca/student-courses).
 
-### Required Materials
+### Required Materials/Software
 
 There aren't any _required_ materials persay, but it is highly recommended to bring a laptop to class with a fully functioning developer environment for your project. While not all classes will be workshops, it is recommended to bring your laptop during each class for other uses such as research.
 
 You will also need a [GitHub account](https://github.com/join).
 
-It is recommended to download, install, and set up [Zoom](https://zoom.us/) as this may be used at points through the term.
+It is **required** to download, install, and set up [Zoom](https://zoom.us/) as this will be used for all communications throughout the term.
 
 ## Lecturer
 
@@ -63,15 +63,13 @@ You can view my personal website at [https://jnadeau.ca](https://jnadeau.ca) and
 
 ### Office Hours
 
-Office hours are by appointment. Please email me at julian.nadeau[at]utoronto.ca or talk to me in person.
+Office hours are by appointment. Please email me at julian.nadeau[at]utoronto.ca, though messaging me on DCSIL's Slack group is more likely to get a response.
+
+While the course is online due to Covid-19, I am willing to meet up for a socially distanced coffee or park visit in person in the downtown core of Toronto to discuss any issues in person if you would strongly prefer that. Please wear a mask (except when drinking your coffee/tea/water), I will not meet with you if you are not wearing your mask. 
 
 ## Time and Location
 
-Class is on Thursdays from 6-9.
-
-Class takes place on the [2nd floor of the Gerstein Science Information Centre, 9 King's College Circle.](https://gerstein.library.utoronto.ca/spaces/dept-computer-science-innovation-lab-dcsil)
-
-Here is a [map](./other_pages/map.md) to help you.
+Class is on Thursdays from 6-9 EST on Zoom. If you are not in a time zone that aligns with EST, please let me know early!
 
 ## I don't like something about this course
 
@@ -81,4 +79,4 @@ Please [submit an issue](https://github.com/dcsil/CSC491/issues/new) on this rep
 
 That said, remember that your changes or concerns aren't guaranteed to be addressed how you want. I (the instructor) have the final say.
 
-If you prefer to speak privately, please email me.
+If you prefer to speak privately, please email me or message me on Slack.
