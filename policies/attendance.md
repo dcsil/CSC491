@@ -21,6 +21,10 @@ If you are sick and would like to participate in class still, then we can set up
 *DO NOT* come to class if you are sick. I do not want myself or other students to become ill because you didn't want to miss class.
 I *will not* penalize you for not attending class due to an illness. Be open and communicate your needs so we can accommodate.
 
+## All my classes are online and I do not live in a timezone that can align with EST
+
+Please talk to the instructor by email or Slack.
+
 ## How to ask for help
 
 - A ping on Slack is a decent option
