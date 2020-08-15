@@ -19,7 +19,7 @@ jobs:
       - name: Run rubric
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bin/rubric
+        run: bin/rubrics
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
