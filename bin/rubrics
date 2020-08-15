@@ -1,0 +1,42 @@
+#!/usr/bin/env ruby
+
+Dir.glob(File.expand_path("../_vendor/*/lib", __FILE__)) do |path|
+  $LOAD_PATH.unshift(path) unless $LOAD_PATH.include?(path)
+end
+
+require 'cli/ui'
+require 'cli/kit'
+require 'yaml'
+require 'tempfile'
+
+CLI::UI::StdoutRouter.enable
+
+def generate_rubric(assignment)
+  toc = ["<!-- RUBRIC START -->"]
+  toc << "| Section | Description | Worth |"
+  toc << "| --- | --- | --- |"
+
+  total = 0
+
+  assignment["breakdown"].map do |section|
+    total += section["worth"]
+    toc << "| #{section["section"]} | #{section["description"]} | #{section["worth"]} |"
+  end
+
+  if total != 100
+    raise "#{assignment['name']} total was #{total} not 100!"
+  end
+
+  toc << "| | **Total:** | 100 |"
+  toc << "<!-- RUBRIC END -->"
+  toc.join("\n")
+end
+
+assignments = YAML.load_file("assignments.yml")
+assignments.each do |assignment|
+  puts "Parsing #{assignment['name']}"
+  file = File.read(assignment["file"])
+  rubric = generate_rubric(assignment)
+  new_content = file.gsub(/<!-- RUBRIC START -->.*<!-- RUBRIC END -->/m, rubric)
+  File.write(assignment["file"], new_content)
+end
