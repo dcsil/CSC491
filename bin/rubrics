@@ -32,11 +32,23 @@ def generate_rubric(assignment)
   toc.join("\n")
 end
 
-assignments = YAML.load_file("assignments.yml")
-assignments.each do |assignment|
-  puts "Parsing #{assignment['name']}"
-  file = File.read(assignment["file"])
-  rubric = generate_rubric(assignment)
-  new_content = file.gsub(/<!-- RUBRIC START -->.*<!-- RUBRIC END -->/m, rubric)
-  File.write(assignment["file"], new_content)
+def parse_assignments(assignments)
+  assignments.each do |assignment|
+    puts "Parsing #{assignment['name']}"
+    file = File.read(assignment["file"])
+    rubric = generate_rubric(assignment)
+    new_content = file.gsub(/<!-- RUBRIC START -->.*<!-- RUBRIC END -->/m, rubric)
+    File.write(assignment["file"], new_content)
+  end
 end
+
+assignments = YAML.load_file("assignments.yml")
+parse_assignments assignments["team"]
+parse_assignments assignments["users"]
+
+worths = (assignments["team"] + assignments["users"]).map do |assignment|
+  next if assignment['bonus']
+  assignment['worth']
+end
+total_worth = worths.inject(:+)
+raise "Total worth was not 100, it was #{total_worth}" if total_worth != 100
