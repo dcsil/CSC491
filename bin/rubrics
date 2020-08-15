@@ -44,7 +44,7 @@ end
 
 assignments = YAML.load_file("assignments.yml")
 parse_assignments assignments["team"]
-parse_assignments assignments["users"]
+parse_assignments assignments["user"]
 
 worths = (assignments["team"] + assignments["users"]).map do |assignment|
   next if assignment['bonus']
