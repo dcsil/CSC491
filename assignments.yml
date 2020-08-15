@@ -1,4 +1,4 @@
----
+team:
   - name: A1 - Team Introduction, Team Setup
     worth: 5
     file: assignments/a1.md
@@ -113,4 +113,15 @@
       worth: 15.0
     due_date: 2020-04-02
     position: 7
+user:
+  - name: Bonus Assignment
+    worth: 5
+    bonus: true
+    file: assignments/bonus.md
+    breakdown:
+    - section: Work
+      description: General work according to the bonus assignment description
+      worth: 100.0
+    due_date: 2020-04-02
+    position: 8
   
