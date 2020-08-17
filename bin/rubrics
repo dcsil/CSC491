@@ -47,7 +47,7 @@ parse_assignments assignments["team"]
 parse_assignments assignments["user"]
 
 worths = (assignments["team"] + assignments["user"]).map do |assignment|
-  next if assignment['bonus']
+  next 0 if assignment['bonus']
   assignment['worth']
 end
 total_worth = worths.inject(:+)
