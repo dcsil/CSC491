@@ -4,7 +4,6 @@ Assignments, Deliverables, Distribution of Grades
 There are a number of assignments that make up your final grade, the weights are listed below:
 
 <!-- OVERVIEW START -->
-
 | Assignment | Description | Weight | Submission Location | Due Date |
 | --- | --- | --- | --- | --- |
 | [Assignment 1](/assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo | September 17, 2020 |
