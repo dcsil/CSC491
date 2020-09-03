@@ -4,23 +4,22 @@ Assignments, Deliverables, Distribution of Grades
 There are a number of assignments that make up your final grade, the weights are listed below:
 
 <!-- OVERVIEW START -->
-| Assignment | Description | Weight | Submission Location |
-| --- | --- | --- | --- |
-| [Assignment 1](/assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo |
-| [Assignment 2](/assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | repo |
-| [Assignment 3](/assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | repo |
-| [Assignment 4](/assignments/a4.md)  | A4 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo |
-| [Assignment 5](/assignments/a5.md)  | A5 - UX Research w/Prototype, Roadmap Updates | 8% | repo |
-| [Software](/assignments/a6.md)  | Software | 45% | repo |
-| [Participation](/assignments/README.md)  | Participation | 9% | N/A |
-| [Bonus Assignment](/assignments/bonus.md) (Bonus) | Bonus Assignment | 5% | Dev.To |
-| | **Total** | 100% (+5%) | |
+| Assignment | Description | Weight | Submission Location | Due Date |
+| --- | --- | --- | --- | --- |
+| [Assignment 1](/assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo | September 17, 2020 |
+| [Assignment 2](/assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | repo | October 01, 2020 |
+| [Assignment 3](/assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | repo | October 08, 2020 |
+| [Assignment 4](/assignments/a4.md)  | A4 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo | October 22, 2020 |
+| [Assignment 5](/assignments/a5.md)  | A5 - UX Research w/Prototype, Roadmap Updates | 8% | repo | October 29, 2020 |
+| [Software](/assignments/a6.md)  | Software | 45% | repo | December 03, 2020 |
+| [Participation](/assignments/README.md)  | Participation | 9% | N/A | December 03, 2020 |
+| [Bonus Assignment](/assignments/bonus.md) (Bonus) | Bonus Assignment | 5% | Dev.To | December 03, 2020 |
+| | **Total** | 100% (+5%) | | |
 
 <!-- OVERVIEW END -->
 
 ### Important Notes
 
-- Due dates can be seen on [the schedule](../other_pages/schedule.md).
 - Each assignment builds off of one another. If you don't do one, you won't be able to complete the next assignment as it's rubric and requirements build off the ones prior to it.
 
 ### Participation
