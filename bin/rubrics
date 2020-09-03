@@ -39,17 +39,20 @@ def generate_overview(assignments)
   EOF
 
   body = []
+  bonuses = 0
   (assignments["team"] + assignments["user"]).sort_by { |a| a["position"] }.each do |assignment|
     name = assignment["number"].nil? ? assignment["name"] : "Assignment #{assignment["number"]}"
     due = assignment['due_date'].strftime("%B %d, %Y")
     body << "| [#{name}](/#{assignment["file"]}) #{'(Bonus)' if assignment['bonus']} | #{assignment["name"]} | #{assignment["worth"]}% | #{assignment["submission"]} | #{due} |"
+    bonuses += assignment["worth"] if assignment['bonus']
   end
 
+  bonus_text = bonuses > 0 ? "(+#{bonuses}%)" : ""
   footer = <<~EOF
-  | | **Total** | 100% (+5%) | | |
+  | | **Total** | 100% #{bonus_text} | | |
   EOF
 
-  "<!-- OVERVIEW START -->\n" + header + body.join("\n") + "\n" + footer + "\n<!-- OVERVIEW END -->"
+  "<!-- OVERVIEW START -->\n\n" + header + body.join("\n") + "\n" + footer + "\n<!-- OVERVIEW END -->"
 end
 
 def parse_assignments(assignments)

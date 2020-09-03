@@ -136,7 +136,7 @@ team:
     position: 7
 user:
   - name: Bonus Assignment
-    worth: 5
+    worth: 2
     bonus: true
     file: assignments/bonus.md
     submission: Dev.To
