@@ -2,6 +2,7 @@ team:
   - name: A1 - Team Introduction, Team Setup
     worth: 8
     file: assignments/a1.md
+    submission: repo
     breakdown:
     - section: Company Logo & Name
       description: Good logo/name that represents a modern idea
@@ -11,9 +12,11 @@ team:
       worth: 70.0
     due_date: 2020-09-17
     position: 1
+    number: 1
   - name: A2 - Team Exploration - Diversity and Inclusion
     worth: 10
     file: assignments/a2.md
+    submission: repo
     breakdown:
     - section: Expertise
       description: Describes how each team member's expertise can benefit the project
@@ -35,9 +38,11 @@ team:
       worth: 25.0
     due_date: 2020-10-01
     position: 2
+    number: 2
   - name: A3 - Tech Choices, Architecture Diagram, Roadmap
     worth: 10
     file: assignments/a3.md
+    submission: repo
     breakdown:
     - section: Stackshare.io
       description: Describes the main technologies the team intends to use. For every technology, there is also a decision record. StackShare URL is added to the team profile in the App
@@ -50,9 +55,11 @@ team:
       worth: 40.0
     due_date: 2020-10-08
     position: 3
+    number: 3
   - name: A4 - Dev Env, Test Infrastructure, & Production Setup
     worth: 10
     file: assignments/a4.md
+    submission: repo
     breakdown:
     - section: "`service.yml`"
       description: Is present and fully filled out
@@ -71,9 +78,11 @@ team:
       worth: 10.0
     due_date: 2020-10-22
     position: 4
+    number: 4
   - name: A5 - UX Research w/Prototype, Roadmap Updates
     worth: 8
     file: assignments/a5.md
+    submission: repo
     breakdown:
     - section: UX Research
       description: Interviews at least 2 individuals. Includes appendices including notes. These can be rough, but they must show that you asked all individuals approximately the same questions, recorded questions, mistakes, and feedback. Concisely summarizes the results and does not sugar coat
@@ -83,9 +92,11 @@ team:
       worth: 40.0
     due_date: 2020-10-29
     position: 5
+    number: 5
   - name: Software
     worth: 45
     file: assignments/a6.md
+    submission: repo
     breakdown:
     - section: Applications
       description: All applications present in the architecture diagram have a repository and an MVP is implemented.
@@ -112,10 +123,11 @@ team:
       description: The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity]({{ROOT}}/accessibility_checklist.md) is filled out and submitted in the team repo
       worth: 15.0
     due_date: 2020-12-03
-    position: 7
+    position: 6
   - name: Participation
     worth: 9
     file: assignments/README.md
+    submission: N/A
     breakdown:
     - section: Participation
       description: Participated in GitHub Issues, Submitted GitHub PRs, Participated in and Viewed online lectures, Participated in all team work, Adhered to team principles, etc
@@ -127,6 +139,7 @@ user:
     worth: 5
     bonus: true
     file: assignments/bonus.md
+    submission: Dev.To
     breakdown:
     - section: Work
       description: General work according to the bonus assignment description
