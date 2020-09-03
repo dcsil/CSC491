@@ -32,6 +32,28 @@ def generate_rubric(assignment)
   toc.join("\n")
 end
 
+def generate_overview(assignments)
+  header = <<~EOF
+  | Assignment | Description | Weight | Submission Location |
+  | --- | --- | --- | --- |
+  EOF
+
+  body = []
+  assignments["team"].each do |team_assignment|
+    body << "| [Assignment #{team_assignment["position"]}](/#{team_assignment["file"]}) #{'(Bonus)' if team_assignment['bonus']} | #{team_assignment["name"]} | #{team_assignment["worth"]}% | Repo |"
+  end
+
+  assignments["user"].each do |user_assignment|
+    body << "| [#{user_assignment["name"]}](/#{user_assignment["file"]}) #{'(Bonus)' if user_assignment['bonus']} | #{user_assignment["name"]} | #{user_assignment["worth"]}% | Repo |"
+  end
+
+  footer = <<~EOF
+  | | **Total** | 100% (+5%) | |
+  EOF
+
+  "\n<!-- OVERVIEW START -->" + header + body.join("\n") + footer + "\n<!-- OVERVIEW END -->"
+end
+
 def parse_assignments(assignments)
   assignments.each do |assignment|
     puts "Parsing #{assignment['name']}"
@@ -43,8 +65,6 @@ def parse_assignments(assignments)
 end
 
 assignments = YAML.load_file("assignments.yml")
-parse_assignments assignments["team"]
-parse_assignments assignments["user"]
 
 worths = (assignments["team"] + assignments["user"]).map do |assignment|
   next 0 if assignment['bonus']
@@ -52,3 +72,11 @@ worths = (assignments["team"] + assignments["user"]).map do |assignment|
 end
 total_worth = worths.inject(:+)
 raise "Total worth was not 100, it was #{total_worth}" if total_worth != 100
+
+parse_assignments assignments["team"]
+parse_assignments assignments["user"]
+
+puts "Outputting to Assignment/README.md"
+file = File.read("assignments/README.md")
+new_content = file.gsub(/<!-- OVERVIEW START -->.*<!-- OVERVIEW END -->/m, generate_overview(assignments))
+File.write("assignments/README.md", new_content)
