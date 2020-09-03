@@ -13,8 +13,8 @@ There are a number of assignments that make up your final grade, the weights are
 | [Assignment 5](/assignments/a5.md)  | A5 - UX Research w/Prototype, Roadmap Updates | 8% | repo | October 29, 2020 |
 | [Software](/assignments/a6.md)  | Software | 45% | repo | December 03, 2020 |
 | [Participation](/assignments/README.md)  | Participation | 9% | N/A | December 03, 2020 |
-| [Bonus Assignment](/assignments/bonus.md) (Bonus) | Bonus Assignment | 5% | Dev.To | December 03, 2020 |
-| | **Total** | 100% (+5%) | | |
+| [Bonus Assignment](/assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | December 03, 2020 |
+| | **Total** | 100% (+2%) | | |
 
 <!-- OVERVIEW END -->
 
