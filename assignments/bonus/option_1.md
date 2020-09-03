@@ -6,7 +6,7 @@ I believe in the value of good writing and sharing knowledge.
 
 This option is to write a blog post on dev.to on a topic with which you have expertise.
 
-You can write as many posts as you want, but can only obtain up to 5% among all bonus assignments.
+You can write as many posts as you want, but can only obtain up to 2% among all bonus assignments.
 
 - [Requirements](#requirements)
 - [Submission](#submission)
