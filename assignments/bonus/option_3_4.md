@@ -2,11 +2,9 @@
 
 In order to give you experience in contributing to other applications and to fix your own issues in the DCSIL team app, you can fix bugs and implement features yourselves.
 
-Both are worth 2.5 - 5%, depending the severity of the bug and the complexity/need of the feature.
-
 Features should first be cleared with the instructor to ensure that the feature is actually desired.
 
-You can implement as many fixes and features as you want, but can only obtain up to 5% among all bonus assignments.
+You can implement as many fixes and features as you want, but can only obtain up to 2% among all bonus assignments.
 
 - [Requirements](#requirements)
 - [Submission](#submission)
