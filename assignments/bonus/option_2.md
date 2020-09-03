@@ -6,6 +6,7 @@ This assignment is to find and report a security vulnerability in the DCSIL Team
 
 - Access any other students profile or data
 - Assume the identity of another student
+- Access any other teams profile or data
 
 My user ID (for Julian Nadeau) is 49. You may use that profile if you wish to demonstrate a vulnerability.
 
@@ -26,6 +27,7 @@ You can find and report as many vulnerabilities as you can, but can only obtain 
   - XSS, CSRF, etc
   - Unauthorized redirects
   - other similar kinds of attacks
+- Fix it with a pull request
 
 ## Submission
 
