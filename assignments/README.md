@@ -4,6 +4,7 @@ Assignments, Deliverables, Distribution of Grades
 There are a number of assignments that make up your final grade, the weights are listed below:
 
 <!-- OVERVIEW START -->
+
 | Assignment | Description | Weight | Submission Location | Due Date |
 | --- | --- | --- | --- | --- |
 | [Assignment 1](/assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo | September 17, 2020 |
@@ -24,9 +25,26 @@ There are a number of assignments that make up your final grade, the weights are
 
 ### Participation
 
-While there is no explicit mark for participation, you are expected to be active in the group discussions, team chats, class discussions, and general day-to-day operations. It is _very_ important that you are meaningfully active on your team's GitHub repositories. If it is noticed that you are not participating at all, we'll have a talk to dicuss the issue. If you do not correct for these actions, you may be subject to up to a 10% penalty on your final grade.
+Participation is an important aspect of this course. As the course is a very experience-based course, and we are mimicking a startup, it is important that everyone participates.
 
-I am not expecting you to be super outgoing (I'm certainly not the most outgoing myself) but I do expect you to be actively participating when you can. If there are concerns, please let me know in private so we can discuss any issues.
+You are expected to be active in the following:
+
+- GitHub Issues for your team
+- Contributing (commits and PRs) to the repositories your team creates (it doesn't have to be all of them if you make multiple!)
+- Online Lectures Chat
+- The DCSIL-hosted Slack
+- Class discussions and general day-to-day operations
+- Team meetings and other aspects of your team principles
+
+It is _very_ important that you are meaningfully active on your team's GitHub repositories. If it is noticed that you are not participating at all, we'll have a talk to dicuss the issue. If you do not correct for these actions, you may be subject to losing up to 10% on your final grade.
+
+I am not expecting you to be super outgoing (I'm certainly not the most outgoing myself) but I do expect you to be actively participating when you can. If there are concerns, please let me know in private so we can discuss any issues. Nothing here should be a surprise for you at the end of the term.
+
+Note that some of these can be easily tracked (GitHub issues, Pull Requests, commenting on lectures, Slack Messages) and some of this will be based on observations from the teaching staff.
+
+**Team Principles**
+
+In assignment 1 you will create a principles document outlining how often your team will meet, how they prefer to communicate, and how they prefer to work. While this is a living document and expected to change slightly throughout the term (with approval from the rest of your team), you are still expected to uphold the various principles contained within. If your team doesn't see you at any meetings - for example - then you are not upholding your team principles.
 
 ### Why are the grades weighted like this?
 
