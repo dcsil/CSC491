@@ -2,12 +2,12 @@
 
 This course has the option of completing bonus assignments. Each one is valuable to your skills and your career. They have been chosen based on what I perceive to be skills of value in the workplace.
 
-These are the 4 options, with the coresponding percent worth. You cannot obtain more than a 5% bonus.
+These are the 4 options, each are worth 2% of your mark. You cannot obtain more than a 2% bonus.
 
-1. [Write a blog post on dev.to (2.5%)](./bonus/option_1.md)
-2. [Find a security vulnerability in the DCSIL Team App (5%)](./bonus/option_2.md)
-3. [Find and fix a bug in the DCSIL Team App (2.5 - 5%)](./bonus/option_3_4.md)
-4. [Implement a feature in the DCSIL Team App (2.5 - 5%)](./bonus/option_3_4.md)
+1. [Write a blog post on dev.to](./bonus/option_1.md)
+2. [Find and fix a security vulnerability in the DCSIL Team App](./bonus/option_2.md)
+3. [Find and fix a bug in the DCSIL Team App](./bonus/option_3_4.md)
+4. [Implement a feature in the DCSIL Team App](./bonus/option_3_4.md)
 
 Click into the options for more details.
 
