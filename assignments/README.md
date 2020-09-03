@@ -3,17 +3,18 @@ Assignments, Deliverables, Distribution of Grades
 
 There are a number of assignments that make up your final grade, the weights are listed below:
 
-
-<!-- OVERVIEW START -->| Assignment | Description | Weight | Submission Location |
+<!-- OVERVIEW START -->
+| Assignment | Description | Weight | Submission Location |
 | --- | --- | --- | --- |
-| [Assignment 1](assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | Repo |
-| [Assignment 2](assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | Repo |
-| [Assignment 3](assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | Repo |
-| [Assignment 4](assignments/a4.md)  | A4 - Dev Env, Test Infrastructure, & Production Setup | 10% | Repo |
-| [Assignment 5](assignments/a5.md)  | A5 - UX Research w/Prototype, Roadmap Updates | 8% | Repo |
-| [Assignment 7](assignments/a6.md)  | Software | 45% | Repo |
-| [Assignment 7](assignments/README.md)  | Participation | 9% | Repo |
-| [Bonus Assignment](assignments/bonus.md) (Bonus) | Bonus Assignment | 5% | Repo || | **Total** | 100% (+5%) | |
+| [Assignment 1](/assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo |
+| [Assignment 2](/assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | repo |
+| [Assignment 3](/assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | repo |
+| [Assignment 4](/assignments/a4.md)  | A4 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo |
+| [Assignment 5](/assignments/a5.md)  | A5 - UX Research w/Prototype, Roadmap Updates | 8% | repo |
+| [Software](/assignments/a6.md)  | Software | 45% | repo |
+| [Participation](/assignments/README.md)  | Participation | 9% | N/A |
+| [Bonus Assignment](/assignments/bonus.md) (Bonus) | Bonus Assignment | 5% | Dev.To |
+| | **Total** | 100% (+5%) | |
 
 <!-- OVERVIEW END -->
 
