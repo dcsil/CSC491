@@ -1,5 +1,7 @@
 ## Class Schedule
 
+> :warning: **The schedule, other than assignment due dates, will be heavily modified to accommodate a remote, online semester. This page is current inaccurate** 
+
 | # | Date | Location | Description |
 | -- | -- | -- | -- |
 | 1 | Thursday, September 10 2020 | Online (Zoom) | First day of class, Introduction, AI Workshop with the TA |
