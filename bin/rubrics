@@ -12,7 +12,7 @@ require 'tempfile'
 CLI::UI::StdoutRouter.enable
 
 def generate_rubric(assignment)
-  toc = ["<!-- RUBRIC START --\n"]
+  toc = ["<!-- RUBRIC START -->\n"]
   toc << "| Section | Description | Worth |"
   toc << "| --- | --- | --- |"
 
@@ -20,7 +20,7 @@ def generate_rubric(assignment)
 
   assignment["breakdown"].map do |section|
     total += section["worth"]
-    toc << "| #{section["section"]} | #{section["description"]} | #{section["worth"]} |"
+    toc << "| #{section["section"].chomp} | #{section["description"].chomp} | #{section["worth"].chomp} |"
   end
 
   if total != 100
