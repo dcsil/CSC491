@@ -124,7 +124,7 @@ team:
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
       worth: 5.0
     - section: Design & Accessibility
-      description: The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity]({{ROOT}}/accessibility_checklist.md) is filled out and submitted in the team repo
+      description: The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity](./accessibility_checklist.md) is filled out and submitted in the team repo
       worth: 15.0
     due_date: 2020-12-03
     position: 6
