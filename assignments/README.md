@@ -7,7 +7,7 @@ There are a number of assignments that make up your final grade, the weights are
 
 | Assignment | Description | Weight | Submission Location | Due Date |
 | --- | --- | --- | --- | --- |
-| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo | September 17, 2020 |
+| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo | September 24, 2020 |
 | [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | repo | October 01, 2020 |
 | [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | repo | October 08, 2020 |
 | [Assignment 4](../assignments/a4.md)  | A4 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo | October 22, 2020 |
