@@ -20,11 +20,11 @@ def generate_rubric(assignment)
 
   assignment["breakdown"].map do |section|
     total += section["worth"]
-    toc << "| #{section["section"].chomp} | #{section["description"].chomp} | #{section["worth"].chomp} |"
+    toc << "| #{section["section"].to_s.chomp} | #{section["description"].to_s.chomp} | #{section["worth"].to_s.chomp} |"
   end
 
   if total != 100
-    raise "#{assignment['name']} total was #{total} not 100!"
+    raise "#{assignment['name'].to_s.chomp} total was #{total} not 100!"
   end
 
   toc << "| | **Total:** | 100 |"
