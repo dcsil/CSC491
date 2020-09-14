@@ -2,6 +2,13 @@
 marp: true
 ---
 
+# Diversity and Inclusion
+
+## CSC491, University of Toronto
+
+---
+
+
 ![height:300px legend:White hand under soap dispenser](./img/diversity/white_hand.jpg)
 
 This is a soap dispenser. It dispenses soap without touching the dispenser.
