@@ -50,7 +50,7 @@ This is a clear example in how careers can be limited by the lack of available e
 
 # Is this an isolated incident? Do people even care?
 
-Yes, they do.
+No, it's not isolated. Yes, they do care.
 
 ---
 
@@ -76,6 +76,10 @@ What these stats make clear is that people care and they still aren't treated wi
 
 ---
 
+Diversity in the workplace has to do with who is hired, while inclusivity has to do with those individuals feeling like they're valued, respected, accepted and encouraged to fully participate.
+
+---
+
 Let's look at some different scenarios where we may see diversity issues come into play.
 
 ---
@@ -89,10 +93,6 @@ Pyschological Safety in individuals is very important. This allows employees to 
 ---
 
 Allowing employees to feel safe creates and environment where meaningful discussion can come forth, innovation can flourish, and companies can succeed.
-
----
-
-Diversity in the workplace has to do with who is hired, while inclusivity has to do with those individuals feeling like they're valued, respected, accepted and encouraged to fully participate.
 
 ---
 
@@ -192,8 +192,5 @@ Other examples of "professional" contortion ad taken from Business Insider's art
 - https://www.gallup.com/workplace/215939/invest-diversity-inclusion.aspx
 - https://www.gallup.com/workplace/247391/fixable-problem-costs-businesses-trillion.aspx
 - https://www.techrepublic.com/article/women-are-21-less-likely-to-be-promoted-than-male-coworkers/
+- https://www.blackenterprise.com/black-women-less-likely-to-be-promoted-receive-recognition-for-accomplishments/
 - https://www.businessinsider.com/how-poc-white-women-twist-themselves-white-male-corporate-america-2020-7
-
-
-
-
