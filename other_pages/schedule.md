@@ -5,8 +5,8 @@
 | # | Date | Location | Description |
 | -- | -- | -- | -- |
 | 1 | Thursday, September 10 2020 | Online (Zoom) | First day of class, Introduction, AI Workshop with the TA |
-| 2 | Thursday, September 17 2020 | Online (Zoom) | (❗A1 Due) Diversity & Ethics |
-| 3 | Thursday, September 24 2020 | Online (Zoom) | Story Telling |
+| 2 | Thursday, September 17 2020 | Online (Zoom) | Diversity & Ethics |
+| 3 | Thursday, September 24 2020 | Online (Zoom) | (❗A1 Due) Story Telling |
 | 4 | Thursday, October 1 2020 | Online (Zoom) | (❗A2 Due) Technology, Tooling, and Best Practices |
 | 5 | Thursday, October 8 2020 | Online (Zoom) | (❗A3 Due) Work in Class |
 | 6 | Thursday, October 15 2020 | Online (Zoom) | SRE, Prod Eng, and Operations |
