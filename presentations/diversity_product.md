@@ -4,7 +4,9 @@ marp: true
 
 # Diversity and Inclusion
 
-## CSC491, University of Toronto
+## The Product
+
+### CSC491, University of Toronto
 
 ---
 

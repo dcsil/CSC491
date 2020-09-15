@@ -3,10 +3,11 @@ Presentations
 
 These are the presentations for this course. The table below corresponds to the one in the [schedule](../other_pages/schedule.md).
 
-| Lecture # | Lecture Description | Link to Source | Link to Rendered |
+| Module | Lecture Description | Link to Source | Link to Rendered |
 | -- | -- | -- | -- |
 | 1 | Introduction & Product/Market Fit | [Raw](./product.md) | [Rendered](./output/product.html) |
-| 2 | Diversity/Inclusion | [Raw](./diversity.md) | [Rendered](./output/diversity.html) |
+| 2a | Diversity/Inclusion - The Product | [Raw](./diversity_product.md) | [Rendered](./output/diversity_product.html) |
+| 2b | Diversity/Inclusion - The Workplace | [Raw](./diversity_workplace.md) | [Rendered](./output/diversity_workplace.html) |
 | 3 | Ethics/Accessibility | [Raw](./ethics.md) | [Rendered](./output/ethics.html) |
 | 4 | Technology, Tooling, and Best Practices | [Raw](./best_practices_tech.md) | [Rendered](./output/best_practices_tech.html) |
 | 5 | Production Systems | [Raw](./production.md) | [Rendered](./output/production.html) |
