@@ -14,7 +14,7 @@ team:
       description: |
         The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc. The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
       worth: 65.0
-    due_date: 2020-09-24
+    due_date: 2020-09-24T23:59:59-04:00
     position: 1
     number: 1
   - name: A2 - Team Exploration - Diversity and Inclusion
@@ -40,7 +40,7 @@ team:
     - section: Diversity 2
       description: Thoughtfully describes how the lack of diversity in all of the specified areas can impact the company
       worth: 25.0
-    due_date: 2020-10-01
+    due_date: 2020-10-01T23:59:59-04:00
     position: 2
     number: 2
   - name: A3 - Tech Choices, Architecture Diagram, Roadmap
@@ -57,7 +57,7 @@ team:
     - section: Roadmap
       description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
       worth: 40.0
-    due_date: 2020-10-08
+    due_date: 2020-10-08T23:59:59-04:00
     position: 3
     number: 3
   - name: A4 - Dev Env, Test Infrastructure, & Production Setup
@@ -80,7 +80,7 @@ team:
     - section: Roadmap
       description:  Roadmap and Stackshare.io are updated with any new decisions and/or changes
       worth: 10.0
-    due_date: 2020-10-22
+    due_date: 2020-10-22T23:59:59-04:00
     position: 4
     number: 4
   - name: A5 - UX Research w/Prototype, Roadmap Updates
@@ -94,7 +94,7 @@ team:
     - section: Roadmap
       description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details (but more in depth than A3) about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
       worth: 40.0
-    due_date: 2020-10-29
+    due_date: 2020-10-29T23:59:59-04:00
     position: 5
     number: 5
   - name: Software
@@ -126,7 +126,7 @@ team:
     - section: Design & Accessibility
       description: The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity](./accessibility_checklist.md) is filled out and submitted in the team repo
       worth: 15.0
-    due_date: 2020-12-03
+    due_date: 2020-12-03T23:59:59-04:00
     position: 6
   - name: Participation
     worth: 9
@@ -136,7 +136,7 @@ team:
     - section: Participation
       description: Participated in GitHub Issues, Submitted GitHub PRs, Participated in and Viewed online lectures, Participated in all team work, Adhered to team principles, etc
       worth: 100.0
-    due_date: 2020-12-03
+    due_date: 2020-12-03T23:59:59-04:00
     position: 7
 user:
   - name: Bonus Assignment
@@ -148,6 +148,6 @@ user:
     - section: Work
       description: General work according to the bonus assignment description
       worth: 100.0
-    due_date: 2020-12-03
+    due_date: 2020-12-03T23:59:59-04:00
     position: 8
-  
+ 
