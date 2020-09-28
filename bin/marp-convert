@@ -21,7 +21,7 @@ def convert_file(file)
   output = File.join(
     File.dirname(file),
     "output",
-    File.basename(file, ".md") + ".html"
+    File.basename(file, ".md") + ".pdf"
   )
 
   Tempfile.create(File.basename(file, ".md")) do |tmp_file|
@@ -43,7 +43,7 @@ def convert_file(file)
     CLI::UI::Frame.divider("Conversion")
     puts "#{file} => #{output}"
     CLI::UI::Spinner.spin("Running marp on file") do
-      CLI::Kit::System.system("marp #{tmp_file.path} -o #{output}")
+      CLI::Kit::System.system("marp #{tmp_file.path} -pdf -o #{output}")
     end
   end
 end
