@@ -8,7 +8,7 @@ These are the presentations for this course. The table below corresponds to the 
 | 1 | Introduction & Product/Market Fit | [Raw](./product.md) | [Rendered](./output/product.html) |
 | 2a | Diversity/Inclusion - The Product | [Raw](./diversity_product.md) | [Rendered](./output/diversity_product.html) |
 | 2b | Diversity/Inclusion - The Workplace | [Raw](./diversity_workplace.md) | [Rendered](./output/diversity_workplace.html) |
-| 2c | Diversity/Inclusion - Biases | [Keynote Presentation](./output/biases/index.html) | [PSD](./output/biases/slides.pdf) |
+| 2c | Diversity/Inclusion - Biases | [Keynote Presentation](./output/biases/index.html) | [PDF](./output/biases/slides.pdf) |
 | 3 | Ethics/Accessibility | [Raw](./ethics.md) | [Rendered](./output/ethics.html) |
 | 4 | Technology, Tooling, and Best Practices | [Raw](./best_practices_tech.md) | [Rendered](./output/best_practices_tech.html) |
 | 5 | Production Systems | [Raw](./production.md) | [Rendered](./output/production.html) |
