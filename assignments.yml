@@ -57,7 +57,7 @@ team:
     - section: Roadmap
       description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
       worth: 40.0
-    due_date: 2020-10-08T23:59:59-04:00
+    due_date: 2020-10-11T23:59:59-04:00
     position: 3
     number: 3
   - name: A4 - Dev Env, Test Infrastructure, & Production Setup
@@ -80,7 +80,7 @@ team:
     - section: Roadmap
       description:  Roadmap and Stackshare.io are updated with any new decisions and/or changes
       worth: 10.0
-    due_date: 2020-10-22T23:59:59-04:00
+    due_date: 2020-10-25T23:59:59-04:00
     position: 4
     number: 4
   - name: A5 - UX Research w/Prototype, Roadmap Updates
@@ -94,7 +94,7 @@ team:
     - section: Roadmap
       description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details (but more in depth than A3) about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
       worth: 40.0
-    due_date: 2020-10-29T23:59:59-04:00
+    due_date: 2020-11-01T23:59:59-04:00
     position: 5
     number: 5
   - name: Software
