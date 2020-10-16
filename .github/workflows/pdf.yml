@@ -21,7 +21,7 @@ jobs:
           node-version: '12'
       - name: Install PDF utility
         run: npm install mdpdf -g
-      - name: Install PDF utility
+      - name: Create PDF
         run: bin/pdfify
       - name: Commit files
         run: |
