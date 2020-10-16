@@ -1,0 +1,59 @@
+#!/usr/bin/env ruby
+
+Dir.glob(File.expand_path("../_vendor/*/lib", __FILE__)) do |path|
+  $LOAD_PATH.unshift(path) unless $LOAD_PATH.include?(path)
+end
+
+require 'cli/ui'
+require 'cli/kit'
+require 'yaml'
+require 'tempfile'
+require 'uri'
+
+pdfs = YAML.load_file("pdf.yml")
+pdfs = pdfs.flat_map do |f|
+  Dir.glob(f)
+end
+
+base_url = "https://dcsil.github.io/CSC491/"
+
+puts "Using Files:"
+puts pdfs
+
+puts "Creating PDF:"
+Tempfile.create(['temp', '.md']) do |f|
+  pdfs.each do |pdf|
+    content = File.read(pdf).sub("Table of Contents", "Website Table of Contents")
+    dirname = File.basename(pdf, ".md")
+
+    # Fix any content issues
+    content.scan(/\[.*?\]\((.*?)\)/).each do |links|
+      links.each do |link|
+        next if link.start_with?("http://") || link.start_with?("https://")
+
+        new_link = case link
+        when /^#/
+          if dirname == "README"
+            [base_url, link].join
+          else
+            URI.join(base_url, dirname).to_s + link
+          end
+        when /\.\// #./
+          if dirname == "README"
+            URI.join(base_url, link).to_s
+          else
+            URI.join(base_url, dirname, link).to_s
+          end
+        end
+
+        new_link.sub!(".md", ".html")
+        content.sub!(link, new_link)
+      end
+    end
+
+    f.write(content)
+  end
+
+  f.flush
+  system("mdpdf #{f.path} syllabus.pdf")
+end
