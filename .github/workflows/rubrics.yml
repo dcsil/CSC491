@@ -35,4 +35,5 @@ jobs:
           GITHUB_ACTOR: "jules2689" 
         with:
           github_token: ${{ secrets.REPO_ACCESS_TOKEN }}
+          branch: ${{ github.ref }}
           
