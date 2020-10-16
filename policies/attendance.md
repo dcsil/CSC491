@@ -18,8 +18,7 @@ Instead, I ask that you be open and communicate your needs with me whether that 
 lenience on an assignment deadline or that you may not attend class.
 
 If you are sick and would like to participate in class still, then we can set up a Zoom call for your to join in remotely.
-*DO NOT* come to class if you are sick. I do not want myself or other students to become ill because you didn't want to miss class.
-I *will not* penalize you for not attending class due to an illness. Be open and communicate your needs so we can accommodate.
+*Please do not* come to class if you are sick. I *will not* penalize you for not attending class due to an illness. Be open and communicate your needs so we can accommodate.
 
 ## All my classes are online and I do not live in a timezone that can align with EST
 
