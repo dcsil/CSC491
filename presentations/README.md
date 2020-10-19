@@ -11,7 +11,7 @@ These are the presentations for this course. The table below corresponds to the 
 | 2c | Diversity/Inclusion - Biases | [Keynote Presentation](./output/biases/index.html) | [PDF](./output/biases/slides.pdf) |
 | 3 | Ethics/Accessibility | [Raw](./ethics.md) | [Rendered](./output/ethics.html) |
 | 4 | Technology, Tooling, and Best Practices | [Raw](./best_practices_tech.md) | [Rendered](./output/best_practices_tech.html) |
-| 5 | Production Systems | [Raw](./production.md) | [Rendered](./output/production.html) |
+| 5 | Production Systems, Teams & Focuses, Hosting, and On-Call | [Keynote Presentation](./output/production/index.html) | [PDF](./output/production/slides.pdf) |
 | 6 | Storytelling | [Raw](./storytelling.md) | [Rendered](./output/storytelling.html) |
 
 ### Attendance
