@@ -2,7 +2,7 @@
 
 This is a recommended schedule for you to follow. This is broken down by weeks and aims to provide you a general outline of the progress you should make throughout this course.
 
-| # | Date | | Assignments Due | In Lecture Time | Recommended Async Lectures
+| # | Date | Assignments | Lecture Time | Recommended Async Lectures
 | -- | -- | -- | -- |
 | 1 | Thursday, January 7 2021   | -         | First day of class, Introductions & Course Overview | Various Diversity & Inclusion |
 | 2 | Thursday, January 14 2021  | -         | AI Tutorial | Various Diversity & Inclusion |
