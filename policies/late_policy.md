@@ -5,7 +5,7 @@ Students are expected to work diligently to pass their assignments in on time. T
 
 Assignments will be accepted up to 1 week past the due date at -5% per day.
 
-{: .table}
+
 | Days Late | Percent Lost |
 | --- | --- |
 | 1 | -5% |

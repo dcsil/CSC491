@@ -11,7 +11,7 @@ I encourage you to make a PR to add materials you think are useful here too!
 
 ## Readings
 
-{: .table}
+
 | What? | Author | Category | Where? | Cost |
 | -- | -- | -- | -- | -- |
 | Shape Up |  Ryan Singer (Basecamp) | Product | https://basecamp.com/shapeup | Free |

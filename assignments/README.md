@@ -5,7 +5,7 @@ There are a number of assignments that make up your final grade, the weights are
 
 <!-- OVERVIEW START -->
 
-{: .table}
+
 | Assignment | Description | Weight | Submission Location | Due Date |
 | --- | --- | --- | --- | --- |
 | [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo | September 24, 2020 |
