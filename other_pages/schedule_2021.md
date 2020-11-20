@@ -23,7 +23,7 @@ This is a recommended schedule for you to follow. This is broken down by weeks a
 - _Lectures subject to change._
 - Zoom link will be provided in the LearnSoftware app. You will be given access via email close to the start of the course.
 
-#### Summary
+**Summary**
 
 - Lectures are Asynchrous via the Learn Software application
 - 2+ Guest Speakers
