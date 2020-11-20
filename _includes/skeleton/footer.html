@@ -1,0 +1,40 @@
+<!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 mb-4">
+          <p class="h5 text-light">Email</p>
+          <a href="mailto:{{ site.data.settings.email }}" class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</a>
+          
+          <!-- social icon -->
+          <p class="h5 text-light mt-4">Social</p>
+          <div class="d-flex">
+            {% for social in site.data.settings.social %}
+            <div class="mr-3"><a class="text-white" aria-label="{{ social.label }}" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></div>
+            {% endfor %}
+          </div>
+          <!-- /social icon -->
+        </div>
+
+        <div class="col-md-6 mb-4">
+          <p class="h5 text-light">Address</p>
+          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.address }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-white">{{site.data.settings.copyright}}</p>
+  </div>
+</footer>
+<!-- /footer -->
+
+
+<!-- JS Plugins -->
+{% for js in site.data.plugins.js %}
+<script src="{{ js | relative_url }}"></script>
+{% endfor %}
+
+<!-- Main Script -->
+<script src="{{ '/assets/js/script.js' | relative_url }}"></script>

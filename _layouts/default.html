@@ -1,65 +1,28 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+<html lang="en">
 
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <style>
-      details[open] > div.details-box {
-        border: 1px solid #ccc;
-        padding: 20px;
-      }
-    </style>
-    <link rel="shortcut icon" type="image/png" href="https://avatars3.githubusercontent.com/u/53465050?s=200&v=4"/>
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      {% if page.path == "README.md" %}
-        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% else %}
-        <br />
-      {% endif %}
+{% include skeleton/head.html %}
 
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}/blob/{{site.github.source.branch}}/{{page.path}}" class="btn">View on GitHub</a>
-        <a href="{{ site.github.repository_url }}/edit/{{site.github.source.branch}}/{{page.path}}" class="btn">Edit this Page</a></span>
-        <a href="{{ site.github.repository_url }}/issues/new" class="btn">Raise a concern or issue</a></span>
-      {% endif %}
+<body>
 
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-    </header>
+  {% include skeleton/header.html %}
 
-    <main id="content" class="main-content" role="main">
-      <span>
-      	{% assign categories = page.path | split:"/" | where_exp: "item", "item != 'README.md'" %}
-        {% assign route="" %}
+  <!-- page title -->
+  <section class="page-title bg-primary position-relative" style="padding: 50px 0 50px;">
+  </section>
+  <!-- /page title -->
 
-        <a href="{{ '/' | absolute_url }}">Home</a> /
-        {% for category in categories %}
-          {% assign route = route | append: '/' | append: category %}
-          {% if forloop.last %}
-            {% if page.title %}{{page.title}}{% else %}{{ category }}{% endif %}
-          {% else %}
-            <a href="{{ route | absolute_url }}">{{ category | replace: "_", " " | capitalize }}</a>  /
-          {% endif %}
-        {% endfor %}
-      </span>
-      
-      {{ content }}
+  <div class="container main-container my-5">
+  {{ content }}
+  </div>
 
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-      </footer>
-    </main>
-  </body>
+  {% include skeleton/contact-section.html %}
+
+  {% include skeleton/footer.html %}
+
+</body>
+
 </html>

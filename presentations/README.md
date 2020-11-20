@@ -13,7 +13,7 @@ These are the presentations for this course. The table below corresponds to the 
 | 4a | Best Practices - Languages | [Keynote Presentation](./output/best_practices_languages/index.html) | [PDF](./output/best_practices_languages/slides.pdf) |
 | 4b | Best Practices - Linting, Semantic Analysis, CI/CD, Dev Environments | [Keynote Presentation](./output/best_practices_tech_2/index.html) | [PDF](./output/best_practices_tech_2/slides.pdf) |
 | 5 | Production Systems, Teams & Focuses, Hosting, and On-Call | [Keynote Presentation](./output/production/index.html) | [PDF](./output/production/slides.pdf) |
-| 6 | Storytelling | [Keynote Presentation](./output/storytelling/storytelling.html) | [PDF](./output/storytelling/slides.pdf) |
+| 6 | Storytelling | [Keynote Presentation](./output/storytelling/index.html) | [PDF](./output/storytelling/slides.pdf) |
 
 ### Attendance
 
