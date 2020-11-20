@@ -9,9 +9,9 @@ This is a recommended schedule for you to follow. This is broken down by weeks a
 | 3 | Thursday, January 21 2021  | ❗A2 Due | Discussions around Diversity | Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
 | 4 | Thursday, January 28 2021  | -          | Guest Speaker | Story Telling |
 | 5 | Thursday, February 4 2021  | -         | Work in Class | Data Bias |
-| 6 | Thursday, February 11 2021 | ❗A3 Due  | Work in Class | Infrastructure, Prod Eng, etc |
+| 6 | Thursday, February 11 2021 | ❗A3 Due  | Work in Class | Infrastructure, Prod Eng, Production, etc |
 | 7 | Thursday, February 18 2021 | -         | NO CLASS - Reading Week | - | 
-| 8 | Thursday, February 25 2021 | ❗A4 Due  | Discussions around Infrastructure | - | 
+| 8 | Thursday, February 25 2021 | ❗A4 Due  | Discussions around Infrastructure | Ethics and Accessibility | 
 | 9 | Thursday, March 4 2021     | ❗A5 Due  | Guest Speaker | - | 
 | N/A | Thursday, March 11 2021  | ❗A6 Due  | Demos for A6 | - | 
 | 10 | Thursday, March 18 2021   | -         | Work in Class | - | 
