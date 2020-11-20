@@ -1,8 +1,8 @@
 ## Class Schedule
 
-This is a recommended schedule for you to follow. This is broken down by weeks and aims to provide you a general outline of the progress you should make throughout this course.
+This is a class schedule indicating what we aim to do each week and the recommended lectures to watch each week. This is broken down by weeks and aims to provide you a general outline of the progress you should make throughout this course.
 
-| # | Date | Assignments | Lecture Time | Recommended Async Lectures
+| # | Date | Assignments | Lecture Time | Recommended Async Lectures |
 | -- | -- | -- | -- |
 | 1 | Thursday, January 7 2021   | -         | First day of class, Introductions & Course Overview | Various Diversity & Inclusion |
 | 2 | Thursday, January 14 2021  | ❗A1 Due         | AI Tutorial | Various Diversity & Inclusion |
@@ -21,7 +21,8 @@ This is a recommended schedule for you to follow. This is broken down by weeks a
 
 **Notes**
 - _Lectures subject to change._
-- Zoom link will be provided in the LearnSoftware app. You will be given access via email close to the start of the course.
+- Zoom link will be provided in the LearnSoftware App. You will be given access via email close to the start of the course.
+- Not all lectures listed here have a corresponding entry in the presentations page on this site. Some exist as videos only on the LearnSoftware App.
 
 **Summary**
 
