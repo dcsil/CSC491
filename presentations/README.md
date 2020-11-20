@@ -1,7 +1,7 @@
 Presentations
 ---
 
-These are the presentations for this course. The table below corresponds to the one in the [schedule](../other_pages/schedule.md).
+These are the presentations for this course. Video versions of these are available on the Learn Software application.
 
 | Module | Lecture Description | Presentation | Slides |
 | -- | -- | -- | -- |
