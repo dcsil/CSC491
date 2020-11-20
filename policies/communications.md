@@ -4,9 +4,10 @@ There are, just as you will find in a startup, various methods of communication.
 
 Communication, as we will discuss in the course, is vital to the success of any business. As your startup gains traction and becomes successful, you will find that communication methods and culture become a bottleneck within your company. As such, we will ensure students are exposed to different means of communication and include the following table to help you understand the various mediums.
 
+{: .table}
 | Medium | When to use |
 | --- | --- |
-| DCSIL Team App | Creating teams. Assignment feedback, surveys, etc for CSC491/2600 |
+| LearnSoftware App | Creating teams. Lessons. Creating Repos. Managing Repos. Assignment feedback, surveys, etc for CSC491/2600 |
 | Slack | General discussions and questions. The instructor for CSC491/2600 (Julian Nadeau) also prefers this communication method. |
 | Email | Private matters. The instructor for CSC454/2527 (Mario Grech) also prefers this communication method. |
 | Quercus | CSC454/4527 uses Quercus |

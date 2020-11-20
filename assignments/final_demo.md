@@ -92,6 +92,7 @@ This is a course designed to make a startup. When you're running a startup, you 
 
 This scale is used for each line of the rubric above.
 
+{: .table}
 | Rating | Result |
 | --- | --- |
 | Outstanding, Thoughtful and thorough | 100% of pts | 

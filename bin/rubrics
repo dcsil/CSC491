@@ -12,7 +12,7 @@ require 'tempfile'
 CLI::UI::StdoutRouter.enable
 
 def generate_rubric(assignment)
-  toc = ["<!-- RUBRIC START --> \n{: .table}\n"]
+  toc = ["<!-- RUBRIC START --> \n{: .table}"]
   toc << "| Section | Description | Worth |"
   toc << "| --- | --- | --- |"
 
