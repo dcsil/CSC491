@@ -1,9 +1,36 @@
-theme: jekyll-theme-cayman
-title: CSC491/2600 | University of Toronto's Capstone Design Course
-description: |
-  Students will write a software application that implements the business ideas developed in CSC454/2527 (Business of Software).
-  This course will expose students to the core technologies, ideas, and processes in developing a startup.
-show_downloads: false
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://csc491.dcsil.ca" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
 markdown: kramdown
-kramdown:
-  parse_block_html: true
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-relative-links
+
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+
+readme_index:
+  enabled: true
+  remove_originals: true
+
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
+source: ./
+include:
+  - README.md
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.text
+  - SECURITY.md

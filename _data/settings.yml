@@ -1,0 +1,29 @@
+title: CSC491/2600 | University of Toronto's Capstone Design Course
+description: |
+  Students will write a software application that implements the business ideas developed in CSC454/2527 (Business of Software).
+  This course will expose students to the core technologies, ideas, and processes in developing a startup.
+
+logo: assets/images/DCSILLogo-white-accented.svg
+author: Julian Nadeau
+email: contact@dcsil.ca
+formspree: https://formspree.io/f/mwkwbrvl
+phone: N/A
+address: 2nd Floor, Gerstein Science Information Centre, 9 King's College Circle, Toronto, ON M5S 1A5, University of Toronto
+copyright: Copyright &copy; 2020
+
+theme:
+  term: Winter 2021
+  link: '/winter-2021'
+
+menu:
+  - {name: 'Assignments', link: '/assignments', active: 'assignments' }
+  - {name: 'Class Policies', link: '/policies' , active: 'policies' }
+  - {name: 'Presentations', link: '/presentations', active: 'presentations' }
+  - {name: 'Misc', link: '/other_pages', active: 'misc' }
+
+
+social:
+  # - {icon: "ti-facebook", link: "https://www.facebook.com/uoftbusinesofsoftware/"}
+  - {icon: "ti-linkedin", link: "https://www.linkedin.com/groups/8308631", label: "LinkedIn" }
+  - {icon: "ti-twitter", link: "https://twitter.com/UofT_DCSIL", label: "Twitter" }
+

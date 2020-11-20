@@ -1,0 +1,25 @@
+/*  typography */
+body {
+  line-height: 1.2;
+  font-family: $primary-font;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1em;
+  color: $text-color;
+}
+
+p, .paragraph {
+  font-weight: 400;
+  color: $text-color;
+  font-size: 1em;
+  line-height: 1.8;
+  font-family: $primary-font;
+  &-lg{
+    font-size: 1.2em;
+  }
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: $text-color-dark;
+  font-family: $secondary-font;
+  line-height: 1.2;
+}

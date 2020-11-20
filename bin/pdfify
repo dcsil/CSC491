@@ -15,7 +15,7 @@ pdfs = pdfs.flat_map do |f|
   Dir.glob(f)
 end
 
-base_url = "https://dcsil.github.io/CSC491/"
+base_url = "https://csc491.dcsil.ca/"
 
 puts "Using Files:"
 puts pdfs
