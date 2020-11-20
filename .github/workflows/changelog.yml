@@ -15,7 +15,7 @@ jobs:
         with:
           ref: 'master'
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1.18.0
+        uses: ruby/setup-ruby@v1
         with:
           # Engine and version to use, see the syntax in the README. Reads from .ruby-version if unset.
           ruby-version: 2.6.5
