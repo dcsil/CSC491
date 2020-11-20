@@ -4,7 +4,7 @@ There are, just as you will find in a startup, various methods of communication.
 
 Communication, as we will discuss in the course, is vital to the success of any business. As your startup gains traction and becomes successful, you will find that communication methods and culture become a bottleneck within your company. As such, we will ensure students are exposed to different means of communication and include the following table to help you understand the various mediums.
 
-{: .table}
+
 | Medium | When to use |
 | --- | --- |
 | LearnSoftware App | Creating teams. Lessons. Creating Repos. Managing Repos. Assignment feedback, surveys, etc for CSC491/2600 |

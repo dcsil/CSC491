@@ -24,7 +24,7 @@ Click into the options for more details.
 
 This scale is used for each line of the rubric above.
 
-{: .table}
+
 | Rating | Result |
 | --- | --- |
 | Outstanding, Thoughtful and thorough | 100% of pts | 
