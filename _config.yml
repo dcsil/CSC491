@@ -34,3 +34,7 @@ exclude:
   - Gemfile.lock
   - LICENSE.text
   - SECURITY.md
+  - bin
+  - LICENSE
+  - .github
+  - CNAME

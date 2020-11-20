@@ -12,7 +12,7 @@ require 'tempfile'
 CLI::UI::StdoutRouter.enable
 
 def generate_rubric(assignment)
-  toc = ["<!-- RUBRIC START --> \n"]
+  toc = ["<!-- RUBRIC START --> \n{: .table}\n"]
   toc << "| Section | Description | Worth |"
   toc << "| --- | --- | --- |"
 
@@ -34,6 +34,7 @@ end
 
 def generate_overview(assignments)
   header = <<~EOF
+  {: .table}
   | Assignment | Description | Weight | Submission Location | Due Date |
   | --- | --- | --- | --- | --- |
   EOF

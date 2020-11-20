@@ -2,6 +2,7 @@
 
 This is a class schedule indicating what we aim to do each week and the recommended lectures to watch each week. This is broken down by weeks and aims to provide you a general outline of the progress you should make throughout this course.
 
+{: .table}
 | # | Date | Assignments | Lecture Time | Recommended Async Lectures |
 | -- | -- | -- | -- |
 | 1 | Thursday, January 7 2021   | -         | First day of class, Introductions & Course Overview | Various Diversity & Inclusion |

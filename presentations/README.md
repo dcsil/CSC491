@@ -3,6 +3,7 @@ Presentations
 
 These are the presentations for this course. Video versions of these are available on the Learn Software application.
 
+{: .table}
 | Module | Lecture Description | Presentation | Slides |
 | -- | -- | -- | -- |
 | 1 | Introduction & Product/Market Fit | [Rendered](./output/product.html) | [Raw](./product.md) |
