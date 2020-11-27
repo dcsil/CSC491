@@ -44,6 +44,8 @@ There is a co-requisite to CSC491/2600, students must also be enrolled in CSC454
 
 There is also an application process on [the DCSIL website](https://www.dcsil.ca/student-courses).
 
+I would also encourage you to review the [recommended skills and knowledge on the DCSIL website](https://dcsil.ca/csc491#recommended-skills-for-csc491)
+
 ### Required Materials/Software
 
 There aren't any _required_ materials persay, but it is highly recommended to bring a laptop to class with a fully functioning developer environment for your project. While not all classes will be workshops, it is recommended to bring your laptop during each class for other uses such as research.
