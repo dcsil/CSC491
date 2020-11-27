@@ -16,7 +16,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 9 | Thursday, March 4 2021     | ❗A5 Due    | Guest Speaker | - | 
 | N/A | Thursday, March 11 2021  | ❗A6 Demo | Work in Class | - | 
 | 10 | Thursday, March 18 2021   | -           | Work in Class | - | 
-| 11 | Thursday, March 25 2021   | - | Work in Class | - | 
+| 11 | Thursday, March 25 2021   | -           | Work in Class | - | 
 | 12 | Thursday, April 1 2021    | ❗A7 Due<br>❗A6 Demo | Software Due - Demos of your Software | - | 
 | N/A | Friday, December 2 2021  | -           | Bonus Assignment Due | - | 
 
@@ -46,6 +46,15 @@ To help you keep on track, here are some general recommendations and guidelines 
 - You should have demoable content by the first week of March
 - You should have significant demoable content by March 11 (Assignment 6 deadline)
 - You should be at the point of adding no new major features in the last week of March. This should be reserved for polish and bug fixes
+
+## Demos
+
+Here is an example of the progress I would expect for each demo slot:
+
+- Demo 1: Decisions and Tech Stack, at minimum a Hello World application in your chosen language/platform
+- Demo 2: You application running on CI, launched onto the web / mobile
+- Demo 3: Minimal front end, mobile, and back end (as applicable). Starting code for any data models. Some functionality
+- Demo 4: Full software, general functionality, note any shortcomings or areas to improve. Identify all main use cases implemented
 
 ## Assignments
 
