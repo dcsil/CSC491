@@ -14,7 +14,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 7 | Thursday, February 18 2021 | -          | NO CLASS - Reading Week | - | 
 | 8 | Thursday, February 25 2021 | ❗A4 Due<br>❗A6 Demo  | Discussions around Infrastructure | Ethics and Accessibility | 
 | 9 | Thursday, March 4 2021     | ❗A5 Due    | Guest Speaker | - | 
-| N/A | Thursday, March 11 2021  | ❗A6 Due<br>❗A6 Demo | Work in Class | - | 
+| N/A | Thursday, March 11 2021  | ❗A6 Demo | Work in Class | - | 
 | 10 | Thursday, March 18 2021   | -           | Work in Class | - | 
 | 11 | Thursday, March 25 2021   | - | Work in Class | - | 
 | 12 | Thursday, April 1 2021    | ❗A7 Due<br>❗A6 Demo | Software Due - Demos of your Software | - | 
