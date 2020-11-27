@@ -8,8 +8,8 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 1 | Thursday, January 14 2021   | -            | First day of class, Introductions & Course Overview | Various Diversity & Inclusion |
 | 2 | Thursday, January 21 2021  | ❗A1 Due    | AI Tutorial | Various Diversity & Inclusion |
 | 3 | Thursday, January 28 2021  | ❗A2 Due    | Discussions around Diversity | Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
-| 4 | Thursday, February 4 2021  | ❗A3 Due    | Guest Speaker | Story Telling |
-| 5 | Thursday, February 11 2021  | ❗A6 Demo | Work in Class | Data Bias |
+| 4 | Thursday, February 4 2021  | -   | Guest Speaker | Story Telling |
+| 5 | Thursday, February 11 2021  | ❗A3 Due<br>❗A6 Demo | Work in Class | Data Bias |
 | 7 | Thursday, February 18 2021 | -          | NO CLASS - Reading Week | - | 
 | 6 | Thursday, February 25 2021 | ❗A4 Due<br>❗A6 Demo  | Work in Class | Infrastructure, Prod Eng, Production, etc |
 | 8 | Thursday, March 4 2021 | -  | Discussions around Infrastructure | Ethics and Accessibility | 
