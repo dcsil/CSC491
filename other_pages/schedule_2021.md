@@ -51,7 +51,7 @@ To help you keep on track, here are some general recommendations and guidelines 
 Here is an example of the progress I would expect for each demo slot:
 
 - Demo 1: Decisions and Tech Stack, at minimum a Hello World application in your chosen language/platform
-- Demo 2: You application running on CI, launched onto the web / mobile
+- Demo 2: Your application running on CI, which means some basic tests (at minimum). It should also be launched onto the web / mobile
 - Demo 3: Minimal front end, mobile, and back end (as applicable). Starting code for any data models. Some functionality
 - Demo 4: Full software, general functionality, note any shortcomings or areas to improve. Identify all main use cases implemented
 
