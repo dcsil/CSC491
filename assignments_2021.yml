@@ -145,6 +145,7 @@ team:
       worth: 15.0
     due_date: 2020-04-01T23:59:59-04:00
     position: 6
+user:
   - name: Participation
     worth: 7
     file: assignments/README.md
@@ -155,7 +156,6 @@ team:
       worth: 100.0
     due_date: 2020-04-01T23:59:59-04:00
     position: 7
-user:
   - name: Bonus Assignment
     worth: 2
     bonus: true
