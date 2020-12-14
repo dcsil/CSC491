@@ -12,6 +12,7 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 - [Time and Location](#time-and-location)
 - [Schedule](./other_pages/schedule.md)
 - [Assignments, Deliverables, Distribution of Grades](./assignments)
+   - [Suggested Work Schedule](./other_pages/suggested_work_schedule.md)
 - [Presentations](./presentations)
 - [Resources and Readings](./other_pages/resources_readings.md)
 - [Policies](./policies)
@@ -71,7 +72,9 @@ While the course is online due to Covid-19, I am willing to meet up for a social
 
 ## Time and Location
 
-Class is on Thursdays from 6-9 EST (4-7PM EST for Winter 2021) on Zoom. If you are not in a time zone that aligns with EST, please let me know early!
+Class is on Thursdays from 4-7PM EST on Zoom. If you are not in a time zone that aligns with EST, please let me know early!
+
+This said, lectures are asynchronous online. The 4-7pm lecture slot is reserved for working periods, guest lectures, discussion, etc.
 
 ## I don't like something about this course
 
