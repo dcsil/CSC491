@@ -51,15 +51,18 @@ team:
     file: assignments/a3.md
     submission: repo
     breakdown:
+    - section: Use Cases
+      description: Describes the use cases well. Illustrates UI with low fidelity sketches where applicable. Is approved by teaching staff
+      worth: 30.0
     - section: Stackshare.io
       description: Describes the main technologies the team intends to use. For every technology, there is also a decision record. StackShare URL is added to the team profile in the App
-      worth: 40.0
+      worth: 25.0
     - section: Architecture Diagram
       description: Incorparting all parts of the technologies in StackShare.io and adding adequate detail inside of those technologies (e.g. don't just list React server when there's major components to list), design an architecture diagram in the software of your choice. Include it in the team repo
       worth: 20.0
     - section: Roadmap
       description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
-      worth: 40.0
+      worth: 25.0
     due_date: 2021-02-11T23:59:59-04:00
     position: 3
     number: 3
