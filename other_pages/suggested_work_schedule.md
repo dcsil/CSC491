@@ -1,0 +1,20 @@
+# Suggested Schedule for your Build
+
+It may seem like you have a lot of time to build your application - it isn't a lot. This document aims to suggest a timeline to keep so you aren't up until 5am the week prior to submission. Neither of us want that and it can be avoided with a bit of planning.
+
+
+| Week | What you should get done | Milestone |
+| --- | --- | --- |
+| 1 | Teams should be formed and selected. You should start talking about the problem and deciding on a project | Team Selection  |
+| 2 | Projects should be decided by end of this week. Pivots are still possible after the fact. Team should be finding normals and team principles should be adopted | Team Principles |
+| 3 | Team will still be finding normal cadence of work. Team diversity assignment will force the rest of that. Project path should be decided this week | Team Forming / Project Decision |
+| 4 | Hello World Application created based on project path. CI and tests setup (yes I know this is for A5, but I suggest doing it now. It's easy to start early, harder to start later!). General A3 work started | General Project Setup |
+| 5 | With the general project setup, you should focus on the lowest level needs first. For example, start your ML/Heuristic Model if applicable. Otherwise start understanding how to breakdown your problem. Form and in depth roadmap | Start project, Roadmap formed |
+| 6 | Complete an basic layout of your project. An basic skeleton of the app should exist (e.g. login, API, dashboard) but not be functional. It's expected to be all static at this point | Static Project. Slowly completing roadmap items |
+| 7 | Reading week. This week can be spent mostly as a break. Consider doing your UX research this week though, this should not take more than an hour or 2 of time to interview and summarize | UX Research |
+| 8 | It's go time. We're after reading week and into the final stretch of the semester. You should be completing V1 your data models now, if applicable. Your application should be launched online, released as a mobile app, etc. Basic functionality should exist. | Launch App, complete some basic functionality |
+| 9 | Assuming you have a couple use cases, swarm to complete one this week | Complete a use case | 
+| 10 | Assuming you have a couple use cases, swarm to complete one this week | Complete a use case |
+| 11 | Assuming you have a couple use cases, swarm to complete one this week | Complete a use case |
+| 12 | Bring together your main use cases and make sure they all work together | Bring the work together |
+| 13 | Final touches. Ensure your test coverage and code quality is adequate. Video Presentation for the final. | Final Touches |
