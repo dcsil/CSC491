@@ -16,8 +16,9 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 9 | Thursday, March 11 2021     | ❗A5 Due<br>❗A6 Demo  | Guest Speaker | - | 
 | N/A | Thursday, March 18 2021  | - | Work in Class | - | 
 | 10 | Thursday, March 25 2021   | -           | Work in Class | - | 
-| 12 | Thursday, April 1 2021    | ❗A7 Due<br>❗A6 Demo | Software Due - Demos of your Software | - | 
-| N/A | Friday, April 2 2021  | -           | Bonus Assignment Due | - | 
+| 11 | Thursday, April 1 2021    | - | Work in Class | - | 
+| 12 | Thursday, April 8 2021    | ❗A7 Due<br>❗A6 Demo | Software Due - Demos of your Software | - | 
+| N/A | Friday, April 9 2021  | -           | Bonus Assignment Due | - | 
 
 **Notes**
 - _Lectures subject to change._
