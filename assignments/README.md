@@ -8,14 +8,15 @@ There are a number of assignments that make up your final grade, the weights are
 
 | Assignment | Description | Weight | Submission Location | Due Date |
 | --- | --- | --- | --- | --- |
-| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 8% | repo | September 24, 2020 |
-| [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | repo | October 01, 2020 |
-| [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | repo | October 11, 2020 |
-| [Assignment 4](../assignments/a4.md)  | A4 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo | October 25, 2020 |
-| [Assignment 5](../assignments/a5.md)  | A5 - UX Research w/Prototype, Roadmap Updates | 8% | repo | November 01, 2020 |
-| [Software](../assignments/a6.md)  | Software | 45% | repo | December 03, 2020 |
-| [Participation](../assignments/README.md)  | Participation | 9% | N/A | December 03, 2020 |
-| [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | December 03, 2020 |
+| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 5% | repo | January 21, 2021 |
+| [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | repo | January 28, 2021 |
+| [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | repo | February 11, 2021 |
+| [Assignment 4](../assignments/a5.md)  | A4 - UX Research w/Prototype, Roadmap Updates | 8% | repo | February 25, 2021 |
+| [Assignment 5](../assignments/a4.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo | March 04, 2021 |
+| [Assignment 6](../assignments/a4.md)  | A6 - Class Demos | 10% | class | April 01, 2020 |
+| [Software](../assignments/a6.md)  | Software | 40% | repo | April 01, 2020 |
+| [Participation](../assignments/README.md)  | Participation | 7% | N/A | April 01, 2020 |
+| [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | April 02, 2020 |
 | | **Total** | 100% (+2%) | | |
 
 <!-- OVERVIEW END -->
