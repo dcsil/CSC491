@@ -9,7 +9,10 @@ team:
       worth: 15.0
     - section: Team Profiles
       description: Team profiles include photos and profile links of all teammates, clearly lists expertises, and a short biography 
-      worth: 20.0
+      worth: 15.0
+     - section: Leader Selection
+      description: Tells us who they chose and why
+      worth: 5.0
     - section: Team Principles
       description: |
         The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc. The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
