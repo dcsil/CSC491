@@ -6,3 +6,4 @@ This is a home for other pages. You got here from the breadcrumb or GitHub navig
 - [Map](./map.md)
 - [Resources & Readings](./resources_readings.md)
 - [Schedule](./schedule.md)
+- [Suggested Work Schedule](./suggested_work_schedule.md)
