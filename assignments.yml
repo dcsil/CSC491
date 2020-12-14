@@ -10,7 +10,7 @@ team:
     - section: Team Profiles
       description: Team profiles include photos and profile links of all teammates, clearly lists expertises, and a short biography 
       worth: 15.0
-     - section: Leader Selection
+    - section: Leader Selection
       description: Tells us who they chose and why
       worth: 5.0
     - section: Team Principles
