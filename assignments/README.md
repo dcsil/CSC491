@@ -44,6 +44,15 @@ I am not expecting you to be super outgoing (I'm certainly not the most outgoing
 
 Note that some of these can be easily tracked (GitHub issues, Pull Requests, commenting on lectures, Slack Messages) and some of this will be based on observations from the teaching staff.
 
+#### Requirements for Participation
+
+**Students are required to comment on the "Participation" assignment on the Learn Software app**. It must include:
+- An overview of the work they did for all team projects and assignments
+- An overview of work other CSC491/2600 students did for the CSC491/2600 assignments
+- A general sentiment if you think the work was split fairly
+
+_This entry is private and only the teaching staff can see it_. Participation will be marked at half marks (for lessons and discussions) if this comment is not provided.
+
 **Team Principles**
 
 In assignment 1 you will create a principles document outlining how often your team will meet, how they prefer to communicate, and how they prefer to work. While this is a living document and expected to change slightly throughout the term (with approval from the rest of your team), you are still expected to uphold the various principles contained within. If your team doesn't see you at any meetings - for example - then you are not upholding your team principles.
