@@ -73,10 +73,11 @@ team:
     breakdown:
     - section: UX Research
       description: Interview the class instructor _and_ another individual. The other individual should be someone who would use the product you are building. Includes appendices including notes. These can be rough, but they must show that you asked all individuals approximately the same questions, recorded questions, mistakes, and feedback. Concisely summarizes the results and does not sugar coat
-      worth: 60.0
+      worth: 80.0
     - section: Roadmap
-      description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details (but more in depth than A3) about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
-      worth: 40.0
+      description: |
+        Update roadmap with the changes related to the UX research. Explain the changes and things that you havbe completed. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
+      worth: 20.0
     due_date: 2021-02-25T23:59:59-04:00
     position: 4
     number: 4
