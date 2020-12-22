@@ -11,11 +11,12 @@ team:
       description: Team profiles include photos and profile links of all teammates, clearly lists expertises, and a short biography 
       worth: 15.0
     - section: Leader Selection
-      description: Tells us who they chose and why
+      description: Tells us who they chose and why, what is their role for your team?
       worth: 5.0
     - section: Team Principles
       description: |
-        The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc. The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
+        The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc.
+        The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
       worth: 65.0
     due_date: 2021-01-21T23:59:59-04:00
     position: 1
@@ -96,10 +97,11 @@ team:
       description: Test harness works and can be run from a single command listed in the service.yml file. CI is running and is passing.
       worth: 25.0
     - section: Production / Builds
-      description: Application is available from the web, or a GitHub Release if it's not a web app
+      description: |
+        Application is available from the web, or a GitHub Release if it's not a web app
       worth: 25.0
     - section: Roadmap
-      description:  Roadmap and Stackshare.io are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
+      description: Roadmap and Stackshare.io are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 10.0
     due_date: 2021-03-04T23:59:59-04:00
     position: 5
@@ -110,13 +112,13 @@ team:
     submission: class
     breakdown:
     - section: Progress
-      description: Shows some progress since the last demo
+      description: Shows some progress since the last demo. Describes the improvements, if they are on schedule, etc.
       worth: 35
     - section: Clarity
-      description: Shows us their project in a short and clear manner
+      description: Shows us their project in a short and clear manner.
       worth: 35
     - section: Participation
-      description: All members present at least once
+      description: All members present at least once during the term.
       worth: 30
     due_date: 2020-04-01T23:59:59-04:00
     position: 6
@@ -126,30 +128,29 @@ team:
     file: assignments/a7.md
     submission: repo
     breakdown:
-    - section: Applications
-      description: All applications present in the architecture diagram have a repository and an MVP is implemented.
-      worth: 20.0
-    - section: Test Coverage
+    - section: [Product] Applications, Use Cases, and Dynamic Content
+      description: |
+        All applications present in the architecture diagram have a repository and an MVP is implemented.
+        The product coherently functions (buttons do as expected, a user could reasonably answer questions they want to answer using the app) and achieves the intended goal.
+        All main use cases/flows have been delivered and are functional.
+        The majority of the content is functional and dynamic. The app(s) do not rely on hard-coded static data.
+      worth: 45.0
+    - section: [Product] Design & Accessibility
+      description: |
+        The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity](./accessibility_checklist.md) is filled out and submitted in the team repo
+      worth: 15.0
+    - section: [Infrastructure] Test Coverage
       description: Tests should cover at least 65% of your application and upload to Code Climate.
       worth: 15.0
-    - section: Code Quality
+    - section: [Infrastructure] Code Quality
       description: All repositories have at least a "B" Grade on Code Climate.
       worth: 15.0
-    - section: Operational Excellence
+    - section: [Infrastructure] Operational Excellence
       description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors in the DCSIL team app.
       worth: 5.0
-    - section: Dynamic
-      description: The majority of the content is functional and dynamic. The apps do not rely on hard-coded static data. 
-      worth: 10.0
-    - section: Use Cases
-      description: All main use cases/flows have been delivered and are functional.
-      worth: 15.0
-    - section: Video
+    - section: [Assignment Meta] Video
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
       worth: 5.0
-    - section: Design & Accessibility
-      description: The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity](./accessibility_checklist.md) is filled out and submitted in the team repo
-      worth: 15.0
     due_date: 2020-04-01T23:59:59-04:00
     position: 6
 user:
@@ -159,7 +160,7 @@ user:
     submission: N/A
     breakdown:
     - section: Participation
-      description: Participated in GitHub Issues, Submitted GitHub PRs, Participated in and Viewed online lectures, Participated in all team work, Adhered to team principles, etc
+      description: Participated in GitHub Issues, Submitted GitHub PRs, Participated in and Viewed online lectures, Participated in all team work, Adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-50% on this section if not, and only lessons/discussions will be counted).
       worth: 100.0
     due_date: 2020-04-01T23:59:59-04:00
     position: 7
