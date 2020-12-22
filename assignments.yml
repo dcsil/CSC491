@@ -98,7 +98,7 @@ team:
       description: Application is available from the web, or a GitHub Release if it's not a web app
       worth: 25.0
     - section: Roadmap
-      description:  Roadmap and Stackshare.io are updated with any new decisions and/or changes
+      description:  Roadmap and Stackshare.io are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 10.0
     due_date: 2021-03-04T23:59:59-04:00
     position: 5
