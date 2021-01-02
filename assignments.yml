@@ -98,7 +98,8 @@ team:
       worth: 25.0
     - section: Production / Builds
       description: |
-        Application is available from the web, or a GitHub Release if it's not a web app
+        Application is available from the web, as a mobile application via Microsoft App Center, or a GitHub Release otherwise.
+        Exception tracking via Sentry and Logging is set up.
       worth: 25.0
     - section: Roadmap
       description: Roadmap and Stackshare.io are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
@@ -134,6 +135,7 @@ team:
         The product coherently functions (buttons do as expected, a user could reasonably answer questions they want to answer using the app) and achieves the intended goal.
         All main use cases/flows have been delivered and are functional.
         The majority of the content is functional and dynamic. The app(s) do not rely on hard-coded static data.
+        Login credentials or registration system provided. Details listed in the release.
       worth: 45.0
     - section: [Product] Design & Accessibility
       description: |
@@ -159,9 +161,18 @@ user:
     file: assignments/README.md
     submission: N/A
     breakdown:
-    - section: Participation
-      description: Participated in GitHub Issues, Submitted GitHub PRs, Participated in and Viewed online lectures, Participated in all team work, Adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-50% on this section if not, and only lessons/discussions will be counted).
-      worth: 100.0
+    - section: Participation on GitHub
+      description: |
+        Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). 
+      worth: 25.0
+    - section: Participation in lectures
+      description: |
+        Participated in and viewed online lectures, attended and asked questions in class presentations, demos, etc.
+      worth: 25.0
+    - section: Team
+      description: |
+        Participated in all team work, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). 
+      worth: 50.0
     due_date: 2020-04-01T23:59:59-04:00
     position: 7
   - name: Bonus Assignment
