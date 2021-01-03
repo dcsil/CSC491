@@ -17,7 +17,7 @@ It may seem like you have a lot of time to build your application - it isn't a l
 | 10 | Assuming you have a couple use cases, swarm to complete one this week | Complete a use case |
 | 11 | Assuming you have a couple use cases, swarm to complete one this week | Complete a use case |
 | 12 | Bring together your main use cases and make sure they all work together | Bring the work together |
-| 13 | Final touches. Ensure your test coverage and code quality is adequate. Video Presentation for the final. | Final Touches |
+| 13 | Final touches. Ensure your test coverage and code quality is adequate. Video Presentation for the final | Final Touches |
 
 ## Major Milestones
 
