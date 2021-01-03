@@ -25,3 +25,9 @@ It may seem like you have a lot of time to build your application - it isn't a l
 - Weeks 4-7 will be getting the basic project layout setup, addressing any need for pivots, and getting any UX research underway
 - Weeks 8-12 will be getting use cases working. By the end of week 9 you should have a main flow of the app ready. Week 12 should yield an almost fully functioning product
 - Week 12-13 will be final touches and demos
+
+## Suggested Work Format
+
+While you have multiple people on your team, it is not advised to simply split the project into 2 parts and hope they fit together. If part of the team is unable to finish their part, you'll be stuck with a half finished product that doesn't function. Instead, if you split the parts up and work together you will be able to pick up the pieces of something were to happen.
+
+This isn't to say that you need to be an expert in all parts of the app, but you should be reviewing code and helping where you can.
