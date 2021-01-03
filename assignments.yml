@@ -129,7 +129,7 @@ team:
     file: assignments/a7.md
     submission: repo
     breakdown:
-    - section: [Product] Applications, Use Cases, and Dynamic Content
+    - section: "[Product] Applications, Use Cases, and Dynamic Content"
       description: |
         All applications present in the architecture diagram have a repository and an MVP is implemented.
         The product coherently functions (buttons do as expected, a user could reasonably answer questions they want to answer using the app) and achieves the intended goal.
@@ -137,20 +137,20 @@ team:
         The majority of the content is functional and dynamic. The app(s) do not rely on hard-coded static data.
         Login credentials or registration system provided. Details listed in the release.
       worth: 45.0
-    - section: [Product] Design & Accessibility
+    - section: "[Product] Design & Accessibility"
       description: |
         The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity](./accessibility_checklist.md) is filled out and submitted in the team repo
       worth: 15.0
-    - section: [Infrastructure] Test Coverage
+    - section: "[Infrastructure] Test Coverage"
       description: Tests should cover at least 65% of your application and upload to Code Climate.
       worth: 15.0
-    - section: [Infrastructure] Code Quality
+    - section: "[Infrastructure] Code Quality"
       description: All repositories have at least a "B" Grade on Code Climate.
       worth: 15.0
-    - section: [Infrastructure] Operational Excellence
+    - section: "[Infrastructure] Operational Excellence"
       description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors in the DCSIL team app.
       worth: 5.0
-    - section: [Assignment Meta] Video
+    - section: "[Assignment Meta] Video"
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
       worth: 5.0
     due_date: 2020-04-01T23:59:59-04:00
