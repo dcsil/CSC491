@@ -18,3 +18,10 @@ It may seem like you have a lot of time to build your application - it isn't a l
 | 11 | Assuming you have a couple use cases, swarm to complete one this week | Complete a use case |
 | 12 | Bring together your main use cases and make sure they all work together | Bring the work together |
 | 13 | Final touches. Ensure your test coverage and code quality is adequate. Video Presentation for the final. | Final Touches |
+
+## Major Milestones
+
+- Weeks 1-3 will typically be team formation, figuring out roles, and determining a project
+- Weeks 4-7 will be getting the basic project layout setup, addressing any need for pivots, and getting any UX research underway
+- Weeks 8-12 will be getting use cases working. By the end of week 9 you should have a main flow of the app ready. Week 12 should yield an almost fully functioning product
+- Week 12-13 will be final touches and demos
