@@ -121,7 +121,7 @@ team:
     - section: Participation
       description: All members present at least once during the term.
       worth: 30
-    due_date: 2020-04-01T23:59:59-04:00
+    due_date: 2020-04-08T23:59:59-04:00
     position: 6
     number: 6
   - name: Software
@@ -153,7 +153,7 @@ team:
     - section: "[Assignment Meta] Video"
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
       worth: 5.0
-    due_date: 2020-04-01T23:59:59-04:00
+    due_date: 2020-04-08T23:59:59-04:00
     position: 6
 user:
   - name: Participation
@@ -173,7 +173,7 @@ user:
       description: |
         Participated in all team work, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). 
       worth: 50.0
-    due_date: 2020-04-01T23:59:59-04:00
+    due_date: 2020-04-08T23:59:59-04:00
     position: 7
   - name: Bonus Assignment
     worth: 2
@@ -184,6 +184,6 @@ user:
     - section: Work
       description: General work according to the bonus assignment description
       worth: 100.0
-    due_date: 2020-04-02T23:59:59-04:00
+    due_date: 2020-04-09T23:59:59-04:00
     position: 8
  
