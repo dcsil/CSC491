@@ -15,7 +15,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo | March 04, 2021 |
 | [Assignment 6](../assignments/a6.md)  | A6 - Class Demos | 10% | class | April 08, 2021 |
 | [Software](../assignments/a7.md)  | Software | 40% | repo | April 08, 2021 |
-| [Participation](../assignments/README.md)  | Participation | 7% | N/A | April 08, 2021 |
+| [Participation](../assignments/participation.md)  | Participation | 7% | N/A | April 08, 2021 |
 | [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | April 09, 2021 |
 | | **Total** | 100% (+2%) | | |
 
@@ -24,39 +24,6 @@ There are a number of assignments that make up your final grade, the weights are
 ### Important Notes
 
 - Each assignment builds off of one another. If you don't do one, you won't be able to complete the next assignment as it's rubric and requirements build off the ones prior to it.
-
-### Participation
-
-Participation is an important aspect of this course. As the course is a very experience-based course, and we are mimicking a startup, it is important that everyone participates.
-
-You are expected to be active in the following:
-
-- GitHub Issues for your team
-- Contributing (commits and PRs) to the repositories your team creates (it doesn't have to be all of them if you make multiple!)
-- Online Lectures Chat
-- The DCSIL-hosted Slack
-- Class discussions and general day-to-day operations
-- Team meetings and other aspects of your team principles
-
-It is _very_ important that you are meaningfully active on your team's GitHub repositories. If it is noticed that you are not participating at all, we'll have a talk to dicuss the issue. If you do not correct for these actions, you may be subject to losing up to 10% on your final grade.
-
-I am not expecting you to be super outgoing (I'm certainly not the most outgoing myself) but I do expect you to be actively participating when you can. If there are concerns, please let me know in private so we can discuss any issues. Nothing here should be a surprise for you at the end of the term.
-
-Note that some of these can be easily tracked (GitHub issues, Pull Requests, commenting on lectures, Slack Messages) and some of this will be based on observations from the teaching staff.
-
-#### Requirements for Participation
-
-**Students are required to comment on the "Participation" assignment on the Learn Software app**. It must include a paragraph outlining:
-- An overview of the work they did for all team projects and assignments
-- An overview of work other CSC491/2600 students did for the CSC491/2600 assignments
-- A general sentiment if you think the work was split fairly
-
-_This entry is private and only the teaching staff can see it_. Participation will be marked at half marks (for lessons and discussions) if this comment is not provided (e.g. -4.5% on the course final).
-
-**Team Principles**
-
-In assignment 1 you will create a principles document outlining how often your team will meet, how they prefer to communicate, and how they prefer to work. While this is a living document and expected to change slightly throughout the term (with approval from the rest of your team), you are still expected to uphold the various principles contained within. If your team doesn't see you at any meetings - for example - then you are not upholding your team principles.
-
 ### Why are the grades weighted like this?
 
 The whole point of this course is to write software. We aren't building an algorithm or standalone data structure - and leetcode is pretty useless in real day-to-day software development (sorry "cracking the coding interview"). To reflect this, the majority of your grade is reflected in your software deliverable.

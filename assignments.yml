@@ -158,7 +158,7 @@ team:
 user:
   - name: Participation
     worth: 7
-    file: assignments/README.md
+    file: assignments/participation.md
     submission: N/A
     breakdown:
     - section: Participation on GitHub
@@ -167,7 +167,7 @@ user:
       worth: 25.0
     - section: Participation in lectures
       description: |
-        Participated in and viewed online lectures, attended and asked questions in class presentations, demos, etc.
+        Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc.
       worth: 25.0
     - section: Team
       description: |
