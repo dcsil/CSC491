@@ -23,7 +23,7 @@ Note that some of these can be easily tracked (GitHub issues, Pull Requests, com
 - An overview of work other CSC491/2600 students did for the CSC491/2600 assignments
 - A general sentiment if you think the work was split fairly
 
-_This entry is private and only the teaching staff can see it_. Participation will be marked at half marks (for lessons and discussions) if this comment is not provided (e.g. -4.5% on the course final).
+_This entry is private and only the teaching staff can see it_. Participation will be marked as 0 for all sections on which it is indicated below.
 
 **Team Principles**
 
