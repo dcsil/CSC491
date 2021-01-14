@@ -10,8 +10,8 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 3 | Thursday, January 28 2021  | ❗A2 Due    | Discussions around Diversity | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
 | 4 | Thursday, February 4 2021  | -   | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
 | 5 | Thursday, February 11 2021  | ❗A3 Due<br>❗A6 Demo | Work in Class | UX Reasearch + Data Bias |
-| 7 | Thursday, February 18 2021 | -          | NO CLASS - Reading Week | - | 
-| 6 | Thursday, February 25 2021 | ❗A4 Due<br>❗A6 Demo  | Work in Class | Infrastructure, Prod Eng, Production, etc |
+| 6 | Thursday, February 18 2021 | -          | NO CLASS - Reading Week | - | 
+| 7 | Thursday, February 25 2021 | ❗A4 Due<br>❗A6 Demo  | Work in Class | Infrastructure, Prod Eng, Production, etc |
 | 8 | Thursday, March 4 2021 | -  | Discussions around Infrastructure | Ethics and Accessibility | 
 | 9 | Thursday, March 11 2021     | ❗A5 Due<br>❗A6 Demo  | Guest Speaker | - | 
 | 10 | Thursday, March 18 2021  | - | Work in Class | - | 
