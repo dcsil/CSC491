@@ -42,6 +42,9 @@ In assignment 1 you will create a principles document outlining how often your t
 
  <!-- RUBRIC END -->
 
+## Submission
+
+You must submit a comment on the "Participation Assignment" in the LearnSoftware app by the due date (11:59:59pm on the last day of class). This comment should explain how you participated and help me corraborate the work I see in GitHub, Slack, and Class.
 
 ## Questions or Concerns?
 
