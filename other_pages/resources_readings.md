@@ -18,3 +18,4 @@ I encourage you to make a PR to add materials you think are useful here too!
 | The Lean Startup | Eric Ries | Product | http://theleanstartup.com/ | $15 - 30 |
 | The Indie Hackers Podcast | Courtland Allen | Product | https://www.indiehackers.com/podcast or wherever you normally listen to podcasts | Free |
 | The Architecture of Open Source Applications, Volume II | John O'Duinn | Product | http://aosabook.org/en/index.html | $5 - $35 |
+| Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification | Joy Buolamwini, Timnit Gebru | Scientific Paper | http://proceedings.mlr.press/v81/buolamwini18a.html | Free |
