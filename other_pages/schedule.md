@@ -11,11 +11,11 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 4 | Thursday, February 4 2021  | -   | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
 | 5 | Thursday, February 11 2021  | ❗A3 Due<br>❗A6 Demo | Work in Class | UX Reasearch + Data Bias |
 | 6 | Thursday, February 18 2021 | -          | NO CLASS - Reading Week | - | 
-| 7 | Thursday, February 25 2021 | ❗A4 Due | Work in Class | Infrastructure, Prod Eng, Production, etc |
+| 7 | Thursday, February 25 2021 | ❗A4 Due | Work in Class<br>❗A6 Demos | Infrastructure, Prod Eng, Production, etc |
 | 8 | Thursday, March 4 2021 | -  | Discussions around Infrastructure | Ethics and Accessibility | 
-| 9 | Thursday, March 11 2021     | ❗A5 Due<br>❗A6 Demo  | Guest Speaker | - | 
+| 9 | Thursday, March 11 2021     | ❗A5 Due<br>❗A6 Demo | Guest Speaker | - | 
 | 10 | Thursday, March 18 2021  | - | Work in Class | - | 
-| 11 | Thursday, March 25 2021   | -           | Work in Class<br>❗A6 Demos | - | 
+| 11 | Thursday, March 25 2021   | -           | Work in Class| - | 
 | 12 | Thursday, April 1 2021    | - | Work in Class | - | 
 | 13 | Thursday, April 8 2021    | ❗A7 Due<br>❗A6 Demo | Software Due - Demos of your Software | - | 
 | N/A | Friday, April 9 2021  | -           | Bonus Assignment Due | - | 
