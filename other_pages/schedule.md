@@ -12,8 +12,8 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 5 | Thursday, February 11 2021  | ❗A3 Due<br>❗A6 Demo | Work in Class | UX Reasearch + Data Bias |
 | 6 | Thursday, February 18 2021 | -          | NO CLASS - Reading Week | - | 
 | 7 | Thursday, February 25 2021 | ❗A4 Due<br>❗A6 Demo | Work in Class | Infrastructure, Prod Eng, Production, etc |
-| 8 | Thursday, March 4 2021 | -  | Discussions around Infrastructure | Ethics and Accessibility | 
-| 9 | Thursday, March 11 2021     | ❗A5 Due | Guest Speaker | - | 
+| 8 | Thursday, March 4 2021 | -  | ❗A5 Due<br>Discussions around Infrastructure | Ethics and Accessibility | 
+| 9 | Thursday, March 11 2021     | Work in Class | Guest Speaker | - | 
 | 10 | Thursday, March 18 2021  | - | Work in Class | - | 
 | 11 | Thursday, March 25 2021   | - ❗A6 Demo  | Work in Class| - | 
 | 12 | Thursday, April 1 2021    | - | Work in Class | - | 
