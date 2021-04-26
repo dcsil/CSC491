@@ -24,6 +24,7 @@ There are a number of assignments that make up your final grade, the weights are
 ### Important Notes
 
 - Each assignment builds off of one another. If you don't do one, you won't be able to complete the next assignment as it's rubric and requirements build off the ones prior to it.
+
 ### Why are the grades weighted like this?
 
 The whole point of this course is to write software. We aren't building an algorithm or standalone data structure - and leetcode is pretty useless in real day-to-day software development (sorry "cracking the coding interview"). To reflect this, the majority of your grade is reflected in your software deliverable.
