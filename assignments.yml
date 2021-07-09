@@ -125,7 +125,7 @@ team:
     position: 6
     number: 6
   - name: Software
-    worth: 40
+    worth: 42
     file: assignments/a7.md
     submission: repo
     breakdown:
@@ -157,7 +157,7 @@ team:
     position: 6
 user:
   - name: Participation
-    worth: 7
+    worth: 5
     file: assignments/participation.md
     submission: N/A
     breakdown:
