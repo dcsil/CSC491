@@ -18,7 +18,7 @@ team:
         The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc.
         The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
       worth: 65.0
-    due_date: 2021-01-21T23:59:59 EST
+    due_date: 2021-09-23T23:59:59-04:00
     position: 1
     number: 1
   - name: A2 - Team Exploration - Diversity and Inclusion
@@ -44,7 +44,7 @@ team:
     - section: Diversity 2
       description: Thoughtfully describes how the lack of diversity in all of the specified areas can impact the company
       worth: 25.0
-    due_date: 2021-01-28T23:59:59 EST
+    due_date: 2021-09-31T23:59:59 EST
     position: 2
     number: 2
   - name: A3 - Tech Choices, Architecture Diagram, Roadmap
@@ -64,7 +64,7 @@ team:
     - section: Roadmap
       description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
       worth: 25.0
-    due_date: 2021-02-11T23:59:59 EST
+    due_date: 2021-10-14T23:59:59 EST
     position: 3
     number: 3
   - name: A4 - UX Research w/Prototype, Roadmap Updates
@@ -79,7 +79,7 @@ team:
       description: |
         Update roadmap with the changes related to the UX research. Explain the changes and things that you havbe completed. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 20.0
-    due_date: 2021-02-25T23:59:59 EST
+    due_date: 2021-10-21T23:59:59 EST
     position: 4
     number: 4
   - name: A5 - Dev Env, Test Infrastructure, & Production Setup
@@ -104,7 +104,7 @@ team:
     - section: Roadmap
       description: Roadmap and Stackshare.io are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 10.0
-    due_date: 2021-03-04T23:59:59 EST
+    due_date: 2021-10-28T23:59:59 EST
     position: 5
     number: 5
   - name: A6 - Class Demos
@@ -121,7 +121,7 @@ team:
     - section: Participation
       description: All members present at least once during the term.
       worth: 30
-    due_date: 2021-04-08T23:59:59 EST
+    due_date: 2021-12-09T23:59:59 EST
     position: 6
     number: 6
   - name: Software
@@ -153,7 +153,7 @@ team:
     - section: "[Assignment Meta] Video"
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
       worth: 5.0
-    due_date: 2021-04-08T23:59:59 EST
+    due_date: 2021-12-09T23:59:59 EST
     position: 6
 user:
   - name: Participation
@@ -173,7 +173,7 @@ user:
       description: |
         Participated in all team work, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). 
       worth: 50.0
-    due_date: 2021-04-08T23:59:59 EST
+    due_date: 2021-12-09T23:59:59 EST
     position: 7
   - name: Bonus Assignment
     worth: 2
@@ -184,6 +184,6 @@ user:
     - section: Work
       description: General work according to the bonus assignment description
       worth: 100.0
-    due_date: 2021-04-09T23:59:59 EST
+    due_date: 2021-12-10T23:59:59 EST
     position: 8
  
