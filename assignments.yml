@@ -18,7 +18,7 @@ team:
         The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc.
         The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
       worth: 65.0
-    due_date: 2021-09-23T23:59:59-04:00
+    due_date: 2021-09-16T23:59:59-04:00
     position: 1
     number: 1
   - name: A2 - Team Exploration - Diversity and Inclusion
@@ -44,7 +44,7 @@ team:
     - section: Diversity 2
       description: Thoughtfully describes how the lack of diversity in all of the specified areas can impact the company
       worth: 25.0
-    due_date: 2021-09-31T23:59:59 EST
+    due_date: 2021-09-30T23:59:59 EST
     position: 2
     number: 2
   - name: A3 - Tech Choices, Architecture Diagram, Roadmap
@@ -64,7 +64,7 @@ team:
     - section: Roadmap
       description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
       worth: 25.0
-    due_date: 2021-10-14T23:59:59 EST
+    due_date: 2021-10-07T23:59:59 EST
     position: 3
     number: 3
   - name: A4 - UX Research w/Prototype, Roadmap Updates
