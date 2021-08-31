@@ -49,9 +49,9 @@ def generate_overview(assignments)
       raise ArgumentError, "#{name} is missing a due date"
     end
     
-    due = assignment['due_date'].is_a?(String) ? Time.parse(due) : assignment['due_date']
-    due = due.strftime("%B %d, %Y")
+    due = assignment['due_date'].is_a?(String) ? Time.parse(assignment['due_date']) : assignment['due_date']
     raise "'#{assignment['name']}' due before today. Due Date is wrong: #{due}" if due <= Time.now
+    due = due.strftime("%B %d, %Y")
     body << "| [#{name}](../#{assignment["file"]}) #{'(Bonus)' if assignment['bonus']} | #{assignment["name"]} | #{assignment["worth"]}% | #{assignment["submission"]} | #{due} |"
     bonuses += assignment["worth"] if assignment['bonus']
   end
