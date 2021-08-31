@@ -8,6 +8,7 @@ require 'cli/ui'
 require 'cli/kit'
 require 'yaml'
 require 'tempfile'
+require 'time'
 
 CLI::UI::StdoutRouter.enable
 
@@ -43,7 +44,9 @@ def generate_overview(assignments)
   bonuses = 0
   (assignments["team"] + assignments["user"]).sort_by { |a| a["position"] }.each do |assignment|
     name = assignment["number"].nil? ? assignment["name"] : "Assignment #{assignment["number"]}"
-    due = assignment['due_date'].strftime("%B %d, %Y")
+    
+    due = assignment['due_date'].is_a?(String) ? Time.parse(due) : assignment['due_date']
+    due = due.strftime("%B %d, %Y")
     raise "'#{assignment['name']}' due before today. Due Date is wrong: #{due}" if assignment['due_date'] <= Time.now
     body << "| [#{name}](../#{assignment["file"]}) #{'(Bonus)' if assignment['bonus']} | #{assignment["name"]} | #{assignment["worth"]}% | #{assignment["submission"]} | #{due} |"
     bonuses += assignment["worth"] if assignment['bonus']
