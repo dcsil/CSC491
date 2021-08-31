@@ -45,9 +45,13 @@ def generate_overview(assignments)
   (assignments["team"] + assignments["user"]).sort_by { |a| a["position"] }.each do |assignment|
     name = assignment["number"].nil? ? assignment["name"] : "Assignment #{assignment["number"]}"
     
+    if  assignment['due_date'].nil?
+      raise ArgumentError, "#{name} is missing a due date"
+    end
+    
     due = assignment['due_date'].is_a?(String) ? Time.parse(due) : assignment['due_date']
     due = due.strftime("%B %d, %Y")
-    raise "'#{assignment['name']}' due before today. Due Date is wrong: #{due}" if assignment['due_date'] <= Time.now
+    raise "'#{assignment['name']}' due before today. Due Date is wrong: #{due}" if due <= Time.now
     body << "| [#{name}](../#{assignment["file"]}) #{'(Bonus)' if assignment['bonus']} | #{assignment["name"]} | #{assignment["worth"]}% | #{assignment["submission"]} | #{due} |"
     bonuses += assignment["worth"] if assignment['bonus']
   end
