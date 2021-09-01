@@ -10,6 +10,6 @@ During your first assignment you will create a "team expectations" document that
 Students should report any difficulties in their teams to a member of the Teaching Team as early as
 possible so that the difficulties can be addressed in a positive way.
 
-Students should also maintain as complete a record of team interactions as possible.
+Students should also maintain as complete a record of team interactions as possible. GitHub Issues are the best way to accommodate this, and are required to be used for roadmapping and gathering team feedback.
 
 Based on solicited, confidential feedback, or at the instructors discretion based on participation in the course - the Course Instructor may adjust the grade distribution within a team.
