@@ -5,20 +5,20 @@ This is a class schedule indicating what we aim to do each week and the recommen
 
 | # | Date | Assignments | Lecture Time | Recommended Async Lectures |
 | -- | -- | -- | -- | -- |
-| 1 | Thursday, January 14 2021   | -            | First day of class, Introductions & Course Overview | Story Telling |
-| 2 | Thursday, January 21 2021  | ❗A1 Due    | AI Tutorial | Various Diversity & Inclusion |
-| 3 | Thursday, January 28 2021  | ❗A2 Due    | Discussions around Diversity | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
-| 4 | Thursday, February 4 2021  | -   | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
-| 5 | Thursday, February 11 2021  | ❗A3 Due<br>❗A6 Demo | Work in Class | UX Reasearch + Data Bias |
-| 6 | Thursday, February 18 2021 | -          | NO CLASS - Reading Week | - | 
-| 7 | Thursday, February 25 2021 | ❗A4 Due<br>❗A6 Demo | Work in Class | Infrastructure, Prod Eng, Production, etc |
-| 8 | Thursday, March 4 2021 | -  | ❗A5 Due<br>Discussions around Infrastructure | Ethics and Accessibility | 
-| 9 | Thursday, March 11 2021     | Work in Class | Guest Speaker | - | 
-| 10 | Thursday, March 18 2021  | - | Work in Class | - | 
-| 11 | Thursday, March 25 2021   | - ❗A6 Demo  | Work in Class| - | 
-| 12 | Thursday, April 1 2021    | - | Work in Class | - | 
-| 13 | Thursday, April 8 2021    | ❗A7 Due<br>❗A6 Demo | Software Due - Demos of your Software | - | 
-| N/A | Friday, April 9 2021  | -           | Bonus Assignment Due | - | 
+| 1 | Thursday, September 9 2021   | - | First day of class, Introductions & Course Overview | Story Telling |
+| 2 | Thursday, September 16 2021  | ❗A1 Due   | AI Tutorial | Various Diversity & Inclusion |
+| 3 | Thursday, September 23 2021  |  - | Discussions around Diversity | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
+| 4 | Thursday, September 30 2021  | ❗A2 Due  | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
+| 5 | Thursday, October 7 2021  | ❗A3 Due<br>❗A6 Demo | Work in Class | UX Reasearch + Data Bias |
+| 6 | Thursday, October 14 2021 | - | - | - | 
+| 7 | Thursday, October 21 2021 | ❗A4 Due<br>❗A6 Demo | Work in Class | Infrastructure, Prod Eng, Production, etc |
+| 8 | Thursday, October 28 2021 | ❗A5 Due | Discussions around Infrastructure | Ethics and Accessibility | 
+| 9 | Thursday, November 4 2021 | -  | Work in Class | Guest Speaker | - | 
+| 10 | Thursday, November 11 2021  | - | NO CLASS - Reading Week | - | 
+| 11 | Thursday, November 18 2021   | ❗A6 Demo | Work in Class | - | 
+| 12 | Thursday, November 25 2021    | - | Work in Class | - | 
+| 13 | Thursday, December 2 2021    | ❗A6 Demo | Last day of class - Demos of your Software | - | 
+| N/A | Thursday, December 9 2021  | ❗A7 Due  | Software Due & Bonus Assignment Due | - | 
 
 **Notes**
 - _Lectures subject to change._
@@ -28,12 +28,12 @@ This is a class schedule indicating what we aim to do each week and the recommen
 **Summary**
 
 - Lectures are Asynchrous via the Learn Software application
-- 2+ Guest Speakers
+- We will try to bring in some guest speakers
 - 1 AI + Data Tutorial
 - 2 discussions (1 includes short demos)
-- 5 Work in Class periods (2 include short demos)
+- 4-5 class working periods
 - 1 Intro
-- 1 Demo period
+- 4 Demo periods (part class each time)
 
 ## Your software
 
