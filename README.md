@@ -72,7 +72,7 @@ Office hours are by appointment. Please email me at julian.nadeau[at]utoronto.ca
 
 Class is on Thursdays from 5-8PM EST on Zoom. If you are not in a time zone that aligns with EST, please let me know early!
 
-- If we are in person, we will meet in the DCSIL Lab in Gerstein Library
+- If we are in person, we will meet in the [DCSIL Lab in Gerstein Library](./other_pages/map.md)
 - If we are online, we will meet on Zoom
 - We will be online until at least October 2021
 
