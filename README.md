@@ -68,13 +68,15 @@ You can view my personal website at [https://jnadeau.ca](https://jnadeau.ca) and
 
 Office hours are by appointment. Please email me at julian.nadeau[at]utoronto.ca, though messaging me on DCSIL's Slack group is more likely to get a response.
 
-While the course is online due to Covid-19, I am willing to meet up for a socially distanced coffee or park visit in person in the downtown core of Toronto to discuss any issues in person if you would strongly prefer that. Please wear a mask (except when drinking your coffee/tea/water), I will not meet with you if you are not wearing your mask. 
-
 ## Time and Location
 
-Class is on Thursdays from 4-7PM EST on Zoom. If you are not in a time zone that aligns with EST, please let me know early!
+Class is on Thursdays from 5-8PM EST on Zoom. If you are not in a time zone that aligns with EST, please let me know early!
 
-This said, lectures are asynchronous online. The 4-7pm lecture slot is reserved for working periods, guest lectures, discussion, etc.
+- If we are in person, we will meet in the DCSIL Lab in Gerstein Library
+- If we are online, we will meet on Zoom
+- We will be online until at least October 2021
+
+Lectures are pre-recorded and asynchronous online. The 5-8pm lecture slot is reserved for working periods, guest lectures, discussion, etc.
 
 ## I don't like something about this course
 
