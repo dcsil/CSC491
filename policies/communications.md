@@ -16,3 +16,4 @@ Communication, as we will discuss in the course, is vital to the success of any 
 | Issues and tracking boards | Team: Use this heavily as a decision record on most topics. Making use of GitHub Issues shows participation from all users (including non-technical) and will be a part of your grade in CSC454/2527<br> CSC491/2600: When you have a problem that needs to be fixed and are comfortable talking about it in the open |
 | GitHub Releases | For your team repository, use this as a method to record assignment submission for CSC491/2600 |
 | Internal Wikis | You can keep team docs in your team repo on GitHub. I ask that you avoid using the wiki feature as it makes grading more difficult |
+| GitHub Issues | You are required to use this for roadmapping and planning |
