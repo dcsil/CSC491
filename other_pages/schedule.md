@@ -40,12 +40,12 @@ This is a class schedule indicating what we aim to do each week and the recommen
 To help you keep on track, here are some general recommendations and guidelines on milestones and goals you should aim for throughout the term. While most of these aren't mandatory (unless enforced by assignments), following these will help ensure your success and avoid stress and chaos in the last 2 weeks of the course.
 
 - You should start a skeleton hello world application as soon as you choose your base tech (Flask, Rails, iOS, etc)
-- You should start building out a developer environment, CI setup, test infra, and production setup by the end of January
-- You should start building out functionality no later than reading week
-- Your models should also be started no later than reading week
-- You should have demoable content by the first week of March
-- You should have significant demoable content by March 11 (Assignment 6 deadline)
-- You should be at the point of adding no new major features in the last week of March. This should be reserved for polish and bug fixes
+- You should start building out a developer environment, CI setup, test infra, and production setup by the end of September
+- You should start building out functionality no later than mid-October 
+- Your models should also be started no later than mid-October
+- You should have demoable content by the first week of November
+- You should have significant demoable content by The last demo  
+- You should be at the point of adding no new major features in December. This should be reserved for polish and bug fixes
 
 ## Demos
 
