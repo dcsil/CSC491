@@ -7,8 +7,8 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | -- | -- | -- | -- | -- |
 | 1 | Thursday, September 9 2021   | - | First day of class, Introductions & Course Overview | Story Telling |
 | 2 | Thursday, September 16 2021  | ❗A1 Due   | AI Tutorial | Various Diversity & Inclusion |
-| 3 | Thursday, September 23 2021  |  - | Discussions around Diversity | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
-| 4 | Thursday, September 30 2021  | ❗A2 Due  | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Pracitces - Linting, Semantic Analysis, etc |
+| 3 | Thursday, September 23 2021  |  - | Discussions around Diversity | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
+| 4 | Thursday, September 30 2021  | ❗A2 Due  | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
 | 5 | Thursday, October 7 2021  | ❗A3 Due<br>❗A6 Demo | Work in Class | UX Reasearch + Data Bias |
 | 6 | Thursday, October 14 2021 | - | - | - | 
 | 7 | Thursday, October 21 2021 | ❗A4 Due<br>❗A6 Demo | Work in Class | Infrastructure, Prod Eng, Production, etc |
@@ -27,7 +27,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 
 **Summary**
 
-- Lectures are Asynchrous via the Learn Software application
+- Lectures are asynchronous via the Learn Software application
 - We will try to bring in some guest speakers
 - 1 AI + Data Tutorial
 - 2 discussions (1 includes short demos)
