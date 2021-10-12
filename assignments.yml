@@ -122,6 +122,7 @@ team:
       description: All members present at least once during the term.
       worth: 30
     due_date: 2021-12-09T23:59:59 EST
+    multiple_due_dates: true
     position: 6
     number: 6
   - name: Software
