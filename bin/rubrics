@@ -50,8 +50,9 @@ def generate_overview(assignments)
     end
     
     due = assignment['due_date'].is_a?(String) ? Time.parse(assignment['due_date']) : assignment['due_date']
-    raise "'#{assignment['name']}' due before today. Due Date is wrong: #{due}" if due <= Time.now
+    # raise "'#{assignment['name']}' due before today. Due Date is wrong: #{due}" if due <= Time.now
     due = due.strftime("%B %d, %Y")
+    due = "Multiple Due Dates" if assignment['multiple_due_dates']
     body << "| [#{name}](../#{assignment["file"]}) #{'(Bonus)' if assignment['bonus']} | #{assignment["name"]} | #{assignment["worth"]}% | #{assignment["submission"]} | #{due} |"
     bonuses += assignment["worth"] if assignment['bonus']
   end
