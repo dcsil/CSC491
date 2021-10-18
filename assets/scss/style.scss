@@ -23,3 +23,9 @@ VERSION:	Versoin Number
 @import 'common';
 
 @import 'templates/navigation';
+
+.details-box {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 1em;
+}
