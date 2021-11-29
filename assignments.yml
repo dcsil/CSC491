@@ -55,11 +55,11 @@ team:
     - section: Use Cases
       description: Describes the use cases well. Illustrates UI with low fidelity sketches where applicable. Is approved by teaching staff
       worth: 30.0
-    - section: Stackshare.io
-      description: Describes the main technologies the team intends to use. For every technology, there is also a decision record. StackShare URL is added to the team profile in the App
+    - section: Stack Decisions
+      description: Describes the main technologies the team intends to use. For every technology, there is also a decision record.
       worth: 25.0
     - section: Architecture Diagram
-      description: Incorparting all parts of the technologies in StackShare.io and adding adequate detail inside of those technologies (e.g. don't just list React server when there's major components to list), design an architecture diagram in the software of your choice. Include it in the team repo
+      description: Incorparting all parts of the technologies in your Stack Decisions and adding adequate detail inside of those technologies (e.g. don't just list React server when there's major components to list), design an architecture diagram in the software of your choice. Include it in the team repo
       worth: 20.0
     - section: Roadmap
       description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
@@ -88,10 +88,10 @@ team:
     submission: repo
     breakdown:
     - section: "`service.yml`"
-      description: Is present and fully filled out
+      description: Is present, error-free, and fully filled out. See Notes Below
       worth: 10.0
     - section: "`script/bootstrap` or similar"
-      description: Functions fully on Unix systems. Application is fully ready to run after running the script (dependencies installed, database install and setup, etc). The only exception is when you need to get credentials for something like a 3rd party API, that can be a different step.
+      description: Functions fully on Unix systems. Application is fully ready to run after running the script (dependencies installed, database install and setup, etc). The only exception is when you need to get credentials for something like a 3rd party API, that can be a different step.  See Notes Below
       worth: 30.0
     - section: Testing and CI setup
       description: Test harness works and can be run from a single command listed in the service.yml file. CI is running and is passing.
@@ -99,10 +99,10 @@ team:
     - section: Production / Builds
       description: |
         Application is available from the web, as a mobile application via Microsoft App Center, or a GitHub Release otherwise.
-        Exception tracking via Sentry and Logging is set up.
+        Exception tracking via Sentry and Logging is set up. See Notes Below
       worth: 25.0
     - section: Roadmap
-      description: Roadmap and Stackshare.io are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
+      description: Roadmap and Stack Decisions are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 10.0
     due_date: "2021-10-28T23:59:59-04:00"
     position: 5
