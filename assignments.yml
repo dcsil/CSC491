@@ -164,7 +164,7 @@ user:
     breakdown:
     - section: Participation on GitHub
       description: |
-        Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). 
+        Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
       worth: 25.0
     - section: Participation in lectures
       description: |
@@ -172,7 +172,7 @@ user:
       worth: 25.0
     - section: Team
       description: |
-        Participated in all team work, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). 
+        Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
       worth: 50.0
     due_date: "2021-12-09T23:59:59-05:00"
     position: 7
