@@ -53,7 +53,7 @@ team:
           - Teams should aim to go beyond visible dimensions of diversity, though those should be included (e.g. gender, nationality, ethnicity).
         - Team gives thoughtful rhetoric on how these areas may impact their team and product
       worth: 35.0
-    due_date: 2022-02-03T23:59:59 EST
+    due_date: 2022-01-27T23:59:59 EST
     position: 2
     number: 2
   - name: A3 - Tech Choices, Architecture Diagram, Roadmap
@@ -105,7 +105,7 @@ team:
         Explain the changes and things that you have completed in the release body for the assignment.
         Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 20.0
-    due_date: 2022-03-03T23:59:59 EST
+    due_date: 2022-03-01T23:59:59 EST
     position: 4
     number: 4
   - name: A5 - Dev Env, Test Infrastructure, & Production Setup
