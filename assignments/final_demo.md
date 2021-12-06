@@ -42,7 +42,7 @@ The demo should include the following:
 You will demo this in class to everyone.
 
 You must also [create a release](https://help.github.com/en/articles/creating-releases) on your repo where the code is located.
-This will give us a snapshot in time and allow us to grade it. See release body criteria and example below.
+This will give us a snapshot in time and allow us to grade it. See release body criteria and example below. Assignments without a coherent release body that follow the instructions in this assignment will be rejected and marked 1 day late.
 
 The release does not need to include pull requests or commits from every member. The body does not even need any content, just ensure it is there and appropriately labeled.
 

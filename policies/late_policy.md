@@ -15,7 +15,9 @@ Assignments will be accepted up to 5 days past the due date at -10% per day.
 | 5 | -50% |
 | 6+ | -100% |
 
-Accomodations can be made by talking to the instructor. They are not guaranteed, however, but we do like to model a startup :)
+Accomodations can be made by talking to the instructor. They are not guaranteed, however, but we do like to model a startup so they usually are acceptable! :)
+
+NOTE: This policy is slightly different for synchronous demos. Please see that assignment for futher details on the late policy.
 
 ### Compounding assignments
 
