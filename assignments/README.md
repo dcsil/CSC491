@@ -8,15 +8,15 @@ There are a number of assignments that make up your final grade, the weights are
 
 | Assignment | Description | Weight | Submission Location | Due Date |
 | --- | --- | --- | --- | --- |
-| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 5% | repo | September 16, 2021 |
-| [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | repo | September 30, 2021 |
-| [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | repo | October 07, 2021 |
-| [Assignment 4](../assignments/a4.md)  | A4 - UX Research w/Prototype, Roadmap Updates | 8% | repo | October 21, 2021 |
-| [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo | October 28, 2021 |
+| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 5% | repo | January 20, 2022 |
+| [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 10% | repo | February 03, 2022 |
+| [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 10% | repo | February 10, 2022 |
+| [Assignment 4](../assignments/a4.md)  | A4 - UX Research w/Prototype, Roadmap Updates | 8% | repo | March 03, 2022 |
+| [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 10% | repo | March 10, 2022 |
 | [Assignment 6](../assignments/a6.md)  | A6 - Class Demos | 10% | class | Multiple Due Dates |
-| [Software](../assignments/a7.md)  | Software | 42% | repo | December 09, 2021 |
-| [Participation](../assignments/participation.md)  | Participation | 5% | N/A | December 09, 2021 |
-| [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | December 10, 2021 |
+| [Software](../assignments/a7.md)  | Software | 42% | repo | April 14, 2022 |
+| [Participation](../assignments/participation.md)  | Participation | 5% | N/A | April 14, 2022 |
+| [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | April 07, 2022 |
 | | **Total** | 100% (+2%) | | |
 
 <!-- OVERVIEW END -->

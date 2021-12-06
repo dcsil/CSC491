@@ -1,9 +1,20 @@
 # Communication
 
+### Expectations
+
+You are senior/graduate-level Computer Science students. As such, you are expected to have a high standard of communication. You need to be able to communicate clearly and effectively in a team setting, but as importantly - concisely and effectively communicate your needs with the teaching staff.
+
+You will see a theme throughout this course centred around communication. This is a very important skill that you will need to develop in order to be successful in your career.
+
+As such, the late policy includes a number of expectations you need to follow in order to ask for extensions. Missing demos and other aspects of the class can and will be penalized _if you do not communicate in advance_. I cannot stress this enough - this class is very accommodating of your time and schedule, granted you respect the time of others (including the teaching staff).
+
+The class is not large, I know who is attending lectures. I expect you to be able to communicate your needs - are you going to be late due to work? Are you going to be late because you have a class on the other side of campus? Talk to me, and we it won't be an issue.
+
+### Methods of Communication
+
 There are, just as you will find in a startup, various methods of communication. Please hold group online discussions on Quercus, Slack or another tool of your choosing. You will receive invites during the first week of the course. Likewise, Zoom will be used at points during this course. Please ensure you have it installed and signed into an account.
 
 Communication, as we will discuss in the course, is vital to the success of any business. As your startup gains traction and becomes successful, you will find that communication methods and culture become a bottleneck within your company. As such, we will ensure students are exposed to different means of communication and include the following table to help you understand the various mediums.
-
 
 | Medium | When to use |
 | --- | --- |
