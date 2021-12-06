@@ -64,7 +64,7 @@ team:
     - section: Use Cases
       description: |
        - Describes 3-6 use cases that provide adequate complexity to showcase the teams skills
-       - Use cases are well defined and recorded as a markdown file in the Team Repository
+       - Use cases are well defined and recorded on the team's profile on the LearnSoftware application
        - Illustrates UI with low fidelity sketches where applicable
        - Teaching Staff will approve use cases after submission. Use case approval will not affect grade, but students may be required to re-write some use cases if not approved.
       worth: 30.0
