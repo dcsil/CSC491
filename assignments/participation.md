@@ -22,6 +22,7 @@ Note that some of these can be easily tracked (GitHub issues, Pull Requests, com
 #### Requirements for Participation
 
 - Teams are required to enable and set up standups. CSC491 Students are required to answer the standups at least 8 of the 12 weeks, though they are recommended to answer every week for their team's benefit.
+  - Standups must include the questions "What did you work on since the last update?" and "What do you plan to work on next?"
 - Students are required to check off all participation list items on https://learnsoftware.engineering/participation
 - Students are required to comment on the "Participation" assignment on the Learn Software app. It must include a paragraph outlining:
   - An overview of the work they did for all team projects and assignments
@@ -40,8 +41,8 @@ In assignment 1 you will create a principles document outlining how often your t
 
 | Section | Description | Worth |
 | --- | --- | --- |
-| Participation on GitHub | Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). | 25.0 |
-| Participation in lectures | Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. | 25.0 |
+| Participation on GitHub | Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Comments on Issues/PRs add to the conversation and provide value. | 25.0 |
+| Participation in lectures | Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Comments usually provide some value and add to the conversation. | 25.0 |
 | Team | Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). | 50.0 |
 | | **Total:** | 100 |
 
