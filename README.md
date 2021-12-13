@@ -59,10 +59,13 @@ It is **required** to download, install, and set up [Zoom](https://zoom.us/) as 
 
 Hello! My name is Julian Nadeau. You can reach me at julian.nadeau[at]utoronto.ca.
 
-I am a Senior Software Developer at GitHub during the day. I've also worked in the startup space quite a lot having experienced explosive growth in various roles at Shopify from 2013 through 2019, including their IPO.
+I am a Staff Software Developer at Stripe during the day. I've also worked in the startup space quite a lot having experienced explosive growth in various roles at GitHub (2019-2021) and Shopify (2013-2019, including their IPO).
+
 I've run a not-for-profit startup as well, called Code For Kids, that helped teach kids how to code.
 
-You can view my personal website at [https://jnadeau.ca](https://jnadeau.ca) and my [LinkedIn Profile here](https://www.linkedin.com/in/juliannadeau/).
+You can view my personal website at [https://jnadeau.ca](https://jnadeau.ca) and my [LinkedIn Profile here](https://www.linkedin.com/in/juliannadeau/)
+
+_All opinions are my own and do not reflect the opinion of current or former employers_.
 
 ### Office Hours
 
