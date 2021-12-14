@@ -41,8 +41,8 @@ In assignment 1 you will create a principles document outlining how often your t
 
 | Section | Description | Worth |
 | --- | --- | --- |
-| Participation on GitHub | Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Comments on Issues/PRs add to the conversation and provide value. | 25.0 |
-| Participation in lectures | Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Comments usually provide some value and add to the conversation. | 25.0 |
+| Participation on GitHub | Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). | 25.0 |
+| Participation in lectures | Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Online Lessons have engaging, value adding comments to add to the discussion. | 25.0 |
 | Team | Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). | 50.0 |
 | | **Total:** | 100 |
 
