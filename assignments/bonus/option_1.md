@@ -26,7 +26,7 @@ You can write as many posts as you want, but can only obtain up to 2% among all 
 
 ## Submission
 
-You are to publish your post on dev.to and email me the link.
+You are to publish your post on dev.to, submit it on the LearnSoftware application, and message me on Slack. Failing to message me on Slack **before** the due date will result in a 0% bonus.
 
 ## Rubric
  

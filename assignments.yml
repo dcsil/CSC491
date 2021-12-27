@@ -8,7 +8,7 @@ team:
       description: Good logo/name that represents a modern idea
       worth: 5.0
     - section: Team Profiles
-      description: Team profiles include photos and profile links of all teammates, clearly lists expertises, and a short biography 
+      description: Team profiles include photos and profile links of all teammates, clearly lists expertises, and a short biography. This includes all CSC454 members.
       worth: 10.0
     - section: Leader Selection
       description: Tells us who they chose and why, what is their role for your team?
@@ -175,7 +175,7 @@ team:
       description: All repositories have at least a "B" Grade on Code Climate.
       worth: 15.0
     - section: "[Infrastructure] Operational Excellence"
-      description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors in the DCSIL team app.
+      description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors in the Learn Software App.
       worth: 5.0
     - section: "[Assignment Meta] Video"
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
@@ -190,17 +190,19 @@ user:
     breakdown:
     - section: Participation on GitHub
       description: |
-        Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
+        Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software.
       worth: 25.0
     - section: Participation in lectures
       description: |
-        Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Online Lessons have engaging, value adding comments to add to the discussion.
+        Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Online Lessons have engaging, value adding comments to add to the discussion.  Due April 7th on the last day of classes.
       worth: 25.0
     - section: Team
       description: |
-        Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
+        Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software.
       worth: 50.0
     due_date: 2022-04-14T23:59:59 EST
+    multiple_due_dates: true
+    url: false
     position: 7
   - name: Bonus Assignment
     worth: 2

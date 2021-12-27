@@ -15,7 +15,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 8% | repo | March 10, 2022 |
 | [Assignment 6](../assignments/a6.md)  | A6 - Class Demos | 6% | class | Multiple Due Dates |
 | [Software](../assignments/a7.md)  | Software | 40% | repo | April 14, 2022 |
-| [Participation](../assignments/participation.md)  | Participation | 20% | N/A | April 14, 2022 |
+| [Participation](../assignments/participation.md)  | Participation | 20% | N/A | Multiple Due Dates |
 | [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | April 07, 2022 |
 | | **Total** | 100% (+2%) | | |
 
@@ -24,6 +24,9 @@ There are a number of assignments that make up your final grade, the weights are
 ### Important Notes
 
 - Each assignment builds off of one another. If you don't do one, you won't be able to complete the next assignment as it's rubric and requirements build off the ones prior to it.
+- If you do not follow the release guidelines, you will be required to submit a new release at the penalty of 1 late day.
+- If you do not submit the assignment on the LearnSoftware application, you will lose 1 day.
+- Releases must happen on the team repo
 
 ### Why are the grades weighted like this?
 
