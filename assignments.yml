@@ -1,70 +1,91 @@
 team:
   - name: A1 - Team Introduction, Team Setup
-    worth: 5
+    worth: 2
     file: assignments/a1.md
     submission: repo
     breakdown:
     - section: Company Logo & Name
       description: Good logo/name that represents a modern idea
-      worth: 15.0
+      worth: 5.0
     - section: Team Profiles
-      description: Team profiles include photos and profile links of all teammates, clearly lists expertises, and a short biography 
-      worth: 15.0
+      description: Team profiles include photos and profile links of all teammates, clearly lists expertises, and a short biography. This includes all CSC454 members.
+      worth: 10.0
     - section: Leader Selection
       description: Tells us who they chose and why, what is their role for your team?
-      worth: 5.0
+      worth: 15.0
     - section: Team Principles
       description: |
         The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc.
         The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
-      worth: 65.0
-    due_date: "2021-09-16T23:59:59-04:00"
+      worth: 70.0
+    due_date: 2022-01-20T23:59:59-04:00
     position: 1
     number: 1
   - name: A2 - Team Exploration - Diversity and Inclusion
-    worth: 10
+    worth: 8
     file: assignments/a2.md
     submission: repo
     breakdown:
     - section: Expertise
-      description: Describes how each team member's expertise can benefit the project
+      description: |
+        Describes how each team member's existing expertise can benefit the project
       worth: 15.0
     - section: Lacking Expertise
-      description:  Describes holes in the team's expertise 
+      description: |
+        Describes areas where your team may not have adequate expertise. This should include areas outside of engineering.
       worth: 15.0
     - section: Subject Matter Experts
-      description: Describes subject matter experts that can help fill those holes
+      description: |
+        Students identify areas where they may lack expertise and describes subject matter experts that can help fill those holes.
+        Areas are more than surface-level deep (e.g. students don't just list out "engineering, will ask instructors to advise" or "industry partners"). Clear thought and care has gone into the rhetoric.
       worth: 15.0
     - section: Unconscious Bias
-      description: Gives thoughtful rhetoric on their team's own unconscious bias and provides example solutions of how to help them work through it
+      description: |
+        The team has clearly given some thought into potential areas bias may occur and describes the situations.
+        The writing clearly goes beyond surface level bias and the students have given serious thought about it.
+        Writing also provides examples of possible solutions to help mitigate these biases.
       worth: 20.0
-    - section: Diversity 1
-      description: Explain some areas, which you are comfortable sharing, where the team may lack diversity. You do not need to feel pressured to share or pressure colleagues to disclose anything to the team or publicly, but for the dimensions folks are happy to share, it will give you the opportunity as a team to determine where you may have blind spots on your team. Do not feel restrained by the subset listed above as there are many dimensions of diversity, visible and non-visible, that change how you experience the world
-      worth: 10.0
-    - section: Diversity 2
-      description: Thoughtfully describes how the lack of diversity in all of the specified areas can impact the company
-      worth: 25.0
-    due_date: "2021-09-30T23:59:59-04:00"
+    - section: Diversity
+      description: |
+        - Explain some areas, which you are comfortable sharing, where the team may lack diversity. You do not need to attribute statements to any individual team member, but you are welcome to do so if you are comfortable.
+          - You do not need to feel pressured to share or pressure colleagues to disclose anything to the team or publicly, but for the dimensions folks are happy to share, it will give you the opportunity as a team to determine where you may have blind spots on your team.
+          - Do not feel restrained by the subset listed above as there are many dimensions of diversity, visible and non-visible, that change how you experience the world.
+          - Teams should aim to go beyond visible dimensions of diversity, though those should be included (e.g. gender, nationality, ethnicity).
+        - Team gives thoughtful rhetoric on how these areas may impact their team and product
+      worth: 35.0
+    due_date: 2022-01-27T23:59:59 EST
     position: 2
     number: 2
   - name: A3 - Tech Choices, Architecture Diagram, Roadmap
-    worth: 10
+    worth: 8
     file: assignments/a3.md
     submission: repo
     breakdown:
     - section: Use Cases
-      description: Describes the use cases well. Illustrates UI with low fidelity sketches where applicable. Is approved by teaching staff
+      description: |
+       - Describes 3-6 use cases that provide adequate complexity to showcase the teams skills
+       - Use cases are well defined and recorded on the team's profile on the LearnSoftware application
+       - Illustrates UI with low fidelity sketches where applicable
+       - Teaching Staff will approve use cases after submission. Use case approval will not affect grade, but students may be required to re-write some use cases if not approved.
       worth: 30.0
-    - section: Stackshare.io
-      description: Describes the main technologies the team intends to use. For every technology, there is also a decision record. StackShare URL is added to the team profile in the App
+    - section: Stack Decisions
+      description: |
+       Team describes the main technologies the team intends to use in the LearnSoftware application. For every technology, there is also a decision record.
+       Each decision provides thoughtful rhetoric on why this is a good decision for the team, leveraging ideas and concepts presented in lectures.
       worth: 25.0
     - section: Architecture Diagram
-      description: Incorparting all parts of the technologies in StackShare.io and adding adequate detail inside of those technologies (e.g. don't just list React server when there's major components to list), design an architecture diagram in the software of your choice. Include it in the team repo
+      description: |
+        Incorparting all parts of the technologies in your Stack Decisions and adding adequate detail inside of those technologies (e.g. don't just list React server when there's major components to list), design an architecture diagram in the software of your choice.
+        Include it in the team repo as an image or a PDF.
+        Diagram is clean and easily followed. Text can be sparingly leveraged.
       worth: 20.0
     - section: Roadmap
-      description: Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term). Includes plans for significant user research.
+      description: |
+        Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term).
+        Roadmap is defined in _GitHub Issues_ and labelled using labels, milestones, or projects.
+        Includes plans for user research.
       worth: 25.0
-    due_date: "2021-10-07T23:59:59-04:00"
+    due_date: 2022-02-10T23:59:59 EST
     position: 3
     number: 3
   - name: A4 - UX Research w/Prototype, Roadmap Updates
@@ -73,60 +94,65 @@ team:
     submission: repo
     breakdown:
     - section: UX Research
-      description: Interview the class instructor _and_ another individual. The other individual should be someone who would use the product you are building. Includes appendices including notes. These can be rough, but they must show that you asked all individuals approximately the same questions, recorded questions, mistakes, and feedback. Concisely summarizes the results and does not sugar coat
+      description: |
+        Interview the class instructor _and_ another individual. The other individual should be someone who would use the product you are building.
+        Includes appendices including notes. These can be rough, but they must show that you asked all individuals approximately the same questions, recorded questions, mistakes, and feedback.
+        Concisely summarizes the results and does not sugar coat the results.
       worth: 80.0
     - section: Roadmap
       description: |
-        Update roadmap with the changes related to the UX research. Explain the changes and things that you havbe completed. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
+        Update roadmap with the changes related to the UX research.
+        Explain the changes and things that you have completed in the release body for the assignment.
+        Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 20.0
-    due_date: "2021-10-21T23:59:59-04:00"
+    due_date: 2022-03-01T23:59:59 EST
     position: 4
     number: 4
   - name: A5 - Dev Env, Test Infrastructure, & Production Setup
-    worth: 10
+    worth: 8
     file: assignments/a5.md
     submission: repo
     breakdown:
     - section: "`service.yml`"
-      description: Is present and fully filled out
+      description: Is present, error-free, and fully filled out. See notes below for more details on how to validate.
       worth: 10.0
     - section: "`script/bootstrap` or similar"
-      description: Functions fully on Unix systems. Application is fully ready to run after running the script (dependencies installed, database install and setup, etc). The only exception is when you need to get credentials for something like a 3rd party API, that can be a different step.
+      description: Functions on Unix systems (Linux and/or MacOS). Application is fully ready to run after running the script (dependencies installed, database install and setup, etc). The only exception is when you need to get credentials for something like a 3rd party API, that can be a different step.  See Notes Below
       worth: 30.0
     - section: Testing and CI setup
-      description: Test harness works and can be run from a single command listed in the service.yml file. CI is running and is passing.
+      description: Test harness works and can be run from a single command listed in the service.yml file. CI is running and is passing. If the test command is not listed in the service.yml, 0 pts will be awarded for this section. If the command fails to run before tests are executed, 0 pts will be awarded for this section.
       worth: 25.0
     - section: Production / Builds
       description: |
-        Application is available from the web, as a mobile application via Microsoft App Center, or a GitHub Release otherwise.
-        Exception tracking via Sentry and Logging is set up.
+        Application is available from the web (e.g. Heroku, AWS, DigitalOcean, Azure, etc), as a mobile application via Microsoft App Center, or a GitHub Release otherwise.
+        Exception tracking via Sentry and Logging is set up. See Notes Below
       worth: 25.0
     - section: Roadmap
-      description: Roadmap and Stackshare.io are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
+      description: Roadmap and Stack Decisions are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 10.0
-    due_date: "2021-10-28T23:59:59-04:00"
+    due_date: 2022-03-10T23:59:59 EST
     position: 5
     number: 5
   - name: A6 - Class Demos
-    worth: 10
+    worth: 6
     file: assignments/a6.md
     submission: class
     breakdown:
     - section: Progress
-      description: Shows some progress since the last demo. Describes the improvements, if they are on schedule, etc.
+      description: Shows some progress since the last demo. Describes the improvements, if they are on schedule, future plans, etc.
       worth: 35
     - section: Clarity
-      description: Shows us their project in a short and clear manner.
+      description: Shows us their project in a short and clear manner. Describes the area they are scheduled to present clearly and effectively. Is concise and tells a good story.
       worth: 35
     - section: Participation
-      description: All members present at least once during the term.
+      description: All members present throughout the term and demos are evenly divided.
       worth: 30
-    due_date: "2021-12-09T23:59:59-05:00"
+    due_date: 2022-04-07T23:59:59 EST
     multiple_due_dates: true
     position: 6
     number: 6
   - name: Software
-    worth: 42
+    worth: 40
     file: assignments/a7.md
     submission: repo
     breakdown:
@@ -149,32 +175,34 @@ team:
       description: All repositories have at least a "B" Grade on Code Climate.
       worth: 15.0
     - section: "[Infrastructure] Operational Excellence"
-      description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors in the DCSIL team app.
+      description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors in the Learn Software App.
       worth: 5.0
     - section: "[Assignment Meta] Video"
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
       worth: 5.0
-    due_date: "2021-12-09T23:59:59-05:00"
+    due_date: 2022-04-14T23:59:59 EST
     position: 6
 user:
   - name: Participation
-    worth: 5
+    worth: 20
     file: assignments/participation.md
     submission: N/A
     breakdown:
     - section: Participation on GitHub
       description: |
-        Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). 
+        Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software.
       worth: 25.0
     - section: Participation in lectures
       description: |
-        Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc.
+        Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Online Lessons have engaging, value adding comments to add to the discussion.  Due April 7th on the last day of classes.
       worth: 25.0
     - section: Team
       description: |
-        Participated in all team work, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). 
+        Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software.
       worth: 50.0
-    due_date: "2021-12-09T23:59:59-05:00"
+    due_date: 2022-04-14T23:59:59 EST
+    multiple_due_dates: true
+    url: false
     position: 7
   - name: Bonus Assignment
     worth: 2
@@ -185,5 +213,5 @@ user:
     - section: Work
       description: General work according to the bonus assignment description
       worth: 100.0
-    due_date: "2021-12-10T23:59:59-05:00"
+    due_date: 2022-04-07T23:59:59 EST
     position: 8

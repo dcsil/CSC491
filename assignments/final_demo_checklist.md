@@ -56,7 +56,7 @@ Explain your choices in your product. For example, if you aim to target medical 
   <h4>Examples:</h4>
 
   - [Javascript example for GitHub Actions CI](https://github.com/integrations/jira/pull/295)
-  - [Ruby example for GitHub Actions CI](https://github.com/dcsil/team_app/blob/master/.github/workflows/ruby.yml)
+  - [Ruby example for GitHub Actions CI](https://github.com/dcsil/learn_software_app/blob/master/.github/workflows/ruby.yml)
 
   </div>
 </details>
