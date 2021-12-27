@@ -7,7 +7,8 @@ As such, you are trusted to make the best choice for yourself and your team.
 
 However, as stated in the [team grade policy](./team_grades.md), team members all receive the same grade unless
 there is an obvious discrepency in the output of work, then as per policy we will be forced to give you a different grade.
-Attendance may be taken into account.
+
+Attendance may be taken into account, specifically if you are consistently late/absent and you cannot work with your team (without talking to the instructor prior to class) you may see your team mark affected.
 
 You must also remember that you are in a team. Your team members are counting on you to do your part. Don't let them down.
 

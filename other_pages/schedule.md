@@ -2,6 +2,7 @@
 
 This is a class schedule indicating what we aim to do each week and the recommended lectures to watch each week. This is broken down by weeks and aims to provide you a general outline of the progress you should make throughout this course.
 
+**NOTE:** Lecture Time is subject to change with the needs of the course, industry partners, instructor, TA, and students. You should always bring a laptop and be ready to work on your project and with your team.
 
 | # | Date | Assignments | Lecture Time | Recommended Async Lectures |
 | -- | -- | -- | -- | -- |
