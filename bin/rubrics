@@ -12,6 +12,14 @@ require 'time'
 
 CLI::UI::StdoutRouter.enable
 
+def format_desc(desc)
+  desc = desc.to_s.chomp
+  # Replace lines that start with - with a list item
+  desc = desc.gsub(/^\s*-\s*(.*?)$/, '<li>\1</li>')
+  desc = desc.gsub(/<li>(.*)<\/li>/m, '<ul><li>\1</li></ul>')
+  desc.gsub("\n", "<br>")
+end
+
 def generate_rubric(assignment)
   toc = ["<!-- RUBRIC START --> \n"]
   toc << "| Section | Description | Worth |"
@@ -20,8 +28,9 @@ def generate_rubric(assignment)
   total = 0
 
   assignment["breakdown"].map do |section|
+    desc = format_desc(section["description"])
     total += section["worth"]
-    toc << "| #{section["section"].to_s.chomp} | #{section["description"].to_s.chomp.gsub("\n", "<br>")} | #{section["worth"].to_s.chomp} |"
+    toc << "| #{section["section"].to_s.chomp} | #{desc} | #{section["worth"].to_s.chomp} |"
   end
 
   if total != 100

@@ -2,7 +2,7 @@
 
 Security is one of the most important aspects of software development. A single mistake can take down entire companies due to data leaks, unauthorized access, and more. This doesn't even account for the potential damage to the users of the software.
 
-This assignment is to find and report a security vulnerability in the DCSIL Team App. **YOU MUST NOT:**
+This assignment is to find and report a security vulnerability in the Learn Software App. **YOU MUST NOT:**
 
 - Access any other students profile or data
 - Assume the identity of another student
@@ -31,7 +31,7 @@ You can find and report as many vulnerabilities as you can, but can only obtain 
 
 ## Submission
 
-Create an issue on [the DCSIL Team App Repo](https://github.com/dcsil/team_app). Note: always look for a security policy before posting so you don't accidentally divulge a vulnerability before it can be fixed. 
+Create an issue on [the Learn Software App Repo](https://github.com/dcsil/learn_software_app). Note: always look for a security policy before posting so you don't accidentally divulge a vulnerability before it can be fixed.
 
 ## Rubric
  

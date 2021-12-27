@@ -5,6 +5,7 @@ Participation is an important aspect of this course. As the course is a very exp
 You are expected to be active in the following:
 
 - GitHub Issues for your team
+- Team Standups via the LearnSoftware app
 - Contributing (commits and PRs) to the repositories your team creates (it doesn't have to be all of them if you make multiple!)
 - Online Lectures Chat
 - The DCSIL-hosted Slack
@@ -13,15 +14,20 @@ You are expected to be active in the following:
 
 It is _very_ important that you are meaningfully active on your team's GitHub repositories. If it is noticed that you are not participating at all, we'll have a talk to discuss the issue. If you do not correct for these actions, you may be subject to losing participation marks in CSC454/2527 as well.
 
+Teams are required to enable and set up standups. CSC491 Students are required to answer the standups at least 8 of the 12 weeks, though they are recommended to answer every week for their team's benefit.
+
 I am not expecting you to be super outgoing (I'm certainly not the most outgoing myself) but I do expect you to be actively participating when you can. If there are concerns, please let me know in private so we can discuss any issues. Nothing here should be a surprise for you at the end of the term.
 
 Note that some of these can be easily tracked (GitHub issues, Pull Requests, commenting on lectures, Slack Messages) and some of this will be based on observations from the teaching staff. We will also be expecting that you provide a written paragraph summarizing your participation.
 #### Requirements for Participation
 
-**Students are required to comment on the "Participation" assignment on the Learn Software app**. It must include a paragraph outlining:
-- An overview of the work they did for all team projects and assignments
-- An overview of work other CSC491/2600 students did for the CSC491/2600 assignments
-- A general sentiment if you think the work was split fairly
+- Teams are required to enable and set up standups. CSC491 Students are required to answer the standups at least 8 of the 12 weeks, though they are recommended to answer every week for their team's benefit.
+  - Standups must include the questions "What did you work on since the last update?" and "What do you plan to work on next?"
+- Students are required to check off all participation list items on https://learnsoftware.engineering/participation
+- Students are required to comment on the "Participation" assignment on the Learn Software app. It must include a paragraph outlining:
+  - An overview of the work they did for all team projects and assignments
+  - An overview of work other CSC491/2600 students did for the CSC491/2600 assignments
+  - A general sentiment if you think the work was split fairly
 
 _This entry is private and only the teaching staff can see it_. Participation will be marked as 0 for all sections on which it is indicated below.
 
@@ -35,16 +41,16 @@ In assignment 1 you will create a principles document outlining how often your t
 
 | Section | Description | Worth |
 | --- | --- | --- |
-| Participation on GitHub | Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).  | 25.0 |
-| Participation in lectures | Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. | 25.0 |
-| Team | Participated in all team work, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).  | 50.0 |
+| Participation on GitHub | Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software. | 25.0 |
+| Participation in lectures | Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Online Lessons have engaging, value adding comments to add to the discussion.  Due April 7th on the last day of classes. | 25.0 |
+| Team | Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software. | 50.0 |
 | | **Total:** | 100 |
 
  <!-- RUBRIC END -->
 
 ## Submission
 
-You must submit a comment on the "Participation Assignment" in the LearnSoftware app by the due date (11:59:59pm on the last day of class). This comment should explain how you participated and help me corraborate the work I see in GitHub, Slack, and Class.
+You must submit a comment on the "Participation Assignment" in the LearnSoftware app by the final due date (11:59:59pm on the last day of class). This comment should explain how you participated and help me corraborate the work I see in GitHub, Slack, and Class.
 
 ## Questions or Concerns?
 
