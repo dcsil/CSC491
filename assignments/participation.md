@@ -41,16 +41,16 @@ In assignment 1 you will create a principles document outlining how often your t
 
 | Section | Description | Worth |
 | --- | --- | --- |
-| Participation on GitHub | Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). | 25.0 |
-| Participation in lectures | Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Online Lessons have engaging, value adding comments to add to the discussion. | 25.0 |
-| Team | Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). | 50.0 |
+| Participation on GitHub | Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software. | 25.0 |
+| Participation in lectures | Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Online Lessons have engaging, value adding comments to add to the discussion.  Due April 7th on the last day of classes. | 25.0 |
+| Team | Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software. | 50.0 |
 | | **Total:** | 100 |
 
  <!-- RUBRIC END -->
 
 ## Submission
 
-You must submit a comment on the "Participation Assignment" in the LearnSoftware app by the due date (11:59:59pm on the last day of class). This comment should explain how you participated and help me corraborate the work I see in GitHub, Slack, and Class.
+You must submit a comment on the "Participation Assignment" in the LearnSoftware app by the final due date (11:59:59pm on the last day of class). This comment should explain how you participated and help me corraborate the work I see in GitHub, Slack, and Class.
 
 ## Questions or Concerns?
 
