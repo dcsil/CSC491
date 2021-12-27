@@ -149,6 +149,7 @@ team:
       worth: 30
     due_date: 2022-04-07T23:59:59 EST
     multiple_due_dates: true
+    url: false
     position: 6
     number: 6
   - name: Software
