@@ -11,3 +11,4 @@ These are the policies for this course.
 - [Audio + Video Recording](./recording.md)
 - [Support & Accomodation](./support_accomodation.md)
 - [Team Grades](./team_grades.md)
+- [Repos](./repositories.md)
