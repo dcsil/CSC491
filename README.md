@@ -23,6 +23,7 @@ University of Toronto's Capstone Design Course through the [Department of Comput
    - [Plagiarism](./policies/plagiarism.md)
    - [Support and Accomodation](./policies/support_accomodation.md)
    - [Team Grades](./policies/team_grades.md)
+   - [Repos](./policies/repositories.md)
 
 
 ## Course Overview
