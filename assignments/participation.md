@@ -48,6 +48,8 @@ In assignment 1 you will create a principles document outlining how often your t
 
  <!-- RUBRIC END -->
 
+Please note that each section may not be split evenly between different aspects listed in that section. For example, you may have adequate issues made, but not have PRs submitted. You may be penalized more than 1/2 of that section's marks. This is up to the sole discretion of the instructor.
+
 ## Submission
 
 You must submit a comment on the "Participation Assignment" in the LearnSoftware app by the final due date (11:59:59pm on the last day of class). This comment should explain how you participated and help me corraborate the work I see in GitHub, Slack, and Class.
