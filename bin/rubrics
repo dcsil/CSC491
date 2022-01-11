@@ -18,7 +18,7 @@ def format_desc(desc)
   desc = desc.gsub(/^\s*-\s*(.*?)$/, '<li>\1</li>')
   desc = desc.gsub(/\n\n\*\*(.*?)\*\*/, '</ul>**\1**<ul>') # Handle titles, e.g. create new lists
   desc = desc.gsub(/<li>(.*)<\/li>/m, '<ul><li>\1</li></ul>')
-  desc.gsub("\n", "<br>")
+  desc.gsub("\n", "<br>").gsub("</li><br>", "</li>")
 end
 
 def generate_rubric(assignment)
