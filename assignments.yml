@@ -189,18 +189,30 @@ user:
     file: assignments/participation.md
     submission: N/A
     breakdown:
-    - section: Participation on GitHub
+    - section: General
       description: |
-        Participated in GitHub Issues & Submitted GitHub PRs. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software.
-      worth: 25.0
-    - section: Participation in lectures
-      description: |
-        Participated in and viewed online lectures, attended and engaged in class presentations, demos, etc. Online Lessons have engaging, value adding comments to add to the discussion.  Due April 7th on the last day of classes.
-      worth: 25.0
-    - section: Team
-      description: |
-        Participated in all team work, answered at least 8 weeks of standups thoughtfully, adhered to team principles, etc. Paragraph is provided in the LearnSoftware application (-100% on this section if not provided). Due April 14th as you pass in your software.
-      worth: 50.0
+        **Participation on GitHub**
+
+        - Participated in GitHub Issues & Submitted GitHub PRs.
+        - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
+        - Due April 14th as you pass in your software.
+      
+        **Participation in lectures/courses**
+
+        - Participated in and viewed online lectures/course, attended and engaged in class presentations, demos, etc.
+        - Online Lessons have engaging, value adding comments to add to the discussion.
+        - Joined and set up profile on LearnSoftware on time.
+        - Team formation started/finished on time.
+        - Due April 7th on the last day of classes.
+
+        **Team**
+        
+        - Participated in all team work
+        - Answered at least 8 weeks of standups thoughtfully
+        - Adhered to team principles, etc.
+        - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
+        - Due April 14th as you pass in your software.
+      worth: 100.0
     due_date: 2022-04-14T23:59:59 EST
     multiple_due_dates: true
     has_url: false
