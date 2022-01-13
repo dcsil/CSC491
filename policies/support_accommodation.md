@@ -1,4 +1,4 @@
-Support and Accomodations
+Support and Accommodations
 ---
 
 Students with diverse learning styles and needs are welcome in this course. Students who have a

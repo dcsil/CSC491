@@ -20,7 +20,7 @@ NOTE: This policy is slightly different for synchronous demos. Please see that a
 
 ### Asking for an Extension
 
-- Accomodations can be made by talking to the instructor. They are not guaranteed, however, but we do like to model a startup so they usually are acceptable! :)
+- Accommodations can be made by talking to the instructor. They are not guaranteed, however, but we do like to model a startup so they usually are acceptable! :)
 - Extensions that are requested within 6 hours of the due date will incur a penalty of 1 day, so please do not wait until the last minute to communicate with the instructor.
 
 ### Compounding assignments

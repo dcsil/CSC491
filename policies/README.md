@@ -9,6 +9,6 @@ These are the policies for this course.
 - [Midterms & Exams](./midterms_and_exams.md) (hint: there are none)
 - [Plagiarism](./plagiarism.md)
 - [Audio + Video Recording](./recording.md)
-- [Support & Accomodation](./support_accomodation.md)
+- [Support & Accommodation](./support_accommodation.md)
 - [Team Grades](./team_grades.md)
 - [Repos](./repositories.md)
