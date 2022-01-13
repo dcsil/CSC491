@@ -21,9 +21,10 @@ University of Toronto's Capstone Design Course through the [Department of Comput
    - [Late Policy](./policies/late_policy.md)
    - [Midterms & Exams](./policies/midterms_and_exams.md)
    - [Plagiarism](./policies/plagiarism.md)
-   - [Support and Accomodation](./policies/support_accomodation.md)
+   - [Support and Accommodation](./policies/support_accommodation.md)
    - [Team Grades](./policies/team_grades.md)
    - [Repos](./policies/repositories.md)
+
 
 
 ## Course Overview
