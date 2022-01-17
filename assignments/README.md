@@ -14,7 +14,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [Assignment 4](../assignments/a4.md)  | A4 - UX Research w/Prototype, Roadmap Updates | 8% | repo | March 01, 2022 |
 | [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 8% | repo | March 10, 2022 |
 | [Assignment 6](../assignments/a6.md)  | A6 - Class Demos | 6% | class | Multiple Due Dates |
-| [Software](../assignments/a7.md)  | Software | 40% | repo | April 14, 2022 |
+| [Software](../assignments/a7.md)  | Software | 40% | repo | April 08, 2022 |
 | [Participation](../assignments/participation.md)  | Participation | 20% | N/A | Multiple Due Dates |
 | [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | April 07, 2022 |
 | | **Total** | 100% (+2%) | | |
