@@ -181,7 +181,7 @@ team:
     - section: "[Assignment Meta] Video"
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
       worth: 5.0
-    due_date: 2022-04-14T23:59:59 EST
+    due_date: 2022-04-08T23:59:59 EST
     position: 6
 user:
   - name: Participation
@@ -213,7 +213,7 @@ user:
         - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
         - Due April 14th as you pass in your software.
       worth: 100.0
-    due_date: 2022-04-14T23:59:59 EST
+    due_date: 2022-04-08T23:59:59 EST
     multiple_due_dates: true
     has_url: false
     position: 7
