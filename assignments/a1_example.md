@@ -25,9 +25,9 @@ We are all here to support each other. We are a TEAM! Not just a group.
 #### **Work**:
 
 - We are all there to support each other on the work involved for this course.
-- We will try our best to delegate work evenly during our team meetings. This delegated work will be recorded on github issues.
+- We will try our best to delegate work evenly during our team meetings. This delegated work will be recorded on GitHub issues.
 - If something comes up, or the work is proving to be more time consuming and difficult than anticipated, then members are expected to let the team know. They will be able to help out.
-- Team members are expected to also complete work with a resonable amount of time for the other members to review and discuss (can use pull requests and tags in issue comments to coordinate this). This means that last minute submissions of work are not ideal, since it is difficult to do this. 
+- Team members are expected to also complete work with a reasonable amount of time for the other members to review and discuss (can use pull requests and tags in issue comments to coordinate this). This means that last minute submissions of work are not ideal, since it is difficult to do this. 
  
 #### **Other issues**:
 

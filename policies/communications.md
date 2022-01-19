@@ -12,6 +12,7 @@ You will see a theme throughout this course centred around communication. This i
 - You will use GitHub Issues to communicate with your team and show your work throughout the term
 - Missing demos and other aspects of the class can and will be penalized _if you do not communicate in advance_. I cannot stress this enough - this class is very accommodating of your time and schedule, granted you respect the time of others (including the teaching staff).
 - The class is not that large, I know who is attending lectures. I expect you to be able to communicate your needs - are you going to be late due to work? Are you going to be late because you have a class on the other side of campus? Talk to me, and we it won't be an issue.
+
 ### Methods of Communication
 
 There are, just as you will find in a startup, various methods of communication. Please hold group online discussions on Quercus, Slack or another tool of your choosing. You will receive invites during the first week of the course. Likewise, Zoom will be used at points during this course. Please ensure you have it installed and signed into an account.

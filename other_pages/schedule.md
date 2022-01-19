@@ -10,7 +10,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 2 | Thursday, January 20 2022   | ❗A1 Due | AI Tutorial | Various Diversity & Inclusion |
 | 3 | Thursday, January 27 2022   | ❗A2 Due | Discussions around Diversity | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
 | 4 | Thursday, February 3 2022   | - | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
-| 5 | Thursday, February 10 2022  | ❗A3 Due | Work in Class | UX Reasearch + Data Bias |
+| 5 | Thursday, February 10 2022  | ❗A3 Due | Work in Class | UX Research + Data Bias |
 | 6 | Thursday, February 17 2022  | ❗A6 Demo (1/4) | Work in Class | Infrastructure, Prod Eng, Production, etc |
 | 7 | Thursday, February 24 2022  | - | NO CLASS - Reading Week | - | 
 | - | Tuesday, March 1 2022       | ❗A4 Due | | |

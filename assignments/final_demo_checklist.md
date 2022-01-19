@@ -55,7 +55,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
   <h4>Examples:</h4>
 
-  - [Javascript example for GitHub Actions CI](https://github.com/integrations/jira/pull/295)
+  - [JavaScript example for GitHub Actions CI](https://github.com/integrations/jira/pull/295)
   - [Ruby example for GitHub Actions CI](https://github.com/dcsil/learn_software_app/blob/master/.github/workflows/ruby.yml)
 
   </div>
@@ -71,7 +71,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
   Write a script named `script/bootstrap`, it should setup much of your system for you.
 
-  It is fine if the script targets one operating system (mac, linux, or windows).
+  It is fine if the script targets one operating system (mac, Linux, or windows).
   
   Make note of this script in the README of your app. If you have a getting started guide, this can be in there but you should make sure that that guide is mentioned in the README.
   
@@ -79,7 +79,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 
   <h4>Examples:</h4>
 
-  - [Javascript and Node](https://github.com/integrations/jira/blob/master/script/bootstrap)
+  - [JavaScript and Node](https://github.com/integrations/jira/blob/master/script/bootstrap)
     - this uses `brew bundle`, which comes from https://brew.sh/
     - `brew bundle` installed everything from the [`Brewfile`](https://github.com/integrations/jira/blob/master/Brewfile)
 
@@ -93,7 +93,7 @@ Explain your choices in your product. For example, if you aim to target medical 
 <details markdown="1">
   <div class="details-box">
 
-  You can deploy to Heroku really easily with Ruby, Javascript, Python, Go, PHP, and other languages.
+  You can deploy to Heroku really easily with Ruby, JavaScript, Python, Go, PHP, and other languages.
     - You only need the hobby dyno
     - I would recommend Postgres as there is a free hobby database you can use
     - This is not good to host your machine learning experiments
@@ -214,7 +214,7 @@ A presentation can be made up of many parts and serves to tell a story. In this 
 - When you choose to include presentations slides, they should have been made to lend themselves to telling the story.
 - Slides aren't strictly required but are the easiest way to get visuals
 - Tells a good story, includes human engagement. Story isn't elaborate and everything is concise.
-- Uses a combionation of visuals and spoken word to tell the story
+- Uses a combination of visuals and spoken word to tell the story
 - Make sure to keep a good pace. You're all smart and knowledgeable, you don't need to be nervous and speak fast!
 - Anything presented (visuals, graphs, etc) that aren't used in the story detract from the story. They will lose you points.
 - Make sure your images don't overlap text and vice versa.

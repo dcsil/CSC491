@@ -22,7 +22,7 @@ Note that some of these can be easily tracked (GitHub issues, Pull Requests, com
 #### Requirements for Participation
 
 - Students are required to set up their LearnSoftware profile including Resume & Ballot, Avatar, and other profile preferences by EOD January 14th
-- Students make a demonstratable effort to join a team by EOD January 15th
+- Students make a demonstrable effort to join a team by EOD January 15th
 - Teams are required to enable and set up standups. CSC491 Students are required to answer the standups at least 8 of the 12 weeks, though they are recommended to answer every week for their team's benefit.
   - Standups must include the questions "What did you work on since the last update?" and "What do you plan to work on next?"
 - Students are required to check off all participation list items on https://learnsoftware.engineering/participation
@@ -43,7 +43,7 @@ In assignment 1 you will create a principles document outlining how often your t
 
 | Section | Description | Worth |
 | --- | --- | --- |
-| General | **Participation on GitHub**<br><ul><li>Participated in GitHub Issues & Submitted GitHub PRs.</li><li>Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).</li><li>Due April 14th as you pass in your software.</li></ul>**Participation in lectures/courses**<ul><br><li>Participated in and viewed online lectures/course, attended and engaged in class presentations, demos, etc.</li><li>Online Lessons have engaging, value adding comments to add to the discussion.</li><li>Joined and set up profile on LearnSoftware on time.</li><li>Team formation started/finished on time.</li><li>Due April 7th on the last day of classes.</li></ul>**Team**<ul><br><li>Participated in all team work</li><li>Answered at least 8 weeks of standups thoughtfully</li><li>Adhered to team principles, etc.</li><li>Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).</li><li>Due April 14th as you pass in your software.</li></ul> | 100.0 |
+| General | **Participation on GitHub**<br>{::nomarkdown}<ul><li>Participated in GitHub Issues & Submitted GitHub PRs.</li><li>Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).</li><li>Due April 14th as you pass in your software.</li></ul><strong>Participation in lectures/courses</strong><ul><li>Participated in and viewed online lectures/course, attended and engaged in class presentations, demos, etc.</li><li>Online Lessons have engaging, value adding comments to add to the discussion.</li><li>Joined and set up profile on LearnSoftware on time.</li><li>Team formation started/finished on time.</li><li>Due April 7th on the last day of classes.</li></ul><strong>Team</strong><ul><li>Participated in all team work</li><li>Answered at least 8 weeks of standups thoughtfully</li><li>Adhered to team principles, etc.</li><li>Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).</li><li>Due April 14th as you pass in your software.</li></ul>{:/} | 100.0 |
 | | **Total:** | 100 |
 
  <!-- RUBRIC END -->
@@ -52,7 +52,7 @@ Please note that each section may not be split evenly between different aspects 
 
 ## Submission
 
-You must submit a comment on the "Participation Assignment" in the LearnSoftware app by the final due date (11:59:59pm on the last day of class). This comment should explain how you participated and help me corraborate the work I see in GitHub, Slack, and Class.
+You must submit a comment on the "Participation Assignment" in the LearnSoftware app by the final due date (11:59:59pm on the last day of class). This comment should explain how you participated and help me corroborate the work I see in GitHub, Slack, and Class.
 
 ## Questions or Concerns?
 
