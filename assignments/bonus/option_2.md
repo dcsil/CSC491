@@ -23,7 +23,7 @@ You can find and report as many vulnerabilities as you can, but can only obtain 
 - Be a vulnerability of adequate impact that:
   - Gains unauthorized access
   - Privilege escalation (make the system think you're an instructor or admin)
-  - Data leaks or maniupulations
+  - Data leaks or manipulations
   - XSS, CSRF, etc
   - Unauthorized redirects
   - other similar kinds of attacks

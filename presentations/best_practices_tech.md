@@ -16,7 +16,7 @@ marp: true
 
 # What are best practices?
 
-There are so many opinions on this topic that none of them are right. This lecture will cover some pro-tips on how to naviate this field
+There are so many opinions on this topic that none of them are right. This lecture will cover some pro-tips on how to navigate this field
 
 ---
 
@@ -33,7 +33,7 @@ There are so many opinions on this topic that none of them are right. This lectu
 # High Level Agenda
 
 - Languages & Frameworks
-  - Ruby, Python, Javascript, PHP, Java, C, C++, Rust, Golang, R, etc
+  - Ruby, Python, JavaScript, PHP, Java, C, C++, Rust, Golang, R, etc
 - Testing
   - The different types of tests
   - When to reach for what
@@ -66,7 +66,7 @@ If you're lucky, you'll end up with a full department dedicated to these areas
 - Examples include:
   - Ruby
   - Python
-  - Javascript
+  - JavaScript
   - PHP
   - Scala
   - R
@@ -107,7 +107,7 @@ GitHub Report showing fastest growing languages:
 - Examples include:
   - Ruby : Ruby on Rails, System Scripts
   - Python : Django, Machine Learning
-  - Javascript : Node, React, Vue, Angular, .....
+  - JavaScript : Node, React, Vue, Angular, .....
   - PHP : Laravel
   - Scala : Machine Learning and Data Analysis
   - R : Machine Learning and Data Analysis
@@ -280,7 +280,7 @@ What percent coverage should you aim for?
 
 # Linting
 
-> lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
+> lint, or a linter, is a tool that analyses source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
 
 ```shell
 ~/src/github.com/dcsil/team-app(master) ➜ rubocop
@@ -437,7 +437,7 @@ The basic parts of a CI system are:
 - Examples include: Redis and Memcache
 - Depends on your use case.
    - Example: Redis is good for smaller datasets and can use 1 core
-   - Example: Memcached is better on a larger dataset, worse per-core performance, but can use multiple cores
+   - Example: Memcache is better on a larger dataset, worse per-core performance, but can use multiple cores
 
 ---
 
@@ -481,6 +481,6 @@ The basic parts of a CI system are:
 - [Locust.io](https://locust.io/)
 - [Lint (Software)](https://en.wikipedia.org/wiki/Lint_(software))
 - [LGTM from Semmle Example](https://lgtm.com/projects/g/ampproject/amphtml/snapshot/14823e4d72668cf89932b8ede8895830a18cd3f9/files/build-system/app.js?sort=name&dir=ASC&mode=heatmap)
-- [Redis vs Memcached](https://medium.com/@Alibaba_Cloud/redis-vs-memcached-in-memory-data-storage-systems-3395279b0941)
+- [Redis vs Memcache](https://medium.com/@Alibaba_Cloud/redis-vs-memcached-in-memory-data-storage-systems-3395279b0941)
 - [GitHub report on top languages](https://octoverse.github.com/)
 - [Developer Productivity](https://www.notion.so/jnadeau/Developer-Productivity-37a01aed957a44b8ad20cb2a297d6c01)

@@ -78,7 +78,7 @@ This is a phrase that was coined by Google: https://landing.google.com/sre/
 
 # What is Production Engineering?
 
-- **Predict and analyze the demand** Select among scientific and technological appropriate knowledge in order to design, redesign or improve product/service functionality
+- **Predict and analyse the demand** Select among scientific and technological appropriate knowledge in order to design, redesign or improve product/service functionality
 - **Incorporate concepts and quality techniques** along all the productive system. Deploy organizational standards for control proceedings and auditing
 - **Stay up-to-date with technological developments**, enabling them to enterprises and society
 
@@ -199,7 +199,7 @@ This section will focus on teams and skillsets I've experienced while working at
 ## Datastores
 
 - **Databases**: Typically handles MySQL, Postgres, etc.
-- **Caching**: Typically handles Redis, Memcached, and other Cache systems.
+- **Caching**: Typically handles Redis, Memcache, and other Cache systems.
 - **Queueing**: Typically handles Redis (as a queue), RabbitMQ, and other queue systems.
 - For each of these systems, the respective team will manage scaling it, making it easily available where it needs to be, and ensuring that apps don't abuse limits.
 
@@ -254,7 +254,7 @@ Sometimes when your company gets big enough, it starts to drive the full feature
 
 Both GitHub and Shopify employ core contributors to Ruby and Rails teams. This allows them to remove painful parts that reduce productivity of their own engineers, but also give it back to the world through open source.
 
-A recent example can be seen in Rails 6. GitHub has a multi-database configuration, Rails did not support this. GitHub's engineer, Eileen, worked tirelessly with her team to integrate this functionality in the Rails framework. Now everyone gets to use this feature for free and GitHub doesnt have to maintain something that only they use. 
+A recent example can be seen in Rails 6. GitHub has a multi-database configuration, Rails did not support this. GitHub's engineer, Eileen, worked tirelessly with her team to integrate this functionality in the Rails framework. Now everyone gets to use this feature for free and GitHub doesn't have to maintain something that only they use. 
 
 ---
 
@@ -274,7 +274,7 @@ A few main ways to host apps:
 
 ## Cloud Providers
 
-- Examples include AWS, Azure, Google Cloud, Digitalocean 
+- Examples include AWS, Azure, Google Cloud, DigitalOcean 
 - Provide servers that they manage, sometimes managed services like databases
 - Somewhat expensive
 - Some work involved
@@ -296,7 +296,7 @@ A few main ways to host apps:
 
 - Examples include Heroku, and most cloud providers
 - Provide the entire stack to host your app
-  - You choose which add-ons to use (like databases, redis, etc)
+  - You choose which add-ons to use (like databases, Redis, etc)
 - Most expensive
 - Least amount of work
 
@@ -308,7 +308,7 @@ A few main ways to host apps:
 
 # Oncall Schedules
 
-- An industry standard is to use Pagerduty
+- An industry standard is to use PagerDuty
 - A fancy notification service that takes alerts from your systems and alerts/wakes up an engineer to fix a problem
 
 ---

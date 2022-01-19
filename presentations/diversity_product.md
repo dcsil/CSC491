@@ -15,7 +15,7 @@ marp: true
 
 This is a soap dispenser. It dispenses soap without touching the dispenser.
 
-Resitent bacteria can spread, despite the immediate hand washing, this prevents that. This is especially useful in hospitals.
+Resistant bacteria can spread, despite the immediate hand washing, this prevents that. This is especially useful in hospitals.
 
 **What an innovation!** What is the problem with this?
 
@@ -71,7 +71,7 @@ Cars in the mid 20th century were designed for the 50th percentile of men. This 
 
 ![width:300 legend:A car accident || Photo by Matthew T Rader on Unsplash](./img/diversity/car_accident.jpg)
 
-It wasn't until **2011** that companies started testing with female-sized crash test dummies. Many vehicles still aren't as safe due to decades-established prejudist design practices.
+It wasn't until **2011** that companies started testing with female-sized crash test dummies. Many vehicles still aren't as safe due to decades-established prejudice design practices.
 
 ---
 
@@ -81,7 +81,7 @@ Other examples of potential problems include:
 
 - AI being trained on men
     - AI robots used for operations in hospitals couldn't respond to a woman's voice
-    - Hello Barbie! barbie doll couldn't respond to a child's voice
+    - Hello Barbie! Barbie doll couldn't respond to a child's voice
 - Google's Image labelling AI labelled black people as gorillas
 - Apple Health Kit failed to include a feature for ~50% of the population until iOS 9... period tracking
     - They finally added it to Apple Watch in 2019
@@ -92,7 +92,7 @@ Other examples of potential problems include:
 
 Other examples of potential problems include:
 
-- Youtube, when it first started, had an issue where 5-10% of their videos were uploaded upside down due to left handed users
+- YouTube, when it first started, had an issue where 5-10% of their videos were uploaded upside down due to left handed users
     - Their team was mostly right-handed people
 - In the 1950s, Kodak developed a colour calibration card with a white woman
     - Took until the 1970s until the realized it had an impact on dark-skinned users

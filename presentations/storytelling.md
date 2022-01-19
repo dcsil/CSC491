@@ -34,7 +34,7 @@ This practice of storytelling has remain unchanged. We are all storytellers, whe
 
 The poet laureate Randall Jarrell, describes a story as being a chain of events that begins at one place and ends at another “without any essential interruption.”
 
-Mark Twain, a famour author, agreed. His first rule of writing was “that a tale shall accomplish something and arrive somewhere.”
+Mark Twain, a famous author, agreed. His first rule of writing was “that a tale shall accomplish something and arrive somewhere.”
 
 ---
 
@@ -354,7 +354,7 @@ def grade_assignment(params)
 end
 ```
 
-This is a small psuedo-code that you can probably read, but it takes some effort. The writer didn't think of the story they wanted to tell: we are grading an assignment. Let's fix it.
+This is a small pseudocode that you can probably read, but it takes some effort. The writer didn't think of the story they wanted to tell: we are grading an assignment. Let's fix it.
 
 ---
 

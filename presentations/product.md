@@ -66,7 +66,7 @@ While product can encompass a lot more, we're going to talk about the basics: A 
 
 ![height:300px legend:Image of the North Star](./img/product/north_star.jpeg)
 
-The North Star has guided travelers for centuries. It is a reference point for which to position and "advise" your path forward.
+The North Star has guided travellers for centuries. It is a reference point for which to position and "advise" your path forward.
 
 ---
 

@@ -1,7 +1,7 @@
 Plagiarism
 ---
 
-The University of Toronto treats plagiarism as a violation of the Code of Behavior on Academic Matters.
+The University of Toronto treats plagiarism as a violation of the Code of Behaviour on Academic Matters.
 Plagiarism is a serious form of cheating in which a student makes use of someone else’s ideas or words
 without giving appropriate attribution. In your academic work, plagiarism usually occurs in one of three
 ways:

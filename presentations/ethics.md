@@ -91,7 +91,7 @@ Discuss.
 
 ---
 
-# How do we determine ethics anyways?
+# How do we determine ethics anyway?
 
 There are a few factors that will affect your values and ethics:
 
@@ -103,7 +103,7 @@ Remember, slavery was legal though... the law isn't where we end.
 
 ---
 
-# How do we determine ethics anyways?
+# How do we determine ethics anyway?
 
 ### 2. Your own ethics / Company-decided ethics
 
@@ -111,7 +111,7 @@ Once you have the base legal ethics in place, you'll define your own values. Thi
 
 ---
 
-# How do we determine ethics anyways?
+# How do we determine ethics anyway?
 
 ### 3. Your customers
 

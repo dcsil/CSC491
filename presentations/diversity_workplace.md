@@ -88,7 +88,7 @@ Let's look at some different scenarios where we may see diversity issues come in
 
 ---
 
-Pyschological Safety in individuals is very important. This allows employees to bring their full experience and skills to work and provide their best.
+Psychological Safety in individuals is very important. This allows employees to bring their full experience and skills to work and provide their best.
 
 ---
 
@@ -102,7 +102,7 @@ This will stunt the company's ability to allow their employees to contribute the
 
 ---
 
-A Harvard Business Review study found that “without diverse leadership, women are 20% less likely than straight white men to win endorsement for their ideas; people of color are 24% less likely; and [those who identify as] LGBT are 21% less likely.”
+A Harvard Business Review study found that “without diverse leadership, women are 20% less likely than straight white men to win endorsement for their ideas; people of colour are 24% less likely; and [those who identify as] LGBT are 21% less likely.”
 
 ---
 
@@ -112,7 +112,7 @@ A Harvard Business Review study found that “without diverse leadership, women 
 
 Training employees is expensive. You hire individuals at a full salary and then they spend a significant portion of time learning how to exist at your company.
 
-Not only that, it can take many months for an individual to feel like they know enough to fully participate in dicussions.
+Not only that, it can take many months for an individual to feel like they know enough to fully participate in discussions.
 
 ---
 
@@ -159,7 +159,7 @@ But diversity and inclusion play a role here too.
 
 ---
 
-> People of color and white women have to twist and turn themselves to fit the white, male expectations of corporate America
+> People of colour and white women have to twist and turn themselves to fit the white, male expectations of corporate America
 
 - _https://www.businessinsider.com/how-poc-white-women-twist-themselves-white-male-corporate-america-2020-7_
 

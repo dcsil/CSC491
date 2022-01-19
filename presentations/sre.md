@@ -77,7 +77,7 @@ This is a phrase that was coined by Google: https://landing.google.com/sre/
 
 # What is Production Engineering?
 
-- **Predict and analyze the demand** Select among scientific and technological appropriate knowledge in order to design, redesign or improve product/service functionality
+- **Predict and analyse the demand** Select among scientific and technological appropriate knowledge in order to design, redesign or improve product/service functionality
 - **Incorporate concepts and quality techniques** along all the productive system. Deploy organizational standards for control proceedings and auditing
 - **Stay up-to-date with technological developments**, enabling them to enterprises and society
 
@@ -112,7 +112,7 @@ This generally scales poorly as you must employ an increasing number of operatio
 
 Personally, I'm not a fan of operations-style management of production systems. It doesn't scale very well and it requires people to do things that servers are better, and less error-prone, at - click and type configuration.
 
-This may be easier at the beginnging though. Hiring a contractor or part time person who's job it is to keep the servers running is much easier. When you have few servers this is a very isolatable role from the rest of your product team and lets you focus on your product.
+This may be easier at the beginning though. Hiring a contractor or part time person who's job it is to keep the servers running is much easier. When you have few servers this is a very isolatable role from the rest of your product team and lets you focus on your product.
 
 ---
 
@@ -198,7 +198,7 @@ This section will focus on teams and skillsets I've experienced while working at
 ## Datastores
 
 - **Databases**: Typically handles MySQL, Postgres, etc.
-- **Caching**: Typically handles Redis, Memcached, and other Cache systems.
+- **Caching**: Typically handles Redis, Memcache, and other Cache systems.
 - **Queueing**: Typically handles Redis (as a queue), RabbitMQ, and other queue systems.
 - For each of these systems, the respective team will manage scaling it, making it easily available where it needs to be, and ensuring that apps don't abuse limits.
 
@@ -253,7 +253,7 @@ Sometimes when your company gets big enough, it starts to drive the full feature
 
 Both GitHub and Shopify employ core contributors to Ruby and Rails teams. This allows them to remove painful parts that reduce productivity of their own engineers, but also give it back to the world through open source.
 
-A recent example can be seen in Rails 6. GitHub has a multi-database configuration, Rails did not support this. GitHub's engineer, Eileen, worked tirelessly with her team to integrate this functionality in the Rails framework. Now everyone gets to use this feature for free and GitHub doesnt have to maintain something that only they use. 
+A recent example can be seen in Rails 6. GitHub has a multi-database configuration, Rails did not support this. GitHub's engineer, Eileen, worked tirelessly with her team to integrate this functionality in the Rails framework. Now everyone gets to use this feature for free and GitHub doesn't have to maintain something that only they use. 
 
 ---
 

@@ -16,7 +16,7 @@ Assignments will be accepted up to 5 days past the due date at -10% per day.
 | 5 | -50% |
 | 6+ | -100% |
 
-NOTE: This policy is slightly different for synchronous demos. Please see that assignment for futher details on the late policy.
+NOTE: This policy is slightly different for synchronous demos. Please see that assignment for further details on the late policy.
 
 ### Asking for an Extension
 
