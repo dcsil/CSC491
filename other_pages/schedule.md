@@ -13,9 +13,9 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 5 | Thursday, February 10 2022  | ❗A3 Due | Work in Class | UX Research + Data Bias |
 | 6 | Thursday, February 17 2022  | ❗A6 Demo (1/4) | Work in Class | Infrastructure, Prod Eng, Production, etc |
 | 7 | Thursday, February 24 2022  | - | NO CLASS - Reading Week | - | 
-| - | Tuesday, March 1 2022       | ❗A4 Due | Infrastructure as Code Tutorial - Part 1 | |
-| 8 | Thursday, March 3 2022      | - | Infrastructure as Code Tutorial - Part 2 | Ethics and Accessibility | 
-| 9 | Thursday, March 10 2022     | ❗A5 Due<br>❗A6 Demo (2/4) | Work in Class | Guest Speaker | - | 
+| - | Tuesday, March 1 2022       | ❗A4 Due |  | |
+| 8 | Thursday, March 3 2022      | - | Infrastructure as Code Tutorial - Part 1 | Ethics and Accessibility | 
+| 9 | Thursday, March 10 2022     | ❗A5 Due<br>❗A6 Demo (2/4) | Infrastructure as Code Tutorial - Part 2 / Work in Class | Guest Speaker | - | 
 | 10 | Thursday, March 17 2022    | - | - | - | 
 | 11 | Thursday, March 24 2022    | ❗A6 Demo (3/4) | Work in Class | - | 
 | 12 | Thursday, March 31 2022    | - | Work in Class | - | 
