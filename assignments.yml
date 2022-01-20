@@ -18,7 +18,7 @@ team:
         The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc.
         The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
       worth: 70.0
-    due_date: 2022-01-20T23:59:59-04:00
+    due_date: 2022-01-20T23:59:59 EST
     position: 1
     number: 1
   - name: A2 - Team Exploration - Diversity and Inclusion
