@@ -8,15 +8,15 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | -- | -- | -- | -- | -- |
 | 1 | Thursday, January 13 2022   | - | First day of class, Introductions & Course Overview | Story Telling |
 | 2 | Thursday, January 20 2022   | ❗A1 Due | Blockchain Tutorial | Various Diversity & Inclusion |
-| 3 | Thursday, January 27 2022   | ❗A2 Due | Discussions around Diversity | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
+| 3 | Thursday, January 27 2022   | ❗A2 Due | Guest Speaker | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
 | 4 | Thursday, February 3 2022   | - | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
-| 5 | Thursday, February 10 2022  | ❗A3 Due | Work in Class | UX Research + Data Bias |
+| 5 | Thursday, February 10 2022  | ❗A3 Due | [CI & Testing Lecture](https://csc491.dcsil.ca/presentations/output/ci/index.html#0) | UX Research + Data Bias |
 | 6 | Thursday, February 17 2022  | ❗A6 Demo (1/4) | Work in Class | Infrastructure, Prod Eng, Production, etc |
 | 7 | Thursday, February 24 2022  | - | NO CLASS - Reading Week | - | 
 | - | Tuesday, March 1 2022       | ❗A4 Due |  | |
 | 8 | Thursday, March 3 2022      | - | Infrastructure as Code Tutorial - Part 1 | Ethics and Accessibility | 
 | 9 | Thursday, March 10 2022     | ❗A5 Due<br>❗A6 Demo (2/4) | Infrastructure as Code Tutorial - Part 2 / Work in Class | Guest Speaker | - | 
-| 10 | Thursday, March 17 2022    | - | - | - | 
+| 10 | Thursday, March 17 2022    | - | Work in Class | - | 
 | 11 | Thursday, March 24 2022    | ❗A6 Demo (3/4) | Work in Class | - | 
 | 12 | Thursday, March 31 2022    | - | Work in Class | - | 
 | 13 | Thursday, April 7 2022     | ❗A6 Demo (4/4)<br>❗Bonus Due | Last day of class - Demos of your Software | - | 
@@ -42,12 +42,12 @@ This is a class schedule indicating what we aim to do each week and the recommen
 To help you keep on track, here are some general recommendations and guidelines on milestones and goals you should aim for throughout the term. While most of these aren't mandatory (unless enforced by assignments), following these will help ensure your success and avoid stress and chaos in the last 2 weeks of the course.
 
 - You should start a skeleton hello world application as soon as you choose your base tech (Flask, Rails, iOS, etc)
-- You should start building out a developer environment, CI setup, test infra, and production setup by the end of September
-- You should start building out functionality no later than mid-October 
-- Your models should also be started no later than mid-October
-- You should have demoable content by the first week of November
-- You should have significant demoable content by The last demo  
-- You should be at the point of adding no new major features in December. This should be reserved for polish and bug fixes
+- You should start building out a developer environment, CI setup, test infra, and production setup by the end of January
+- You should start building out functionality no later than mid-February 
+- Your models should also be started no later than mid-February
+- You should have demoable content by the first week of MArch
+- You should have significant demoable content by the last demo  
+- You should be at the point of adding no new major features in April. This should be reserved for polish and bug fixes
 
 ## Demos
 
