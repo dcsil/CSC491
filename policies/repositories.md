@@ -5,3 +5,4 @@
 - You can create as many repos as you need by going to <https://learnsoftware.engineering/my_team/new_repo>
 - You can see all your team's repos by going to <https://learnsoftware.engineering/my_team/repos>
 - Every repository must have a `service.yml` that _passes_ checks. Your service.yml is validated on push, however it is also shown on the LearnSoftware app.
+  - Every repository must therefore have logging, exception handling (via Sentry), a bootstrap script etc
