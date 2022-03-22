@@ -195,7 +195,7 @@ user:
 
         - Participated in GitHub Issues & Submitted GitHub PRs.
         - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
-        - Due April 14th as you pass in your software.
+        - Due April 8th as you pass in your software.
 
         **Participation in lectures/courses**
 
@@ -211,7 +211,7 @@ user:
         - Answered at least 8 weeks of standups thoughtfully
         - Adhered to team principles, etc.
         - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
-        - Due April 14th as you pass in your software.
+        - Due April 8th as you pass in your software.
       worth: 100.0
     due_date: 2022-04-08T23:59:59 EST
     multiple_due_dates: true
