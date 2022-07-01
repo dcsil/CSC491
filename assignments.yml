@@ -17,8 +17,14 @@ team:
       description: |
         The team principles doc is a 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc.
         The document will cover the entire team including CSC454/2527 students. An example can be found [here](./a1_example.md)
-      worth: 70.0
-    due_date: 2022-01-20T23:59:59 EST
+      worth: 55.0
+    - section: Participation & Teamwork
+      description: |
+        Effectively worked as a team member and shared equitable work load during this assignment.
+        Communication was regular and effective.
+      worth: 15.0
+      individual: true
+    due_date: 2022-09-15T23:59:59-04:00
     position: 1
     number: 1
   - name: A2 - Team Exploration - Diversity and Inclusion
@@ -29,11 +35,8 @@ team:
     - section: Expertise
       description: |
         Describes how each team member's existing expertise can benefit the project
-      worth: 15.0
-    - section: Lacking Expertise
-      description: |
         Describes areas where your team may not have adequate expertise. This should include areas outside of engineering.
-      worth: 15.0
+      worth: 20.0
     - section: Subject Matter Experts
       description: |
         Students identify areas where they may lack expertise and describes subject matter experts that can help fill those holes.
@@ -52,8 +55,14 @@ team:
           - Do not feel restrained by the subset listed above as there are many dimensions of diversity, visible and non-visible, that change how you experience the world.
           - Teams should aim to go beyond visible dimensions of diversity, though those should be included (e.g. gender, nationality, ethnicity).
         - Team gives thoughtful rhetoric on how these areas may impact their team and product
-      worth: 35.0
-    due_date: 2022-01-27T23:59:59 EST
+      worth: 30.0
+    - section: Participation & Teamwork
+      description: |
+        Effectively worked as a team member and shared equitable work load during this assignment.
+        Communication was regular and effective.
+      worth: 15.0
+      individual: true
+    due_date: 2022-09-22T23:59:59-04:00
     position: 2
     number: 2
   - name: A3 - Tech Choices, Architecture Diagram, Roadmap
@@ -67,12 +76,12 @@ team:
        - Use cases are well defined and recorded on the team's profile on the LearnSoftware application
        - Illustrates UI with low fidelity sketches where applicable
        - Teaching Staff will approve use cases after submission. Use case approval will not affect grade, but students may be required to re-write some use cases if not approved.
-      worth: 30.0
+      worth: 25.0
     - section: Stack Decisions
       description: |
        Team describes the main technologies the team intends to use in the LearnSoftware application. For every technology, there is also a decision record.
        Each decision provides thoughtful rhetoric on why this is a good decision for the team, leveraging ideas and concepts presented in lectures.
-      worth: 25.0
+      worth: 20.0
     - section: Architecture Diagram
       description: |
         Incorparting all parts of the technologies in your Stack Decisions and adding adequate detail inside of those technologies (e.g. don't just list React server when there's major components to list), design an architecture diagram in the software of your choice.
@@ -84,8 +93,14 @@ team:
         Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term).
         Roadmap is defined in _GitHub Issues_ and labelled using labels, milestones, or projects.
         Includes plans for user research.
-      worth: 25.0
-    due_date: 2022-02-10T23:59:59 EST
+      worth: 20.0
+    - section: Participation & Teamwork
+      description: |
+        Effectively worked as a team member and shared equitable work load during this assignment.
+        Communication was regular and effective.
+      worth: 15.0
+      individual: true
+    due_date: 2022-10-06T23:59:59-04:00
     position: 3
     number: 3
   - name: A4 - UX Research w/Prototype, Roadmap Updates
@@ -98,14 +113,20 @@ team:
         Interview the class instructor _and_ another individual. The other individual should be someone who would use the product you are building.
         Includes appendices including notes. These can be rough, but they must show that you asked all individuals approximately the same questions, recorded questions, mistakes, and feedback.
         Concisely summarizes the results and does not sugar coat the results.
-      worth: 80.0
+      worth: 75.0
     - section: Roadmap
       description: |
         Update roadmap with the changes related to the UX research.
         Explain the changes and things that you have completed in the release body for the assignment.
         Paragraph included in release covers progress and answers questions (-100% on this section if not included).
-      worth: 20.0
-    due_date: 2022-03-01T23:59:59 EST
+      worth: 10.0
+    - section: Participation & Teamwork
+      description: |
+        Effectively worked as a team member and shared equitable work load during this assignment.
+        Communication was regular and effective.
+      worth: 15.0
+      individual: true
+    due_date: 2022-10-20T23:59:59-04:00
     position: 4
     number: 4
   - name: A5 - Dev Env, Test Infrastructure, & Production Setup
@@ -118,19 +139,25 @@ team:
       worth: 10.0
     - section: "`script/bootstrap` or similar"
       description: Functions on Unix systems (Linux and/or MacOS). Application is fully ready to run after running the script (dependencies installed, database install and setup, etc). The only exception is when you need to get credentials for something like a 3rd party API, that can be a different step.  See Notes Below
-      worth: 30.0
+      worth: 25.0
     - section: Testing and CI setup
       description: Test harness works and can be run from a single command listed in the service.yml file. CI is running and is passing. If the test command is not listed in the service.yml, 0 pts will be awarded for this section. If the command fails to run before tests are executed, 0 pts will be awarded for this section.
-      worth: 25.0
+      worth: 20.0
     - section: Production / Builds
       description: |
         Application is available from the web (e.g. Heroku, AWS, DigitalOcean, Azure, etc), as a mobile application via Microsoft App Center, or a GitHub Release otherwise.
         Exception tracking via Sentry and Logging is set up. See Notes Below
-      worth: 25.0
+      worth: 20.0
     - section: Roadmap
       description: Roadmap and Stack Decisions are updated with any new decisions and/or changes. Paragraph included in release covers progress and answers questions (-100% on this section if not included).
       worth: 10.0
-    due_date: 2022-03-10T23:59:59 EST
+    - section: Participation & Teamwork
+      description: |
+        Effectively worked as a team member and shared equitable work load during this assignment.
+        Communication was regular and effective.
+      worth: 15.0
+      individual: true
+    due_date: 2022-11-03T23:59:59-04:00
     position: 5
     number: 5
   - name: A6 - Class Demos
@@ -147,7 +174,7 @@ team:
     - section: Participation
       description: All members present throughout the term and demos are evenly divided.
       worth: 30
-    due_date: 2022-04-07T23:59:59 EST
+    due_date: 2022-12-01T23:59:59-05:00
     multiple_due_dates: true
     has_url: false
     position: 6
@@ -164,29 +191,35 @@ team:
         All main use cases/flows have been delivered and are functional.
         The majority of the content is functional and dynamic. The app(s) do not rely on hard-coded static data.
         Login credentials or registration system provided. Details listed in the release.
-      worth: 45.0
+      worth: 40.0
     - section: "[Product] Design & Accessibility"
       description: |
         The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity](./accessibility_checklist.md) is filled out and submitted in the team repo
-      worth: 15.0
+      worth: 10.0
     - section: "[Infrastructure] Test Coverage"
       description: Tests should cover at least 65% of your application and upload to Code Climate.
       worth: 15.0
     - section: "[Infrastructure] Code Quality"
       description: All repositories have at least a "B" Grade on Code Climate.
-      worth: 15.0
+      worth: 10.0
     - section: "[Infrastructure] Operational Excellence"
       description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors in the Learn Software App.
       worth: 5.0
     - section: "[Assignment Meta] Video"
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.
       worth: 5.0
-    due_date: 2022-04-08T23:59:59 EST
+    - section: Participation & Teamwork
+      description: |
+        Effectively worked as a team member and shared equitable work load during this assignment.
+        Communication was regular and effective.
+      worth: 15.0
+      individual: true
+    due_date: 2022-12-08T23:59:59-05:00
     position: 6
 user:
-  - name: Participation
+  - name: Participation, Teamwork, and Communication
     worth: 20
-    file: assignments/participation.md
+    file: assignments/participation_teamwork.md
     submission: N/A
     breakdown:
     - section: General
@@ -205,15 +238,16 @@ user:
         - Team formation started/finished on time.
         - Due April 7th on the last day of classes.
 
-        **Team**
+        **Teamwork & Communication**
         
         - Participated in all team work
         - Answered at least 8 weeks of standups thoughtfully
-        - Adhered to team principles, etc.
+        - Adhered to team principles, communicated regularly/effectively, etc.
+        - Provided substantial feature development / software to the course
         - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
         - Due April 8th as you pass in your software.
       worth: 100.0
-    due_date: 2022-04-08T23:59:59 EST
+    due_date: 2022-12-08T23:59:59-05:00
     multiple_due_dates: true
     has_url: false
     position: 7
@@ -226,5 +260,5 @@ user:
     - section: Work
       description: General work according to the bonus assignment description
       worth: 100.0
-    due_date: 2022-04-07T23:59:59 EST
+    due_date: 2022-12-01T23:59:59-05:00
     position: 8
