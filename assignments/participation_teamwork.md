@@ -1,6 +1,6 @@
-### Participation
+### Participation, Teamwork, and Communication
 
-Participation is an important aspect of this course. As the course is a very experience-based course, and we are mimicking a startup, it is important that everyone participates.
+Participation and teamwork are important aspects of this course. As the course is a very experience-based course, and we are mimicking a startup, it is important that everyone participates and works together.
 
 You are expected to be active in the following:
 
@@ -43,7 +43,7 @@ In assignment 1 you will create a principles document outlining how often your t
 
 | Section | Description | Worth |
 | --- | --- | --- |
-| General | **Participation on GitHub**<br>{::nomarkdown}<ul><li>Participated in GitHub Issues & Submitted GitHub PRs.</li><li>Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).</li><li>Due April 8th as you pass in your software.</li></ul><strong>Participation in lectures/courses</strong><ul><li>Participated in and viewed online lectures/course, attended and engaged in class presentations, demos, etc.</li><li>Online Lessons have engaging, value adding comments to add to the discussion.</li><li>Joined and set up profile on LearnSoftware on time.</li><li>Team formation started/finished on time.</li><li>Due April 7th on the last day of classes.</li></ul><strong>Team</strong><ul><li>Participated in all team work</li><li>Answered at least 8 weeks of standups thoughtfully</li><li>Adhered to team principles, etc.</li><li>Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).</li><li>Due April 8th as you pass in your software.</li></ul>{:/} | 100.0 |
+| General  | **Participation on GitHub**<br>{::nomarkdown}<ul><li>Participated in GitHub Issues & Submitted GitHub PRs.</li><li>Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).</li><li>Due April 8th as you pass in your software.</li></ul><strong>Participation in lectures/courses</strong><ul><li>Participated in and viewed online lectures/course, attended and engaged in class presentations, demos, etc.</li><li>Online Lessons have engaging, value adding comments to add to the discussion.</li><li>Joined and set up profile on LearnSoftware on time.</li><li>Team formation started/finished on time.</li><li>Due April 7th on the last day of classes.</li></ul><strong>Teamwork & Communication</strong><ul><li>Participated in all team work</li><li>Answered at least 8 weeks of standups thoughtfully</li><li>Adhered to team principles, communicated regularly/effectively, etc.</li><li>Provided substantial feature development / software to the course</li><li>Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).</li><li>Due April 8th as you pass in your software.</li></ul>{:/} | 100.0 |
 | | **Total:** | 100 |
 
  <!-- RUBRIC END -->

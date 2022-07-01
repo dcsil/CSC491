@@ -31,7 +31,7 @@ def generate_rubric(assignment)
   assignment["breakdown"].map do |section|
     desc = format_desc(section["description"])
     total += section["worth"]
-    toc << "| #{section["section"].to_s.chomp} | #{desc} | #{section["worth"].to_s.chomp} |"
+    toc << "| #{section["section"].to_s.chomp} #{'(Individual Grade)' if section["individual"]} | #{desc} | #{section["worth"].to_s.chomp} |"
   end
 
   if total != 100
