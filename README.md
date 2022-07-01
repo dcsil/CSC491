@@ -6,6 +6,7 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 
 - [Course Overview](#course-overview)
    - [Requirements to take this course](#requirements-to-take-this-course)
+   - [Expectations and evaluation of students](#expectations-and-evaluation-of-students)
    - [Required Materials](#required-materialssoftware)
 - [Who is the lecturer?](#lecturer)
    - [Office Hours](#office-hours)
@@ -24,8 +25,6 @@ University of Toronto's Capstone Design Course through the [Department of Comput
    - [Support and Accommodation](./policies/support_accommodation.md)
    - [Team Grades](./policies/team_grades.md)
    - [Repos](./policies/repositories.md)
-
-
 
 ## Course Overview
 
@@ -49,6 +48,26 @@ There is also an application process on [the DCSIL website](https://www.dcsil.ca
 
 I would also encourage you to review the [recommended skills and knowledge on the DCSIL website](https://dcsil.ca/csc491#recommended-skills-for-csc491)
 
+### Expectations and evaluation of Students
+
+In general we expect students to come prepared to be guided, mentored, and to work hard throughout the term. This is not an easy course, but it is a course formner students regularly describe as "having taught me more than all my other courses" and "having taught concepts I use on a daily basis as a software engineer". Despite this, the teaching staff make themselves available via Slack and Zoom as needed and will help guide and mentor you. In order for students to be successful in this course and their team, here is a subset of expectations students should have:
+
+- Students will actively participate in all assignments and communicate regularly with their team
+  - Any absences will be communicated in advance to both the team and instructor
+- Students will write code and substantially contribute to their team's software/data stack.
+  - Doing product or design work is great, but it is not a replacement for software in this course. Of course, if you are also designing or doing another role, we won't expect _as much_ coding. Talk to the instructor to make sure you're striking a good balance.
+- Students will adapt and self-teach any technologies their team chooses for their team's project (Instructor does not choose the techs)
+- Students will record all work using GitHub Issues, GitHub Pull Requests, and learn the GitHub / Git platforms if required
+
+All of these expectations are in place, combined with mentorship and guidance, so that we can evaluate your abilities around:
+
+- Write software and learn new technologies as required
+- Design and architect software systems
+- Manage and execute software projects
+- Collaborate with other roles (business, finance, etc)
+- Set up a proper "Software Development Lifecyle" (SDLC) including continuous integration, testing, and deploys
+
+With these expectations and evaluation principles, we know you'll be better prepared for the software industry.
 ### Required Materials/Software
 
 There aren't any _required_ materials persay, but it is highly recommended to bring a laptop to class with a fully functioning developer environment for your project. While not all classes will be workshops, it is recommended to bring your laptop during each class for other uses such as research.
@@ -75,13 +94,14 @@ Office hours are by appointment. Please email me at julian.nadeau[at]utoronto.ca
 
 ## Time and Location
 
-Class is on Thursdays from 5-8PM EST on Zoom. If you are not in a time zone that aligns with EST, please let me know early!
+Class is on Thursdays from 6-9PM EST. If you are not in a time zone that aligns with EST, please let me know early!
 
 - If we are in person, we will meet in the [DCSIL Lab in Gerstein Library](./other_pages/map.md)
 - If we are online, we will meet on Zoom
-- We will be online until at least October 2021
 
-Lectures are pre-recorded and asynchronous online. The 5-8pm lecture slot is reserved for working periods, guest lectures, discussion, etc.
+We use primarily an inverted classroom. This means that lectures are pre-recorded and asynchronous online.
+The 6-9pm lecture slot is reserved for working periods, guest lectures, discussion, etc. Students are expected to attend class times
+in order to work with their team, attend valuable tutorials, demo their work, and work with the instructor.
 
 ## I don't like something about this course
 
