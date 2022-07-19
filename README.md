@@ -50,7 +50,7 @@ I would also encourage you to review the [recommended skills and knowledge on th
 
 ### Expectations and evaluation of Students
 
-In general we expect students to come prepared to be guided, mentored, and to work hard throughout the term. This is not an easy course, but it is a course formner students regularly describe as "having taught me more than all my other courses" and "having taught concepts I use on a daily basis as a software engineer". Despite this, the teaching staff make themselves available via Slack and Zoom as needed and will help guide and mentor you. In order for students to be successful in this course and their team, here is a subset of expectations students should have:
+In general we expect students to come prepared to be guided, mentored, and to work hard throughout the term. This is not an easy course, but it is a course former students regularly describe as "having taught me more than all my other courses" and "having taught concepts I use on a daily basis as a software engineer". Despite this, the teaching staff make themselves available via Slack and Zoom as needed and will help guide and mentor you. In order for students to be successful in this course and their team, here is a subset of expectations students should have:
 
 - Students will actively participate in all assignments and communicate regularly with their team
   - Any absences will be communicated in advance to both the team and instructor
@@ -70,7 +70,7 @@ All of these expectations are in place, combined with mentorship and guidance, s
 With these expectations and evaluation principles, we know you'll be better prepared for the software industry.
 ### Required Materials/Software
 
-There aren't any _required_ materials persay, but it is highly recommended to bring a laptop to class with a fully functioning developer environment for your project. While not all classes will be workshops, it is recommended to bring your laptop during each class for other uses such as research.
+There aren't any _required_ materials _per se_, but it is highly recommended to bring a laptop to class with a fully functioning developer environment for your project. While not all classes will be workshops, it is recommended to bring your laptop during each class for other uses such as research.
 
 You will also need a [GitHub account](https://github.com/join).
 
