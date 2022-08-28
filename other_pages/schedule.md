@@ -12,7 +12,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 4 | Thursday, September 29 2022   | - | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
 | 5 | Thursday, October 6 2022  | ❗A3 Due | [CI & Testing Lecture](https://csc491.dcsil.ca/presentations/output/ci/index.html#0) | UX Research + Data Bias |
 | 6 | Thursday, October 13 2022  | ❗A6 Demo (1/4) | Work in Class | Infrastructure, Prod Eng, Production, etc |
-| 7 | Thursday, October 20 2022  | - | ❗A4 Due | - | 
+| 7 | Thursday, October 20 2022  | ❗A4 Due  | No class this week | - | 
 | - | Tuesday, October 27 2022     | - | Infrastructure as Code Tutorial - Part 1 | Ethics and Accessibility | 
 | 8 | Thursday, November 3 2022      | ❗A5 Due<br>❗A6 Demo (2/4) | Infrastructure as Code Tutorial - Part 2 / Work in Class | Guest Speaker | - | 
 | 9 | Thursday, November 10 2022     | - | Infrastructure as Code Tutorial - Part 1 | Ethics and Accessibility | 
