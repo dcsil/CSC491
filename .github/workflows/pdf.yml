@@ -20,7 +20,7 @@ jobs:
           ruby-version: 2.6.5
       - uses: actions/setup-node@v2-beta
         with:
-          node-version: '12'
+          node-version: '16'
       - name: Install PDF utility
         run: npm install mdpdf -g
       - name: Create PDF
