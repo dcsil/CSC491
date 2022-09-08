@@ -8,8 +8,8 @@ There are a number of assignments that make up your final grade, the weights are
 
 | Assignment | Description | Weight | Submission Location | Due Date |
 | --- | --- | --- | --- | --- |
-| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 2% | repo | September 15, 2022 |
-| [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 8% | repo | September 22, 2022 |
+| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 2% | repo | September 19, 2022 |
+| [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 8% | repo | September 26, 2022 |
 | [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 8% | repo | October 06, 2022 |
 | [Assignment 4](../assignments/a4.md)  | A4 - UX Research w/Prototype, Roadmap Updates | 8% | repo | October 20, 2022 |
 | [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 8% | repo | November 03, 2022 |
