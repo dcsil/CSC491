@@ -7,15 +7,17 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | # | Date | Assignments | Lecture Time | Recommended Async Lectures |
 | -- | -- | -- | -- | -- |
 | 1 | Thursday, September 8 2022   | - | First day of class, Introductions & Course Overview | Story Telling |
-| 2 | Thursday, September 15 2022   | ❗A1 Due | Potential Tutorial | Various Diversity & Inclusion |
-| 3 | Thursday, September 22 2022   | ❗A2 Due | Guest Speaker | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
+| 2 | Thursday, September 15 2022   | - | Potential Tutorial | Various Diversity & Inclusion |
+| - | Monday, September 19 2022   | ❗A1 Due | - | - |
+| 3 | Thursday, September 22 2022   | - | Guest Speaker | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
+| - | Monday, September 26 2022   | ❗A2 Due | - | - |
 | 4 | Thursday, September 29 2022   | - | Guest Speaker | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
 | 5 | Thursday, October 6 2022  | ❗A3 Due | [CI & Testing Lecture](https://csc491.dcsil.ca/presentations/output/ci/index.html#0) | UX Research + Data Bias |
 | 6 | Thursday, October 13 2022  | ❗A6 Demo (1/4) | Work in Class | Infrastructure, Prod Eng, Production, etc |
-| 7 | Thursday, October 20 2022  | ❗A4 Due  | No class this week | - | 
+| 7 | Thursday, October 20 2022  | ❗A4 Due  | Tutorial w/ TA | - | 
 | - | Tuesday, October 27 2022     | - | Infrastructure as Code Tutorial - Part 1 | Ethics and Accessibility | 
 | 8 | Thursday, November 3 2022      | ❗A5 Due<br>❗A6 Demo (2/4) | Infrastructure as Code Tutorial - Part 2 / Work in Class | Guest Speaker | - | 
-| 9 | Thursday, November 10 2022     | - | Infrastructure as Code Tutorial - Part 1 | Ethics and Accessibility | 
+| 9 | Thursday, November 10 2022     | - | Reading Week | Ethics and Accessibility | 
 | 10 | Thursday, November 17 2022    | ❗A6 Demo (3/4) | Work in Class | - | 
 | 11 | Thursday, November 24 2022    | - | Work in Class | - | 
 | 12 | Thursday, December 1 2022    | ❗A6 Demo (4/4)<br>❗Bonus Due | Last day of class - Demos of your Software  | - | 
