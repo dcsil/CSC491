@@ -42,15 +42,17 @@ interactive. Students may hear from guest lecturers from the field.
 
 ### Requirements to take this course
 
-There is a co-requisite to CSC491/2600, students must also be enrolled in CSC454/2527 or have taken CSC454/2527 before to take this course.
+- There is a co-requisite to CSC491/2600, students must also be enrolled in CSC454/2527 or have taken CSC454/2527 before to take this course
+- Students must maintain a good GPA
+- Students must have some prior software experience (web applictions preferred, though not required)
+  - I would also encourage you to review the [recommended skills and knowledge on the DCSIL website](https://dcsil.ca/csc491#recommended-skills-for-csc491)
+- Students must have at least 4 CSC300+ level courses, and any other 300+ level course (previously 5 CSC300+ level courses)
 
-There is also an application process on [the DCSIL website](https://www.dcsil.ca/student-courses).
-
-I would also encourage you to review the [recommended skills and knowledge on the DCSIL website](https://dcsil.ca/csc491#recommended-skills-for-csc491)
+**Important**: There is also an application process on [the DCSIL website](https://www.dcsil.ca/student-courses).
 
 ### Expectations and evaluation of Students
 
-In general we expect students to come prepared to be guided, mentored, and to work hard throughout the term. This is not an easy course, but it is a course former students regularly describe as "having taught me more than all my other courses" and "having taught concepts I use on a daily basis as a software engineer". Despite this, the teaching staff make themselves available via Slack and Zoom as needed and will help guide and mentor you. In order for students to be successful in this course and their team, here is a subset of expectations students should have:
+In general we expect students to come prepared to be guided, mentored, and to work hard throughout the term. This is not an easy course and there is a lot of work, but it is a course former students regularly describe as "having taught me more than all my other courses" and "having taught concepts I use on a daily basis as a software engineer". Despite this, the teaching staff make themselves available via Slack and Zoom as needed and will help guide and mentor you. The teaching staff is here to help you succeed as long as you put the effort in, effectively contribute to your team, and communicate (that last one is important!) In order for students to be successful in this course and their team, here is a subset of expectations students should have:
 
 - Students will actively participate in all assignments and communicate regularly with their team
   - Any absences will be communicated in advance to both the team and instructor
@@ -68,9 +70,10 @@ All of these expectations are in place, combined with mentorship and guidance, s
 - Set up a proper "Software Development Lifecyle" (SDLC) including continuous integration, testing, and deploys
 
 With these expectations and evaluation principles, we know you'll be better prepared for the software industry.
+
 ### Required Materials/Software
 
-There aren't any _required_ materials _per se_, but it is highly recommended to bring a laptop to class with a fully functioning developer environment for your project. While not all classes will be workshops, it is recommended to bring your laptop during each class for other uses such as research.
+There aren't any _required_ materials _per se_, but it is required that you bring a laptop to class with a fully functioning developer environment for your project. iPads/tablets are not recommended as the main vehicle unless you can develop on them.
 
 You will also need a [GitHub account](https://github.com/join).
 
