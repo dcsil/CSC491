@@ -228,7 +228,7 @@ user:
 
         - Participated in GitHub Issues & Submitted GitHub PRs.
         - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
-        - Due April 8th as you pass in your software.
+        - Due as you pass in your software.
 
         **Participation in lectures/courses**
 
@@ -236,7 +236,7 @@ user:
         - Online Lessons have engaging, value adding comments to add to the discussion.
         - Joined and set up profile on LearnSoftware on time.
         - Team formation started/finished on time.
-        - Due April 7th on the last day of classes.
+        - Due on the last day of classes.
 
         **Teamwork & Communication**
         
@@ -245,7 +245,7 @@ user:
         - Adhered to team principles, communicated regularly/effectively, etc.
         - Provided substantial feature development / software to the course
         - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
-        - Due April 8th as you pass in your software.
+        - Due as you pass in your software.
       worth: 100.0
     due_date: 2022-12-08T23:59:59-05:00
     multiple_due_dates: true
