@@ -21,8 +21,8 @@ I am not expecting you to be super outgoing (I'm certainly not the most outgoing
 Note that some of these can be easily tracked (GitHub issues, Pull Requests, commenting on lectures, Slack Messages) and some of this will be based on observations from the teaching staff. We will also be expecting that you provide a written paragraph summarizing your participation.
 #### Requirements for Participation
 
-- Students are required to set up their LearnSoftware profile including Resume & Ballot, Avatar, and other profile preferences by EOD January 14th
-- Students make a demonstrable effort to join a team by EOD January 15th
+- Students are required to set up their LearnSoftware profile including Resume & Ballot, Avatar, and other profile preferences by the EOD of the first day of class.
+- Students make a demonstrable effort to join a team by EOD of the first week of class in which you have CSC454/2527 and CSC491/2600 (e.g. if you only have CSC491/2600 in the first week, this is due by the end of the next week)
 - Teams are required to enable and set up standups. CSC491 Students are required to answer the standups at least 8 of the 12 weeks, though they are recommended to answer every week for their team's benefit.
   - Standups must include the questions "What did you work on since the last update?" and "What do you plan to work on next?"
 - Students are required to check off all participation list items on https://learnsoftware.engineering/participation
