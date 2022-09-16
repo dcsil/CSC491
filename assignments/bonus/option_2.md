@@ -10,7 +10,7 @@ This assignment is to find and report a security vulnerability in the Learn Soft
 
 My user ID (for Julian Nadeau) is 49. You may use that profile if you wish to demonstrate a vulnerability.
 
-You can find and report as many vulnerabilities as you can, but can only obtain up to 5% among all bonus assignments.
+You can find and report as many vulnerabilities as you can, but can only obtain up to 2% among all bonus assignments.
 
 - [Requirements](#requirements)
 - [Submission](#submission)
