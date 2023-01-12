@@ -6,23 +6,26 @@ This is a class schedule indicating what we aim to do each week and the recommen
 
 | # | Date | Assignments | Lecture Time | Recommended Async Lectures |
 | -- | -- | -- | -- | -- |
-| 1 | Thursday, September 8 2022   | - | First day of class, Introductions & Course Overview | Story Telling |
-| 2 | Thursday, September 15 2022   | - | TBD | Various Diversity & Inclusion |
-| - | Monday, September 19 2022   | ❗A1 Due | - | - |
-| 3 | Thursday, September 22 2022   | - | TBD | Various Diversity & Inclusion // start Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
-| - | Monday, September 26 2022   | ❗A2 Due | - | - |
-| 4 | Thursday, September 29 2022   | - | TBD | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
-| 5 | Thursday, October 6 2022  | - | [CI & Testing Lecture](https://csc491.dcsil.ca/presentations/output/ci/index.html#0) | UX Research + Data Bias |
-| 6 | Thursday, October 13 2022  | ❗A3 Due<br>❗A6 Demo (1/4) | Work in Class | Infrastructure, Prod Eng, Production, etc |
-| 7 | Thursday, October 20 2022  | - | Tutorial w/ TA | - | 
-| - | Tuesday, October 27 2022     | ❗A4 Due | Infrastructure as Code Tutorial - Part 1 | Ethics and Accessibility | 
-| 8 | Thursday, November 3 2022      | ❗A6 Demo (2/4) | Infrastructure as Code Tutorial - Part 2 / Work in Class | Guest Speaker | - | 
-| - | Monday, November 7 2022  | ❗A5 Due  | - | - | 
-| 9 | Thursday, November 10 2022     | - | Reading Week | Ethics and Accessibility | 
-| 10 | Thursday, November 17 2022    | ❗A6 Demo (3/4) | Work in Class | - | 
-| 11 | Thursday, November 24 2022    | - | Work in Class | - | 
-| 12 | Thursday, December 1 2022    | ❗A6 Demo (4/4)<br>❗Bonus Due | Last day of class - Demos of your Software  | - | 
-| 13 | Thursday, December 8 2022     | ❗A7 Due  |  Software Due | 
+| 1 | Wednesday, January 11 2023   | - | First day of class, Introductions & Course Overview | Story Telling |
+| - | Monday, January 16 2023   | ❗A1 Due | - | - |
+| 2 | Wednesday, January 18 2023   | - | TBD | Various Diversity & Inclusion |
+| - | Monday, January 23 2023   | ❗A2 Due | Instructor away, TA Tutorial on Cloud Technologies | Various Diversity & Inclusion |
+| 3 | Wednesday, January 25 2023   | - | TBD | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
+| 4 | Wednesday, February 1 2023   | - | TBD | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
+| - | Monday, February 6 2023   | ❗A3 Due | - | - |
+| 5 | Wednesday, February 8 2023  | ❗A6 Demo (1/4) | [CI & Testing Lecture](https://csc491.dcsil.ca/presentations/output/ci/index.html#0) | UX Research + Data Bias |
+| 6 | Wednesday, February 15 2023  | - | Work in Class | Ethics and Accessibility |
+| - | Sunday, February 19 2023   | ❗A4 Due | - | - |
+| 7 | Wednesday, February 22 2023  | - | Reading Week | - | 
+| 8 | Wednesday, March 1 2023      | - | TBD Tutorial | Infrastructure, Prod Eng, Production, etc | 
+| - | Monday, March 6 2023   | ❗A5 Due | - | - |
+| 9 | Wednesday, March 8 2023     | ❗A6 Demo (2/4) | - | Ethics and Accessibility | 
+| 10 | Wednesday, March 15 2023    | -| Work in Class | - | 
+| 11 | Wednesday, March 22 2023    | - | Work in Class | - | 
+| 12 | Wednesday, March 29 2023    | ❗A6 Demo (3/4) | Last day of class - Demos of your Software  | - |
+| - | Friday, March 31 2023   | ❗Bonus Due | - | - |
+| 13 | Wednesday, April 5 2023   | ❗A6 Demo (4/4) |  Work in Class, Final Lecture TBD | - | 
+| - | Wednesday, April 12 2023   | ❗A7 Due<br>❗Participation Comment Due | Software Due, Participation Comment Due | - |
 
 **Notes**
 - _Lectures subject to change._
