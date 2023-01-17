@@ -24,7 +24,7 @@ team:
         Communication was regular and effective & acted in accordance with team principles.
       worth: 15.0
       individual: true
-    due_date: 2023-01-16T23:59:59-04:00
+    due_date: 2023-01-16T23:59:59-05:00
     position: 1
     number: 1
   - name: A2 - Team Exploration - Diversity and Inclusion
@@ -62,7 +62,7 @@ team:
         Communication was regular and effective & acted in accordance with team principles.
       worth: 15.0
       individual: true
-    due_date: 2023-01-23T23:59:59-04:00
+    due_date: 2023-01-23T23:59:59-05:00
     position: 2
     number: 2
   - name: A3 - Tech Choices, Architecture Diagram, Roadmap
@@ -100,7 +100,7 @@ team:
         Communication was regular and effective & acted in accordance with team principles.
       worth: 15.0
       individual: true
-    due_date: 2023-02-06T23:59:59-04:00
+    due_date: 2023-02-06T23:59:59-05:00
     position: 3
     number: 3
   - name: A4 - UX Research w/Prototype, Roadmap Updates
@@ -126,7 +126,7 @@ team:
         Communication was regular and effective & acted in accordance with team principles.
       worth: 15.0
       individual: true
-    due_date: 2023-02-19T23:59:59-04:00
+    due_date: 2023-02-19T23:59:59-05:00
     position: 4
     number: 4
   - name: A5 - Dev Env, Test Infrastructure, & Production Setup
@@ -157,7 +157,7 @@ team:
         Communication was regular and effective & acted in accordance with team principles.
       worth: 15.0
       individual: true
-    due_date: 2023-03-06T23:59:59-04:00
+    due_date: 2023-03-06T23:59:59-05:00
     position: 5
     number: 5
   - name: A6 - Class Demos
@@ -174,7 +174,7 @@ team:
     - section: Participation
       description: All members present throughout the term and demos are evenly divided.
       worth: 30
-    due_date: 2023-04-05T23:59:59-05:00
+    due_date: 2023-04-05T23:59:59-04:00
     multiple_due_dates: true
     has_url: false
     position: 6
@@ -214,7 +214,7 @@ team:
         Communication was regular and effective & acted in accordance with team principles.
       worth: 15.0
       individual: true
-    due_date: 2023-04-12T23:59:59-05:00
+    due_date: 2023-04-12T23:59:59-04:00
     position: 6
 user:
   - name: Participation, Teamwork, and Communication
@@ -247,7 +247,7 @@ user:
         - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
         - Due as you pass in your software.
       worth: 100.0
-    due_date: 2023-04-12T23:59:59-05:00
+    due_date: 2023-04-12T23:59:59-04:00
     multiple_due_dates: true
     has_url: false
     position: 7
@@ -260,5 +260,5 @@ user:
     - section: Work
       description: General work according to the bonus assignment description
       worth: 100.0
-    due_date: 2023-03-31T23:59:59-05:00
+    due_date: 2023-03-31T23:59:59-04:00
     position: 8
