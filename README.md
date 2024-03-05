@@ -14,7 +14,6 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 - [Schedule](./other_pages/schedule.md)
 - [Assignments, Deliverables, Distribution of Grades](./assignments)
    - [Suggested Work Schedule](./other_pages/suggested_work_schedule.md)
-- [Presentations](./presentations)
 - [Resources and Readings](./other_pages/resources_readings.md)
 - [Policies](./policies)
    - [Attendance](./policies/attendance.md)
