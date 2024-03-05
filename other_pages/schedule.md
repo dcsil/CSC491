@@ -13,7 +13,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 3 | Wednesday, January 25 2023   | - | TBD | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
 | 4 | Wednesday, February 1 2023   | - | TBD | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
 | - | Monday, February 6 2023   | ❗A3 Due | - | - |
-| 5 | Wednesday, February 8 2023  | ❗A6 Demo (1/4) | [CI & Testing Lecture](https://csc491.dcsil.ca/presentations/output/ci/index.html#0) | UX Research + Data Bias |
+| 5 | Wednesday, February 8 2023  | ❗A6 Demo (1/4) | CI & Testing Lecture | UX Research + Data Bias |
 | 6 | Wednesday, February 15 2023  | - | Work in Class | Ethics and Accessibility |
 | - | Sunday, February 19 2023   | ❗A4 Due | - | - |
 | 7 | Wednesday, February 22 2023  | - | Reading Week | - | 

@@ -18,7 +18,7 @@ theme:
 menu:
   - {name: 'Assignments', link: '/assignments', active: 'assignments' }
   - {name: 'Class Policies', link: '/policies' , active: 'policies' }
-  - {name: 'Presentations', link: '/presentations', active: 'presentations' }
+  # - {name: 'Presentations', link: '/presentations', active: 'presentations' }
   - {name: 'Misc', link: '/other_pages', active: 'misc' }
 
 
