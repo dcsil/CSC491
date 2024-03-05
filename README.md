@@ -80,19 +80,11 @@ It is **required** to download, install, and set up [Zoom](https://zoom.us/) as 
 
 ## Lecturer
 
-Hello! My name is Julian Nadeau. You can reach me at julian.nadeau[at]utoronto.ca.
-
-I am a Staff Software Developer at Stripe during the day. I've also worked in the startup space quite a lot having experienced explosive growth in various roles at GitHub (2019-2021) and Shopify (2013-2019, including their IPO).
-
-I've run a not-for-profit startup as well, called Code For Kids, that helped teach kids how to code.
-
-You can view my personal website at [https://jnadeau.ca](https://jnadeau.ca) and my [LinkedIn Profile here](https://www.linkedin.com/in/juliannadeau/)
-
-_All opinions are my own and do not reflect the opinion of current or former employers_.
+This course is being updated. The lecturer will be announced as the course is offered again.
 
 ### Office Hours
 
-Office hours are by appointment. Please email me at julian.nadeau[at]utoronto.ca, though messaging me on DCSIL's Slack group is more likely to get a response.
+TBD.
 
 ## Time and Location
 
