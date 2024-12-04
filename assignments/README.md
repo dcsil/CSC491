@@ -10,11 +10,11 @@ There are a number of assignments that make up your final grade, the weights are
 | --- | --- | --- | --- | --- |
 | [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 2% | repo | January 13, 2025 |
 | [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Diversity and Inclusion | 8% | repo | January 20, 2025 |
-| [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 8% | repo | February 3, 2025 |
+| [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 8% | repo | February 03, 2025 |
 | [Assignment 4](../assignments/a4.md)  | A4 - UX Research w/Prototype, Roadmap Updates | 8% | repo | February 15, 2025 |
-| [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 8% | repo | March 5, 2025 |
+| [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 8% | repo | March 05, 2025 |
 | [Assignment 6](../assignments/a6.md)  | A6 - Class Demos | 6% | class | Multiple Due Dates |
-| [Software](../assignments/a7.md)  | Software | 40% | repo | April 9, 2025 |
+| [Software](../assignments/a7.md)  | Software | 40% | repo | April 09, 2025 |
 | [Participation, Teamwork, and Communication](../assignments/participation_teamwork.md)  | Participation, Teamwork, and Communication | 20% | N/A | Multiple Due Dates |
 | [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | March 28, 2025 |
 | | **Total** | 100% (+2%) | | |
