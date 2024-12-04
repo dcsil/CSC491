@@ -4,42 +4,39 @@ This is a class schedule indicating what we aim to do each week and the recommen
 
 **NOTE:** Lecture Time is subject to change with the needs of the course, industry partners, instructor, TA, and students. You should always bring a laptop and be ready to work on your project and with your team.
 
-| # | Date | Assignments | Lecture Time | Recommended Async Lectures |
+| # | Date | Assignments | Lecture Focus | Guest Lecture |
 | -- | -- | -- | -- | -- |
-| 1 | Wednesday, January 11 2023   | - | First day of class, Introductions & Course Overview | Story Telling |
-| - | Monday, January 16 2023   | ❗A1 Due | - | - |
-| 2 | Wednesday, January 18 2023   | - | TBD | Various Diversity & Inclusion |
-| - | Monday, January 23 2023   | ❗A2 Due | Instructor away, TA Tutorial on Cloud Technologies | Various Diversity & Inclusion |
-| 3 | Wednesday, January 25 2023   | - | TBD | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
-| 4 | Wednesday, February 1 2023   | - | TBD | Different Kinds of Tests / Best Practices - Languages / Best Practices - Linting, Semantic Analysis, etc |
-| - | Monday, February 6 2023   | ❗A3 Due | - | - |
-| 5 | Wednesday, February 8 2023  | ❗A6 Demo (1/4) | CI & Testing Lecture | UX Research + Data Bias |
-| 6 | Wednesday, February 15 2023  | - | Work in Class | Ethics and Accessibility |
-| - | Sunday, February 19 2023   | ❗A4 Due | - | - |
-| 7 | Wednesday, February 22 2023  | - | Reading Week | - | 
-| 8 | Wednesday, March 1 2023      | - | TBD Tutorial | Infrastructure, Prod Eng, Production, etc | 
-| - | Monday, March 6 2023   | ❗A5 Due | - | - |
-| 9 | Wednesday, March 8 2023     | ❗A6 Demo (2/4) | - | Ethics and Accessibility | 
-| 10 | Wednesday, March 15 2023    | -| Work in Class | - | 
-| 11 | Wednesday, March 22 2023    | - | Work in Class | - | 
-| 12 | Wednesday, March 29 2023    | ❗A6 Demo (3/4) | Last day of class - Demos of your Software  | - |
-| - | Friday, March 31 2023   | ❗Bonus Due | - | - |
-| 13 | Wednesday, April 5 2023   | ❗A6 Demo (4/4) |  Work in Class, Final Lecture TBD | - | 
-| - | Wednesday, April 12 2023   | ❗A7 Due<br>❗Participation Comment Due | Software Due, Participation Comment Due | - |
+| 1 | Wednesday, January 8 2025   | - | First day of class, Introductions & Course Overview | Cohere Product Overview, Demos, and Setup |
+| - | Monday, January 13 2025   | ❗A1 Due | - | - |
+| 2 | Wednesday, January 15 2025   | - | Technical Decision Making & Strategy | TBD |
+| - | Monday, January 20 2025   | ❗A2 Due | - | - |
+| 3 | Wednesday, January 22 2025   | - | Scope, Sequencing, and Project Management | - |
+| 4 | Wednesday, January 29 2025   | - | Testing & CI | - |
+| - | Monday, February 3 2025   | ❗A3 Due | - | - |
+| 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | AI Applications  | TBD |
+| 6 | Wednesday, February 12 2025  | - | AI Core Infrastructure | Speakers from Cohere: TBA |
+| - | Sunday, February 15 2025   | ❗A4 Due | - | - |
+| 7 | Wednesday, February 19 2025  | - | Reading Week | - | 
+| 8 | Wednesday, February 26 2025      | - | Work in Class, Instructor Away | TBD on TA Tutorial | 
+| - | Monday, March 3 2025   | ❗A5 Due | - | - |
+| 9 | Wednesday, March 5 2025     | ❗A6 Demo (2/4) | Work in Class, Data Platforms & Analytics Landscape | - | 
+| 10 | Wednesday, March 12 2025    | -| Work in Class | - | 
+| 11 | Wednesday, March 19 2025    | - | Work in Class | - | 
+| 12 | Wednesday, March 26 2025    | ❗A6 Demo (3/4) | Work in Class, Technical Speaking, Writing & Branding  | - |
+| - | Friday, March 28 2025   | ❗Bonus Due | - | - |
+| 13 | Wednesday, April 2 2025  | ❗A6 Demo (4/4) | Last day of class - Demos of your Software | - | 
+| - | Wednesday, April 9 2025   | ❗A7 Due<br>❗Participation Comment Due | - | - |
 
 **Notes**
 - _Lectures subject to change._
 - Zoom link will be provided in the LearnSoftware App. You will be given access via email close to the start of the course.
-- Not all lectures listed here have a corresponding entry in the presentations page on this site. Some exist as videos only on the LearnSoftware App.
 
 **Summary**
 
-- Lectures are asynchronous via the Learn Software application
+- Lectures are primarilyy syncronous via the Learn Software application
 - We will try to bring in some guest speakers
-- 1 AI + Data Tutorial
-- 2 discussions (1 includes short demos)
+- 1 TA Lecture
 - 4-5 class working periods
-- 1 Intro
 - 4 Demo periods (part class each time)
 
 ## Your software
@@ -50,7 +47,7 @@ To help you keep on track, here are some general recommendations and guidelines 
 - You should start building out a developer environment, CI setup, test infra, and production setup by the end of January
 - You should start building out functionality no later than mid-February 
 - Your models should also be started no later than mid-February
-- You should have demoable content by the first week of MArch
+- You should have demoable content by the first week of March
 - You should have significant demoable content by the last demo  
 - You should be at the point of adding no new major features in April. This should be reserved for polish and bug fixes
 
