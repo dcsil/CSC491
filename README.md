@@ -80,11 +80,19 @@ It is **required** to download, install, and set up [Zoom](https://zoom.us/) as 
 
 ## Lecturer
 
-This course is being updated. The lecturer will be announced as the course is offered again.
+Hello! My name is Michelle, and you can reach me at michelle.arkhangorodsky[at]mail.utoronto.ca.
+
+By day, I'm a Staff Software Engineer at dbt Labs, where I am the technical lead of the dbt Core open source project — a data transformation framework at the heart of the data analytics platform thousands of companies, including several from the Fortune 500, that is leveraged by a community of roughly 100,000 (and counting!) data practitioners.
+
+Prior to dbt Labs, I was a Staff Software Engineer at Shopify, building and advancing Shopify’s data platform capabilities - from telemetry and ingestion, all the way through to data transformation and visualization. During that time, I was also a Founding Engineer at Homecoming Health, a wellness platform designed for therapists to deepen their work with clients and simplify the administration of their practices.
+
+I get to call myself a proud alumnus of the University of Toronto, having completed both my BSc (Computer Science) and MScAC (Masters in Applied Computing) there. You can view my Github at [https://github.com/MichelleArk](https://github.com/MichelleArk) and my [LinkedIn Profile here](https://ca.linkedin.com/in/michelle-ark).
+
+_All opinions are my own and do not reflect the opinion of current or former employers_.
 
 ### Office Hours
 
-TBD.
+Office hours are by appointment. Please email me at michelle.arkhangorodsky[at] mail.utoronto.ca, though messaging me on DCSIL's Slack group is more likely to get a response.
 
 ## Time and Location
 
@@ -93,9 +101,9 @@ Class is on Wednesday from 6-9PM EST. If you are not in a time zone that aligns 
 - If we are in person, we will meet in the [DCSIL Lab in Gerstein Library](./other_pages/map.md)
 - If we are online, we will meet on Zoom
 
-We use primarily an inverted classroom. This means that lectures are pre-recorded and asynchronous online.
-The 6-9pm lecture slot is reserved for working periods, guest lectures, discussion, etc. Students are expected to attend class times
-in order to work with their team, attend valuable tutorials, demo their work, and work with the instructor.
+While some lecture material will be pre-recorded and available asynchronously online, the majority of the discussion-oriented lecture material will be presented during the weekly 6-9pm lecture slot. Any remaining time will be reserved for working periods, guest lectures, demos, further discussion, etc.
+
+Students are expected to attend class times in order to work with their team, attend valuable tutorials, demo their work, and work with the instructor.
 
 ## I don't like something about this course
 
