@@ -6,11 +6,11 @@ This is a class schedule indicating what we aim to do each week and the recommen
 
 | # | Date | Assignments | Lecture Focus | Guest Lecture |
 | -- | -- | -- | -- | -- |
-| 1 | Wednesday, January 8 2025   | - | First day of class, Introductions & Course Overview | Cohere Product Overview, Demos, and Setup |
+| 1 | Wednesday, January 8 2025   | - | First day of class, Introductions & Course Overview | [Neel Gokhale](https://ca.linkedin.com/in/neel-gokhale): Cohere Product Overview, Demos, and Setup |
 | - | Monday, January 13 2025   | ❗A1 Due | - | - |
-| 2 | Wednesday, January 15 2025   | - | Technical Decision Making & Strategy | TBD |
+| 2 | Wednesday, January 15 2025   | - | Technical Decision Making & Strategy | [Nayeem Zen](https://ca.linkedin.com/in/nayeemzen): Co-founder & CTO @ [Pluto](https://www.getpluto.com/) |
 | - | Monday, January 20 2025   | ❗A2 Due | - | - |
-| 3 | Wednesday, January 22 2025   | - | Scope, Sequencing, and Project Management | - |
+| 3 | Wednesday, January 22 2025   | - | Scope, Sequencing, and Project Management | TBD |
 | 4 | Wednesday, January 29 2025   | - | Testing & CI | - |
 | - | Monday, February 3 2025   | ❗A3 Due | - | - |
 | 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | AI Applications  | TBD |
