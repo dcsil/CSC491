@@ -18,7 +18,8 @@ Life happens. I am not going to penalize you for things that are outside of your
 Instead, I ask that you be open and communicate your needs with me whether that is
 lenience on an assignment deadline or that you may not attend class.
 
-If you are sick and would like to participate in class still, then we can set up a Zoom call for your to join in remotely.
+If you are sick and would like to participate in class still, then we can set up a Zoom call for your to join in remotely. Download, install, and set up [Zoom](https://zoom.us/) as necessary to join lectures via Zoom, if able, when sick.
+
 *Please do not* come to class if you are sick. I *will not* penalize you for not attending class due to an illness. Be open and communicate your needs so we can accommodate.
 
 ## All my classes are online and I do not live in a timezone that can align with EST

@@ -29,7 +29,6 @@ This is a class schedule indicating what we aim to do each week and the recommen
 
 **Notes**
 - _Lectures subject to change._
-- Zoom link will be provided in the LearnSoftware App. You will be given access via email close to the start of the course.
 
 **Summary**
 
