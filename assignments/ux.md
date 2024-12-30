@@ -1,7 +1,7 @@
 How to do UX Research for A5?
 ---
 
-I'm going to use the LearnSoftware app as an example.
+I'm going to use a hypothetical 'LearnSoftware' app as an example. This app is intended to manage CSC491 course administration, replacing tools like Quercus and automating Github and Slack workflows.
 
 For this application, I may ask the test user to perform a specific action given a prototype or the application itself.
 

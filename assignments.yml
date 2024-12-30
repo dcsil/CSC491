@@ -73,13 +73,13 @@ team:
     - section: Use Cases
       description: |
        - Describes 3-6 use cases that provide adequate complexity to showcase the teams skills
-       - Use cases are well defined and recorded on the team's profile on the LearnSoftware application
+       - Use cases are well defined and recorded on the Github team repo
        - Illustrates UI with low fidelity sketches where applicable
        - Teaching Staff will approve use cases after submission. Use case approval will not affect grade, but students may be required to re-write some use cases if not approved.
       worth: 25.0
     - section: Stack Decisions
       description: |
-       Team describes the main technologies the team intends to use in the LearnSoftware application. For every technology, there is also a decision record.
+       Team describes the main technologies the team intends to use in the Github team repo. For every technology, there is also a decision record.
        Each decision provides thoughtful rhetoric on why this is a good decision for the team, leveraging ideas and concepts presented in lectures.
       worth: 20.0
     - section: Architecture Diagram
@@ -227,14 +227,13 @@ user:
         **Participation on GitHub**
 
         - Participated in GitHub Issues & Submitted GitHub PRs.
-        - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
+        - Paragraph is provided in Quercus (-100% on this section if not provided).
         - Due as you pass in your software.
 
         **Participation in lectures/courses**
 
-        - Participated in and viewed online lectures/course, attended and engaged in class presentations, demos, etc.
-        - Online Lessons have engaging, value adding comments to add to the discussion.
-        - Joined and set up profile on LearnSoftware on time.
+        - Participated in and viewed lectures, attended and engaged in-class presentations from guest speakers, demos, etc.
+        - Online discussions in Slack (#discussions) have engaging, value adding comments to add to the discussion.
         - Team formation started/finished on time.
         - Due on the last day of classes.
 
@@ -244,7 +243,7 @@ user:
         - Answered at least 8 weeks of standups thoughtfully
         - Adhered to team principles, communicated regularly/effectively, etc.
         - Provided substantial feature development / software to the course
-        - Paragraph is provided in the LearnSoftware application (-100% on this section if not provided).
+        - Paragraph is provided in Quercus (-100% on this section if not provided).
         - Due as you pass in your software.
       worth: 100.0
     due_date: 2025-04-09T23:59:59-04:00

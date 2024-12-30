@@ -25,7 +25,6 @@ There are a number of assignments that make up your final grade, the weights are
 
 - Each assignment builds off of one another. If you don't do one, you won't be able to complete the next assignment as it's rubric and requirements build off the ones prior to it.
 - If you do not follow the release guidelines, you will be required to submit a new release at the penalty of 1 late day.
-- If you do not submit the assignment on the LearnSoftware application, you will lose 1 day.
 - Releases must happen on the team repo
 
 ### Why are the grades weighted like this?

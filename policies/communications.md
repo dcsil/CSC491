@@ -8,7 +8,7 @@ You will see a theme throughout this course centred around communication. This i
 
 #### Some Explicit Expectations
 
-- Your team will have a Standup configured on LearnSoftware App and team members will be expected to respond to it at least once per week.
+- Your team will have a standup configured on Slack and team members will be expected to respond to it at least once per week.
 - You will use GitHub Issues to communicate with your team and show your work throughout the term
 - Missing demos and other aspects of the class can and will be penalized _if you do not communicate in advance_. I cannot stress this enough - this class is very accommodating of your time and schedule, granted you respect the time of others (including the teaching staff).
 - The class is not that large, I know who is attending lectures. I expect you to be able to communicate your needs - are you going to be late due to work? Are you going to be late because you have a class on the other side of campus? Talk to me, and we it won't be an issue.
@@ -21,10 +21,9 @@ Communication, as we will discuss in the course, is vital to the success of any 
 
 | Medium | When to use |
 | --- | --- |
-| LearnSoftware App | Creating teams. Lessons. Creating Repos. Managing Repos. Assignment feedback, surveys, etc for CSC491/2600 |
-| Slack | General discussions and questions. The instructor for CSC491/2600 (Julian Nadeau) also prefers this communication method. |
+| Slack | Team and repo registration. Individual profile set-up. General discussions and questions. The instructor for CSC491/2600 (Michelle Ark) also prefers this communication method. |
 | Email | Private matters. The instructor for CSC454/2527 (Mario Grech) also prefers this communication method. |
-| Quercus | CSC454/4527 uses Quercus |
+| Quercus | CSC454/4527 uses Quercus extensively. CSC491 uses Quercus for Announcements, and for the Participation assignment writeup submission and grading, as well as grading and assignment feedback for all other assignments. |
 | In Person | Hallway conversations. If you decide anything here, write it down somewhere else on your Team's GitHub Repo |
 | Issues and tracking boards | Team: Use this heavily as a decision record on most topics. Making use of GitHub Issues shows participation from all users (including non-technical) and will be a part of your grade in CSC454/2527<br> CSC491/2600: When you have a problem that needs to be fixed and are comfortable talking about it in the open |
 | GitHub Releases | For your team repository, use this as a method to record assignment submission for CSC491/2600 |
