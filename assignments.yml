@@ -227,7 +227,6 @@ user:
         **Participation on GitHub**
 
         - Participated in GitHub Issues & Submitted GitHub PRs.
-        - Paragraph is provided in Quercus (-100% on this section if not provided).
         - Due as you pass in your software.
 
         **Participation in lectures/courses**
@@ -244,7 +243,7 @@ user:
         - Adhered to team principles, communicated regularly/effectively, etc.
         - Provided substantial feature development / software to the course
         - Paragraph is provided in Quercus (-100% on this section if not provided).
-        - Due as you pass in your software.
+        - Due as you pass in your software (April 09, 2025).
       worth: 100.0
     due_date: 2025-04-09T23:59:59-04:00
     multiple_due_dates: true
