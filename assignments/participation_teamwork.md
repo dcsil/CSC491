@@ -7,7 +7,6 @@ You are expected to be active in the following:
 - GitHub Issues for your team
 - Team Standups via Slack
 - Contributing (commits and PRs) to the repositories your team creates (it doesn't have to be all of them if you make multiple!)
-- Online Lectures Chat
 - The DCSIL-hosted Slack
 - Class discussions and general day-to-day operations
 - Team meetings and other aspects of your team principles

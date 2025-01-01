@@ -13,8 +13,8 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 3 | Wednesday, January 22 2025   | - | Scope, Sequencing, and Project Management | TBD |
 | 4 | Wednesday, January 29 2025   | - | Testing & CI | - |
 | - | Monday, February 3 2025   | ❗A3 Due | - | - |
-| 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | AI Applications  | TBD |
-| 6 | Wednesday, February 12 2025  | - | AI Core Infrastructure | Speakers from Cohere: TBA |
+| 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | AI Applications  | [Elias Tragas](https://www.linkedin.com/in/elias-tragas-a5642163): Staff TLM @ Stack AV |
+| 6 | Wednesday, February 12 2025  | - | AI Core Infrastructure | [Arkady Arkhangorodsky](https://ca.linkedin.com/in/arkadyark): Member of Technical Staff @ Cohere |
 | - | Sunday, February 15 2025   | ❗A4 Due | - | - |
 | 7 | Wednesday, February 19 2025  | - | Reading Week | - | 
 | 8 | Wednesday, February 26 2025      | - | Work in Class, Instructor Away | TBD on TA Tutorial | 
