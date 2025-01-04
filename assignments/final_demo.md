@@ -14,14 +14,14 @@ The goals of the demo are:
 
 ---
 
-- [Initial Requirements](#initial-requirements)
+- [Requirements](#requirements)
 - [Submission](#submission)
 - [Questions or Concerns](#questions-or-concerns)
 - [Rubric](#rubric)
 
 ---
 
-# Initial Requirements
+# Requirements
 
 The demo should include the following:
 

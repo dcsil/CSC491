@@ -33,7 +33,7 @@
 
 **Merged pull requests:**
 
-- Remove market from A1 initial requirements [\#18](https://github.com/dcsil/CSC491/pull/18) ([rhuts](https://github.com/rhuts))
+- Remove market from A1 requirements [\#18](https://github.com/dcsil/CSC491/pull/18) ([rhuts](https://github.com/rhuts))
 - fix broken link on schedule to assignments [\#17](https://github.com/dcsil/CSC491/pull/17) ([Zylphrex](https://github.com/Zylphrex))
 - Update bonus.md to fix indenting [\#16](https://github.com/dcsil/CSC491/pull/16) ([RyanMarten](https://github.com/RyanMarten))
 
