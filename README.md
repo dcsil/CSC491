@@ -49,24 +49,24 @@ interactive. Students may hear from guest lecturers from the field.
 
 **Important**: There is also an application process on [the DCSIL website](https://www.dcsil.ca/student-courses).
 
-### Expectations and evaluation of Students
+### Expectations and evaluation of students
 
-In general we expect students to come prepared to be guided, mentored, and to work hard throughout the term. This is not an easy course and there is a lot of work, but it is a course former students regularly describe as "having taught me more than all my other courses" and "having taught concepts I use on a daily basis as a software engineer". Despite this, the teaching staff make themselves available via Slack as needed and will help guide and mentor you. The teaching staff is here to help you succeed as long as you put the effort in, effectively contribute to your team, and communicate (that last one is important!) In order for students to be successful in this course and their team, here is a subset of expectations students should have:
+In general we expect students to come prepared to be guided, mentored, and to work hard throughout the term. This is not an easy course and there is a lot of work, but it is a course former students regularly describe as "having taught me more than all my other courses" and "having taught concepts I use on a daily basis as a software engineer". Despite this, the teaching staff make themselves available via Slack as needed and will help guide and mentor you. The teaching staff is here to help you succeed as long as you put the effort in, effectively contribute to your team, and communicate (that last one is important!). In order for students to be successful in this course and their team, here is a subset of expectations students should have:
 
 - Students will actively participate in all assignments and communicate regularly with their team
-  - Any absences will be communicated in advance to both the team and instructor
+  - Any absences will be communicated in advance to both the team and instructor.
 - Students will write code and substantially contribute to their team's software/data stack.
   - Doing product or design work is great, but it is not a replacement for software in this course. Of course, if you are also designing or doing another role, we won't expect _as much_ coding. Talk to the instructor to make sure you're striking a good balance.
-- Students will adapt and self-teach any technologies their team chooses for their team's project (Instructor does not choose the techs)
-- Students will record all work using GitHub Issues, GitHub Pull Requests, and learn the GitHub / Git platforms if required
+- Students will adapt and self-teach any technologies their team chooses for their team's project (Instructor does not choose the techs).
+- Students will record all work using GitHub Issues, GitHub Pull Requests, and learn the GitHub / Git platforms if required.
 
-All of these expectations are in place, combined with mentorship and guidance, so that we can evaluate your abilities around:
+All of these expectations are in place, combined with mentorship and guidance, so that we can evaluate your ability to:
 
 - Write software and learn new technologies as required
 - Design and architect software systems
 - Manage and execute software projects
 - Collaborate with other roles (business, finance, etc)
-- Set up a proper "Software Development Lifecyle" (SDLC) including continuous integration, testing, and deploys
+- Set up a robust "Software Development Lifecyle" (SDLC) including continuous integration, testing, and deployments
 
 With these expectations and evaluation principles, we know you'll be better prepared for the software industry.
 
