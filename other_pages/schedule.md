@@ -32,7 +32,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 
 **Summary**
 
-- Lectures are primarilyy syncronous via the Learn Software application
+- Lectures are primarily syncronous during lecture time
 - We will try to bring in some guest speakers
 - 1 TA Lecture
 - 4-5 class working periods

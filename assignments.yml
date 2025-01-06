@@ -203,7 +203,7 @@ team:
       description: All repositories have at least a "B" Grade on Code Climate.
       worth: 10.0
     - section: "[Infrastructure] Operational Excellence"
-      description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors in the Learn Software App.
+      description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors.
       worth: 5.0
     - section: "[Assignment Meta] Video"
       description: A short video (~1.5 to 3 min) with a short write up (some bullet points explaining the video) has been provided that indicates the flows that have been implemented. This allows the teaching staff to mark and is often highly valued in a production company. Please note any areas which are still under development, or not fully implemented. Keep in mind the majority of the paths _should_ be implemented.

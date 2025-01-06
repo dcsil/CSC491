@@ -25,7 +25,7 @@ Note that some of these can be easily tracked (GitHub issues, Pull Requests, com
 - Students make a demonstrable effort to join a team by EOD of the first week of class in which you have CSC454/2527 and CSC491/2600 (e.g. if you only have CSC491/2600 in the first week, this is due by the end of the next week)
 - Teams are required to enable and set up standups. CSC491 Students are required to answer the standups at least 8 of the 12 weeks, though they are recommended to answer every week for their team's benefit.
   - Standups must include the questions "What did you work on since the last update?" and "What do you plan to work on next?"
-- Students are required to comment on the "Participation" assignment on the Learn Software app. It must include a paragraph outlining:
+- Students are required to comment on the "Participation" assignment on Quercus. It must include a paragraph outlining:
   - An overview of the work they did for all team projects and assignments
   - An overview of work other CSC491/2600 students did for the CSC491/2600 assignments
   - A general sentiment if you think the work was split fairly
