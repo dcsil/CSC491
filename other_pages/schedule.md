@@ -17,9 +17,9 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 6 | Wednesday, February 12 2025  | - | Use Case Reviews | [Arkady Arkhangorodsky](https://ca.linkedin.com/in/arkadyark): Member of Technical Staff @ Cohere - AI Core Infrastructure|
 | - | Sunday, February 16 2025   | ❗A4 Due | - | - |
 | 7 | Wednesday, February 19 2025  | - | Reading Week | - | 
-| 8 | Wednesday, February 26 2025      | - | TA Tutorial, Instructor Away | - | 
+| 8 | Wednesday, February 26 2025      | - | Instructor Away, Work in Class | [Allan Zhao](https://ca.linkedin.com/in/yuchi-allan-zhao): TA Tutorial - Topic TBD |
 | - | Monday, March 3 2025   | ❗A5 Due | - | - |
-| 9 | Wednesday, March 5 2025     | ❗A6 Demo (2/4) | Student Demos | TBD* | 
+| 9 | Wednesday, March 5 2025     | ❗A6 Demo (2/4) | Student Demos | TBD* |
 | 10 | Wednesday, March 12 2025    | -| Work in Class | TBD* | 
 | 11 | Wednesday, March 19 2025    | - | Work in Class | [Nick Frosst](https://www.nickfrosst.com/): Co-founder @ Cohere - AMA| 
 | 12 | Wednesday, March 26 2025    | ❗A6 Demo (3/4) | Technical Speaking, Writing & Branding  | - |
