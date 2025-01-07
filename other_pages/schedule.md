@@ -15,7 +15,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | - | Monday, February 3 2025   | ❗A3 Due | - | - |
 | 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | AI Applications  | [Elias Tragas](https://www.linkedin.com/in/elias-tragas-a5642163): Staff TLM @ Stack AV |
 | 6 | Wednesday, February 12 2025  | - | AI Core Infrastructure | [Arkady Arkhangorodsky](https://ca.linkedin.com/in/arkadyark): Member of Technical Staff @ Cohere |
-| - | Sunday, February 15 2025   | ❗A4 Due | - | - |
+| - | Sunday, February 16 2025   | ❗A4 Due | - | - |
 | 7 | Wednesday, February 19 2025  | - | Reading Week | - | 
 | 8 | Wednesday, February 26 2025      | - | Work in Class, Instructor Away | TBD on TA Tutorial | 
 | - | Monday, March 3 2025   | ❗A5 Due | - | - |
@@ -32,7 +32,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 
 **Summary**
 
-- Lectures are primarily syncronous during lecture time
+- Lectures are primarily syncronous during lecture time.
 - We will try to bring in some guest speakers
 - 1 TA Lecture
 - 4-5 class working periods
