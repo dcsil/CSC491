@@ -10,21 +10,21 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | - | Monday, January 13 2025   | ❗A1 Due | - | - |
 | 2 | Wednesday, January 15 2025   | - | Technical Decision Making & Strategy | [Nayeem Zen](https://ca.linkedin.com/in/nayeemzen): Co-founder & CTO @ [Pluto](https://www.getpluto.com/) |
 | - | Monday, January 20 2025   | ❗A2 Due | - | - |
-| 3 | Wednesday, January 22 2025   | - | Scope, Sequencing, and Project Management | TBD |
-| 4 | Wednesday, January 29 2025   | - | Testing & CI | - |
+| 3 | Wednesday, January 22 2025   | - | Project Management ; Testing & CI | TBD* |
+| 4 | Wednesday, January 29 2025   | - | Data Platforms & Analytics Landscape | TBD* |
 | - | Monday, February 3 2025   | ❗A3 Due | - | - |
-| 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | AI Applications  | [Elias Tragas](https://www.linkedin.com/in/elias-tragas-a5642163): Staff TLM @ Stack AV |
-| 6 | Wednesday, February 12 2025  | - | AI Core Infrastructure | [Arkady Arkhangorodsky](https://ca.linkedin.com/in/arkadyark): Member of Technical Staff @ Cohere |
+| 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | Student Demos | [Elias Tragas](https://www.linkedin.com/in/elias-tragas-a5642163): Staff TLM @ Stack AV - Data & AI Infrastructure for Autonomous Vehicles |
+| 6 | Wednesday, February 12 2025  | - | Use Case Reviews | [Arkady Arkhangorodsky](https://ca.linkedin.com/in/arkadyark): Member of Technical Staff @ Cohere - AI Core Infrastructure|
 | - | Sunday, February 16 2025   | ❗A4 Due | - | - |
 | 7 | Wednesday, February 19 2025  | - | Reading Week | - | 
-| 8 | Wednesday, February 26 2025      | - | Work in Class, Instructor Away | TBD on TA Tutorial | 
+| 8 | Wednesday, February 26 2025      | - | TA Tutorial, Instructor Away | - | 
 | - | Monday, March 3 2025   | ❗A5 Due | - | - |
-| 9 | Wednesday, March 5 2025     | ❗A6 Demo (2/4) | Work in Class, Data Platforms & Analytics Landscape | - | 
-| 10 | Wednesday, March 12 2025    | -| Work in Class | - | 
-| 11 | Wednesday, March 19 2025    | - | Work in Class | - | 
-| 12 | Wednesday, March 26 2025    | ❗A6 Demo (3/4) | Work in Class, Technical Speaking, Writing & Branding  | - |
+| 9 | Wednesday, March 5 2025     | ❗A6 Demo (2/4) | Student Demos | TBD* | 
+| 10 | Wednesday, March 12 2025    | -| Work in Class | TBD* | 
+| 11 | Wednesday, March 19 2025    | - | Work in Class | [Nick Frosst](https://www.nickfrosst.com/): Co-founder @ Cohere - AMA| 
+| 12 | Wednesday, March 26 2025    | ❗A6 Demo (3/4) | Technical Speaking, Writing & Branding  | - |
 | - | Friday, March 28 2025   | ❗Bonus Due | - | - |
-| 13 | Wednesday, April 2 2025  | ❗A6 Demo (4/4) | Last day of class - Demos of your Software | - | 
+| 13 | Wednesday, April 2 2025  | ❗A6 Demo (4/4) | Last day of class - Demos of your projects | - | 
 | - | Wednesday, April 9 2025   | ❗A7 Due<br>❗Participation Comment Due | - | - |
 
 **Notes**
