@@ -1,12 +1,6 @@
 Video + Audio Recording
 ---
 
-This course, including your participation, will be recorded on video and will be available to students in the course for viewing remotely and after each session.
-
-Course videos and materials belong to your instructor, the University, and/or other source depending on the specific facts of each situation, and are protected by copyright. In this course, you are permitted to download session videos and materials for your own academic use, but you should not copy, share, or use them for any other purpose without the explicit permission of the instructor.
-
-For questions about recording and use of videos in which you appear please contact your instructor.
-
 ### Student Recording
 
 Students may create audio-recordings of the lectures for their personal use. Recordings are intended to permit lecture content review so as to enhance understanding of the topics presented. Audio-recordings are not substitutes for attending class.
