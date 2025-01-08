@@ -6,7 +6,7 @@ It may seem like you have a lot of time to build your application - it isn't a l
 | Week | What you should get done | Milestone |
 | --- | --- | --- |
 | 1 | Teams should be formed and selected. You should start talking about the problem and deciding on a project | Team Selection  |
-| 2 | Projects should be decided by end of this week. Pivots are still possible after the fact. Team should be finding normals and team principles should be adopted | Team Principles |
+| 2 | Projects should be decided by end of this week. Pivots are still possible after the fact. Team should be finding normal cadence of work and team principles should be adopted | Team Principles |
 | 3 | Team will still be finding normal cadence of work. Team diversity assignment will force the rest of that. Project path should be decided this week | Team Forming / Project Decision |
 | 4 | Hello World Application created based on project path. CI and tests setup (yes I know this is for A5, but I suggest doing it now. It's easy to start early, harder to start later!). General A3 work started | General Project Setup |
 | 5 | With the general project setup, you should focus on the lowest level needs first. For example, start your ML/Heuristic Model if applicable. Otherwise start understanding how to breakdown your problem. Form and in depth roadmap | Start project, Roadmap formed |
