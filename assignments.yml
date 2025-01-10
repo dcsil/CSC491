@@ -253,7 +253,7 @@ user:
     worth: 2
     bonus: true
     file: assignments/bonus.md
-    submission: Dev.To
+    submission: Blog Platform + Link on Quercus
     breakdown:
     - section: Work
       description: General work according to the bonus assignment description

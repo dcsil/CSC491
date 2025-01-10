@@ -1,6 +1,6 @@
 # Bonus Assignment
 
-This course has the option of completing a bonus assignment, where you can [write a blog post on dev.to](./bonus/option_1.md). The bonus is worth 2% of your mark, and you cannot obtain more than a 2% bonus.
+This course has the option of completing a bonus assignment, where you can [write a blog post on a blog platform](./bonus/option_1.md), or [attend a local technology meetup and share your takeaways on a blog platform or LinkedIn](./bonus/option_2.md). The bonus is worth 2% of your mark, and you cannot obtain more than a 2% bonus.
 
 
 ## Questions or Concerns?
