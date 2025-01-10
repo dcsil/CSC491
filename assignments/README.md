@@ -16,7 +16,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [Assignment 6](../assignments/a6.md)  | A6 - Class Demos | 6% | class | Multiple Due Dates |
 | [Software](../assignments/a7.md)  | Software | 40% | repo | April 09, 2025 |
 | [Participation, Teamwork, and Communication](../assignments/participation_teamwork.md)  | Participation, Teamwork, and Communication | 20% | N/A | Multiple Due Dates |
-| [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Dev.To | March 28, 2025 |
+| [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Blog Platform + Link on Quercus | March 28, 2025 |
 | | **Total** | 100% (+2%) | | |
 
 <!-- OVERVIEW END -->
