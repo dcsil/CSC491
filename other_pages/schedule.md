@@ -54,10 +54,12 @@ To help you keep on track, here are some general recommendations and guidelines 
 
 Here is an example of the progress I would expect for each demo slot:
 
-- Demo 1: Decisions and Tech Stack, at minimum a Hello World application in your chosen language/platform
-- Demo 2: Your application running on CI, which means some basic tests (at minimum). It should also be launched onto the web / mobile
-- Demo 3: Minimal front end, mobile, and back end (as applicable). Starting code for any data models. Some functionality
-- Demo 4: Full software, general functionality, note any shortcomings or areas to improve. Identify all main use cases implemented
+- Demo 1: Decisions and Tech Stack, at minimum a Hello World application in your chosen language/platform. Explain why you chose your techs, similar to the Stack Decisions requirements in A3. How does this all support your product?
+- Demo 2: Show your application running on CI, which means some basic tests (at minimum). Show us your test harness, what library did you choose, what troubles did you have?
+- Demo 3: You will describe a particularly tough technical problem you are working on, the troubles you’ve faced, and how you solved/are solving them.
+- Demo 4: Full software, general functionality, note any shortcomings or areas to improve. Identify all main use cases implemented. Identify use cases to be completed.
+
+Please see the [demos section](../assignments/a6.md) for more details on demos.
 
 ## Assignments
 
