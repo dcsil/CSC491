@@ -126,7 +126,7 @@ team:
         Communication was regular and effective & acted in accordance with team principles.
       worth: 15.0
       individual: true
-    due_date: 2025-02-15T23:59:59-05:00
+    due_date: 2025-02-16T23:59:59-05:00
     position: 4
     number: 4
   - name: A5 - Dev Env, Test Infrastructure, & Production Setup
@@ -157,7 +157,7 @@ team:
         Communication was regular and effective & acted in accordance with team principles.
       worth: 15.0
       individual: true
-    due_date: 2025-03-05T23:59:59-05:00
+    due_date: 2025-03-03T23:59:59-05:00
     position: 5
     number: 5
   - name: A6 - Class Demos
