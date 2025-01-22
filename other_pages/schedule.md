@@ -11,7 +11,7 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 2 | Wednesday, January 15 2025   | - | Technical Decision Making & Strategy | [Nayeem Zen](https://ca.linkedin.com/in/nayeemzen): Co-founder & CTO @ [Pluto](https://www.getpluto.com/) |
 | - | Monday, January 20 2025   | ❗A2 Due | - | - |
 | 3 | Wednesday, January 22 2025   | - | Priorization & Project Management | N/A - Work in Class |
-| 4 | Wednesday, January 29 2025   | - | Testing & CI | TBA |
+| 4 | Wednesday, January 29 2025   | - | Testing & CI | [Femke van Schoonhoven](https://www.femke.design/): Head of Design, Members @ Gusto ; Founder @ femke.design |
 | - | Monday, February 3 2025   | ❗A3 Due | - | - |
 | 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | Student Demos | [Elias Tragas](https://www.linkedin.com/in/elias-tragas-a5642163): Staff TLM @ Stack AV - Data & AI Infrastructure for Autonomous Vehicles |
 | 6 | Wednesday, February 12 2025  | - | Use Case Reviews | [Arkady Arkhangorodsky](https://ca.linkedin.com/in/arkadyark): Member of Technical Staff @ Cohere - AI Core Infrastructure <br><br>[Olivia Markham](https://www.linkedin.com/in/omarkham/): Member of Technical Staff @ Cohere - Model Training|
