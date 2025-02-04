@@ -13,13 +13,13 @@ This is a class schedule indicating what we aim to do each week and the recommen
 | 3 | Wednesday, January 22 2025   | - | Priorization & Project Management | N/A - Work in Class |
 | 4 | Wednesday, January 29 2025   | - | Testing & CI | [Femke van Schoonhoven](https://www.femke.design/): Head of Design, Members @ Gusto ; Founder @ femke.design |
 | - | Monday, February 3 2025   | ❗A3 Due | - | - |
-| 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | Student Demos | [Elias Tragas](https://www.linkedin.com/in/elias-tragas-a5642163): Staff TLM @ Stack AV - Data & AI Infrastructure for Autonomous Vehicles |
+| 5 | Wednesday, February 5 2025  | ❗A6 Demo (1/4) | Student Demos | N/A - Work in Class |
 | 6 | Wednesday, February 12 2025  | - | Use Case Reviews | [Arkady Arkhangorodsky](https://ca.linkedin.com/in/arkadyark): Member of Technical Staff @ Cohere - AI Core Infrastructure <br><br>[Olivia Markham](https://www.linkedin.com/in/omarkham/): Member of Technical Staff @ Cohere - Model Training|
 | - | Sunday, February 16 2025   | ❗A4 Due | - | - |
 | 7 | Wednesday, February 19 2025  | - | Reading Week | - | 
 | 8 | Wednesday, February 26 2025      | - | Instructor Away, Work in Class | [Allan Zhao](https://ca.linkedin.com/in/yuchi-allan-zhao): TA Tutorial - Topic TBD |
 | - | Monday, March 3 2025   | ❗A5 Due | - | - |
-| 9 | Wednesday, March 5 2025     | ❗A6 Demo (2/4) | Student Demos | [Cody Mazza-Anthony](https://www.linkedin.com/in/cody-mazza-anthony): Staff MLE @ Shopify |
+| 9 | Wednesday, March 5 2025     | ❗A6 Demo (2/4) | Student Demos | [Elias Tragas](https://www.linkedin.com/in/elias-tragas-a5642163): Staff TLM @ Stack AV - Data & AI Infrastructure for Autonomous Vehicles |
 | 10 | Wednesday, March 12 2025    | -| Data Platforms & Analytics Landscape | N/A - Work in Class |
 | 11 | Wednesday, March 19 2025    | - | Work in Class | [Nick Frosst](https://www.nickfrosst.com/): Co-founder @ Cohere - AMA| 
 | 12 | Wednesday, March 26 2025    | ❗A6 Demo (3/4) | Technical Speaking, Writing & Branding  | - |
