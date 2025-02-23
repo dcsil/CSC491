@@ -90,7 +90,7 @@ team:
       worth: 20.0
     - section: Roadmap
       description: |
-        Roadmap clearly captures in-depth details of the short term future (next week weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term).
+        Roadmap clearly captures in-depth details of the short term future (next few weeks), some light details about the medium term (towards the end of the term), and high level goals for the future (past the end of the term).
         Roadmap is defined in _GitHub Issues_ and labelled using labels, milestones, or projects.
         Includes plans for user research.
       worth: 20.0
