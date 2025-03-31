@@ -197,10 +197,10 @@ team:
         The application has a consistent look and feel. You didn't rely on default styles (see below). The flows are not incoherent. This will be a highly subjective area, so feel free to ask for advice before submission (please don't ask the day before, or day of, submission). [Checklist for accessiblity](./accessibility_checklist.md) is filled out and submitted in the team repo
       worth: 10.0
     - section: "[Infrastructure] Test Coverage"
-      description: Tests should cover at least 65% of your application and upload to Code Climate.
+      description: Tests should cover at least 65% of your application as demonstrated by an example CI run using tooling of choice.
       worth: 15.0
     - section: "[Infrastructure] Code Quality"
-      description: All repositories have at least a "B" Grade on Code Climate.
+      description: All repositories have at least one tool measuring or enforcing code quality, explained in the write-up under a 'Code Quality' section.
       worth: 10.0
     - section: "[Infrastructure] Operational Excellence"
       description: CI, Exceptions, Logging, and all other services listed in the requirements & `service.yml` example are all setup. Bootstrap script works. Service.yml is uploaded with no errors.
