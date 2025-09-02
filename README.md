@@ -4,16 +4,26 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 
 ## Table of Contents
 
-- [CSC491/2600](#csc4912600)
-  - [Table of Contents](#table-of-contents)
-  - [Course Overview](#course-overview)
-    - [Requirements to take this course](#requirements-to-take-this-course)
-    - [Expectations and evaluation of students](#expectations-and-evaluation-of-students)
-    - [Required Materials/Software](#required-materialssoftware)
-  - [Lecturer](#lecturer)
-    - [Office Hours](#office-hours)
-  - [Time and Location](#time-and-location)
-  - [I don't like something about this course](#i-dont-like-something-about-this-course)
+- [Course Overview](#course-overview)
+   - [Requirements to take this course](#requirements-to-take-this-course)
+   - [Expectations and evaluation of students](#expectations-and-evaluation-of-students)
+   - [Required Materials](#required-materialssoftware)
+- [Who is the lecturer?](#lecturer)
+   - [Office Hours](#office-hours)
+- [Time and Location](#time-and-location)
+- [Schedule](./other_pages/schedule.md)
+- [Assignments, Deliverables, Distribution of Grades](./assignments)
+   - [Suggested Work Schedule](./other_pages/suggested_work_schedule.md)
+- [Resources and Readings](./other_pages/resources_readings.md)
+- [Policies](./policies)
+   - [Attendance](./policies/attendance.md)
+   - [Communication](./policies/communications.md)
+   - [Late Policy](./policies/late_policy.md)
+   - [Midterms & Exams](./policies/midterms_and_exams.md)
+   - [Plagiarism](./policies/plagiarism.md)
+   - [Support and Accommodation](./policies/support_accommodation.md)
+   - [Team Grades](./policies/team_grades.md)
+   - [Repos](./policies/repositories.md)
 
 ## Course Overview
 
