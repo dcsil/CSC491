@@ -78,23 +78,34 @@ You will also need a [GitHub account](https://github.com/join).
 
 ## Lecturer
 
-Hello! My name is Michelle, and you can reach me at michelle.arkhangorodsky[at]mail.utoronto.ca.
+Hello! My name is Victoria, and you can reach me at victoria.bukta[at]mail.utoronto.ca.
+Note: I am still in the process to getting my email setup. In the mean time you can reach out to at vickybukta37[at]gmail.com.
 
-By day, I'm a Staff Software Engineer at dbt Labs, where I am the technical lead of the dbt Core open source project — a data transformation framework at the heart of the data analytics platform thousands of companies, including several from the Fortune 500, that is leveraged by a community of roughly 100,000 (and counting!) data practitioners.
+I currently work at Databricks, which is a data and AI company, as a Member of Product Staff. I don't have a realy title at the moment, but basically it means that I work as a Product Manager. 
 
-Prior to dbt Labs, I was a Staff Software Engineer at Shopify, building and advancing Shopify’s data platform capabilities - from telemetry and ingestion, all the way through to data transformation and visualization. During that time, I was also a Founding Engineer at Homecoming Health, a wellness platform designed for therapists to deepen their work with clients and simplify the administration of their practices.
+You may be wondering, why is a product manager teaching this course? Well I actually come from a technical background and now working in Product I am uniquely positioned with the skills to bring technical products to market.
 
-I get to call myself a proud alumnus of the University of Toronto, having completed both my BSc (Computer Science) and MScAC (Masters in Applied Computing) there. You can view my Github at [https://github.com/MichelleArk](https://github.com/MichelleArk) and my [LinkedIn Profile here](https://ca.linkedin.com/in/michelle-ark).
+A bit about me.
+
+Before Databricks I worked at Shopify where I was a Staff Engineer and then an Engineering Manager. I have run and build technical projects in the data engineering space. I left Shopify to join a startup called Tabular with the founders of the Apache Iceberg project, which originated at Netflix. I worked there as a Product Manager. We were then aquired in 2024, so here I am.
+
+I am a alumnus of the University of Toronto where I studied Computer Science with interested in AI and Operating Systems. I believe my operating systems background uniquely positioned me in the big data space. Everything is a systems problem and can broken down into core algorithms and methodology that we learn in our theory courses. Grab time with me and I'm happy to chat more!
+
+I have also been in a students in this very CSC491 class, and I was a TA years back. I'm happy to be back, and this time bringing some of my product background into the course.
+
+You can view my linked in and Github bellow.
+- https://www.linkedin.com/in/victoria-bukta/
+- https://github.com/Buktoria
 
 _All opinions are my own and do not reflect the opinion of current or former employers_.
 
 ### Office Hours
 
-Office hours are by appointment. Please email me at michelle.arkhangorodsky[at] mail.utoronto.ca, though messaging me on DCSIL's Slack group is more likely to get a response.
+Office hours are by appointment. Please email me at victoria.bukta[at]mail.utoronto.ca.
 
 ## Time and Location
 
-Class is on Wednesday from 6-9PM EST. If you are not in a time zone that aligns with EST, please let me know early!
+Class is on Thursdays from 6-9PM EST. 
 
 - If we are in person, we will meet in the [DCSIL Lab in Gerstein Library](./other_pages/map.md)
 - If we are online, we will meet on Zoom
@@ -111,4 +122,4 @@ Please [submit an issue](https://github.com/dcsil/CSC491/issues/new) on this rep
 
 That said, remember that your changes or concerns aren't guaranteed to be addressed how you want. I (the instructor) have the final say.
 
-If you prefer to speak privately, please email me or message me on Slack.
+If you prefer to speak privately, please email me.
