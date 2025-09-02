@@ -6,18 +6,19 @@ There are a number of assignments that make up your final grade, the weights are
 <!-- OVERVIEW START -->
 
 
-| Assignment | Description | Weight | Submission Location | Due Date |
-| --- | --- | --- | --- | --- |
-| [Assignment 1](../assignments/a1.md)  | A1 - Team Introduction, Team Setup | 2% | repo | January 13, 2025 |
-| [Assignment 2](../assignments/a2.md)  | A2 - Team Exploration - Bias and Diversity Reflection | 4% | repo | January 20, 2025 |
-| [Assignment 3](../assignments/a3.md)  | A3 - Tech Choices, Architecture Diagram, Roadmap | 12% | repo | February 03, 2025 |
-| [Assignment 4](../assignments/a4.md)  | A4 - UX Research w/Prototype, Roadmap Updates | 8% | repo | February 16, 2025 |
-| [Assignment 5](../assignments/a5.md)  | A5 - Dev Env, Test Infrastructure, & Production Setup | 8% | repo | March 03, 2025 |
-| [Assignment 6](../assignments/a6.md)  | A6 - Class Demos | 6% | class | Multiple Due Dates |
-| [Software](../assignments/a7.md)  | Software | 40% | repo | April 09, 2025 |
-| [Participation, Teamwork, and Communication](../assignments/participation_teamwork.md)  | Participation, Teamwork, and Communication | 20% | N/A | Multiple Due Dates |
-| [Bonus Assignment](../assignments/bonus.md) (Bonus) | Bonus Assignment | 2% | Blog Platform + Link on Quercus | March 28, 2025 |
-| | **Total** | 100% (+2%) | | |
+| Assignment | Description | Weight | Method | Submission Location | Due Date |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| [A1](../assignments/a1.md) | Team Introduction, Team Setup | 2% | Written | Repo | Sept 8th |
+| [A2](../assignments/a2.md) | Team Exploration \- Bias and Diversity Reflection | 2% | Written | Repo | Sept 17th |
+| [A3](../assignments/a3.md) | CUJ \+ Demo Present a critical user journey | 6% | Presentation \+ Written | Inclass and repo | Repo Submission \- Sept 24 Demo \- Sept 25 |
+| [A4](../assignments/a4.md) | Initial Project Roadmap Product Definition Milestone breakdown Code release pipeline | 9% | Written | Repo | Repo Submission \- Oct 1 Demo \- Oct 2 |
+| [A5](../assignments/a5_6_8_9.md) | Class Demo 1 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Oct 8 Demo \- Oct 9 |
+| [A6](../assignments/a5_6_8_9.md) | Class Demo 2 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Oct 15 Demo \- Oct 16 |
+| A7 | Competitive CUJ (critical user journey) | 6% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 5 Demo \- Nov 6 |
+| [A8](../assignments/a5_6_8_9.md) | Class Demo 3 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 12 Demo \- Nov 13 |
+| [A9](../assignments/a5_6_8_9.md) | Class Demo 4 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 19 Demo \- Nov 20 |
+| FINAL | Final Software Software 50% Presentation 20% Live Demo  Architecture Outline learns and pivots Poster Project 20% Interactive demo Reflection 10% Individual | 40% | Written \+ presentation | Repo, Live Presentation, Live poster project | Repo Submission \- Nov 25 Demo \- Nov 26 |
+|  | Participation, Teamwork, and Communication   Best 4/6 Attendance and asking questions. | 3% |  | In class participation (individual) | CUJ 1, Competitive CUJ 1, 4 Product Demos |
 
 <!-- OVERVIEW END -->
 
