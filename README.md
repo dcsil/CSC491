@@ -4,26 +4,16 @@ University of Toronto's Capstone Design Course through the [Department of Comput
 
 ## Table of Contents
 
-- [Course Overview](#course-overview)
-   - [Requirements to take this course](#requirements-to-take-this-course)
-   - [Expectations and evaluation of students](#expectations-and-evaluation-of-students)
-   - [Required Materials](#required-materialssoftware)
-- [Who is the lecturer?](#lecturer)
-   - [Office Hours](#office-hours)
-- [Time and Location](#time-and-location)
-- [Schedule](./other_pages/schedule.md)
-- [Assignments, Deliverables, Distribution of Grades](./assignments)
-   - [Suggested Work Schedule](./other_pages/suggested_work_schedule.md)
-- [Resources and Readings](./other_pages/resources_readings.md)
-- [Policies](./policies)
-   - [Attendance](./policies/attendance.md)
-   - [Communication](./policies/communications.md)
-   - [Late Policy](./policies/late_policy.md)
-   - [Midterms & Exams](./policies/midterms_and_exams.md)
-   - [Plagiarism](./policies/plagiarism.md)
-   - [Support and Accommodation](./policies/support_accommodation.md)
-   - [Team Grades](./policies/team_grades.md)
-   - [Repos](./policies/repositories.md)
+- [CSC491/2600](#csc4912600)
+  - [Table of Contents](#table-of-contents)
+  - [Course Overview](#course-overview)
+    - [Requirements to take this course](#requirements-to-take-this-course)
+    - [Expectations and evaluation of students](#expectations-and-evaluation-of-students)
+    - [Required Materials/Software](#required-materialssoftware)
+  - [Lecturer](#lecturer)
+    - [Office Hours](#office-hours)
+  - [Time and Location](#time-and-location)
+  - [I don't like something about this course](#i-dont-like-something-about-this-course)
 
 ## Course Overview
 
@@ -78,20 +68,23 @@ You will also need a [GitHub account](https://github.com/join).
 
 ## Lecturer
 
-Hello! My name is Victoria, and you can reach me at victoria.bukta[at]mail.utoronto.ca.
-Note: I am still in the process to getting my email setup. In the mean time you can reach out to at vickybukta37[at]gmail.com.
+Hello\! My name is Victoria, and you can reach me at victoria.bukta\[at\]mail.utoronto.ca.
 
-I currently work at Databricks, which is a data and AI company, as a Member of Product Staff. I don't have a realy title at the moment, but basically it means that I work as a Product Manager. 
+**Note:** I am still in the process of setting up my email. In the meantime, you can reach me at vickybukta37\[at\]gmail.com.
 
-You may be wondering, why is a product manager teaching this course? Well I actually come from a technical background and now working in Product I am uniquely positioned with the skills to bring technical products to market.
+I am currently a Member of Product Staff at Databricks, a data and AI company. While I don't have a formal title, my role is essentially that of a Product Manager.
+
+You might be curious why a product manager is teaching this course. I have a technical background, and my current role in Product has equipped me with a unique skill set to bring technical products to market.
 
 A bit about me.
 
-Before Databricks I worked at Shopify where I was a Staff Engineer and then an Engineering Manager. I have run and build technical projects in the data engineering space. I left Shopify to join a startup called Tabular with the founders of the Apache Iceberg project, which originated at Netflix. I worked there as a Product Manager. We were then aquired in 2024, so here I am.
+Prior to joining Databricks, I held positions as a Staff Engineer and later an Engineering Manager at Shopify, where I gained experience in leading and developing technical projects within data engineering. I then transitioned to Tabular, a startup founded by the creators of the Apache Iceberg project (which originated at Netflix), where I served as a Product Manager until the company's acquisition in 2024\.
 
-I am a alumnus of the University of Toronto where I studied Computer Science with interested in AI and Operating Systems. I believe my operating systems background uniquely positioned me in the big data space. Everything is a systems problem and can broken down into core algorithms and methodology that we learn in our theory courses. Grab time with me and I'm happy to chat more!
+As an alumnus of the University of Toronto, I specialized in Computer Science, with a keen interest in AI and Operating Systems. My background in operating systems provides a unique perspective within the big data landscape; I believe every challenge in this space can be viewed as a systems problem, solvable by breaking it down into core algorithms and methodologies learned in theoretical courses. I welcome the opportunity to discuss this further.
 
-I have also been in a students in this very CSC491 class, and I was a TA years back. I'm happy to be back, and this time bringing some of my product background into the course.
+Having been a student in CSC 491 and a TA years ago, I'm excited to return and incorporate my product background into the course.
+
+You can find my LinkedIn and GitHub profiles below.
 
 You can view my linked in and Github bellow.
 - https://www.linkedin.com/in/victoria-bukta/
