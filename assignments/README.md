@@ -14,7 +14,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [A4](../assignments/a4.md) | Initial Project Roadmap Product Definition Milestone breakdown Code release pipeline | 9% | Written | Repo | Repo Submission \- Oct 1 Demo \- Oct 2 |
 | [A5](../assignments/a5_6_8_9.md) | Class Demo 1 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Oct 8 Demo \- Oct 9 |
 | [A6](../assignments/a5_6_8_9.md) | Class Demo 2 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Oct 15 Demo \- Oct 16 |
-| A7 | Competitive CUJ (critical user journey) | 6% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 5 Demo \- Nov 6 |
+| [A7](../assignments/CUJ2.md) | Competitive CUJ (critical user journey) | 6% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 5 Demo \- Nov 6 |
 | [A8](../assignments/a5_6_8_9.md) | Class Demo 3 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 12 Demo \- Nov 13 |
 | [A9](../assignments/a5_6_8_9.md) | Class Demo 4 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 19 Demo \- Nov 20 |
 | FINAL | Final Software Software 50% Presentation 20% Live Demo  Architecture Outline learns and pivots Poster Project 20% Interactive demo Reflection 10% Individual | 40% | Written \+ presentation | Repo, Live Presentation, Live poster project | Repo Submission \- Nov 25 Demo \- Nov 26 |
