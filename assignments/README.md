@@ -17,7 +17,7 @@ There are a number of assignments that make up your final grade, the weights are
 | [A7](../assignments/CUJ2.md) | Competitive CUJ (critical user journey) | 6% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 5 Demo \- Nov 6 |
 | [A8](../assignments/a5_6_8_9.md) | Class Demo 3 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 12 Demo \- Nov 13 |
 | [A9](../assignments/a5_6_8_9.md) | Class Demo 4 \- 5 min demo Roadmap Update | 8% | Written \+ presentation | Inclass and repo | Repo Submission \- Nov 19 Demo \- Nov 20 |
-| FINAL | Final Software Software 50% Presentation 20% Live Demo  Architecture Outline learns and pivots Poster Project 20% Interactive demo Reflection 10% Individual | 40% | Written \+ presentation | Repo, Live Presentation, Live poster project | Repo Submission \- Nov 25 Demo \- Nov 26 |
+| FINAL(../FINAL.md) | Final Software Software, Live Demo, and Report | 40% | Repo Submission | Nov 26, Self Reflection Dec 6th |
 |  | Participation, Teamwork, and Communication   Best 4/6 Attendance and asking questions. | 3% |  | In class participation (individual) | CUJ 1, Competitive CUJ 1, 4 Product Demos |
 
 <!-- OVERVIEW END -->
